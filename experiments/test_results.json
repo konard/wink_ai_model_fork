@@ -2,13 +2,13 @@
   {
     "file": "A Clockwork Orange_0066921_anno.txt",
     "expected": "18+",
-    "predicted": "12+",
+    "predicted": "6+",
     "match": false,
     "reasons": [
-      "умеренное насилие и угрозы"
+      "незначительное насилие или редкая грубая лексика"
     ],
     "scores": {
-      "violence": 0.68,
+      "violence": 0.322,
       "gore": 0.0,
       "sex_act": 0.0,
       "nudity": 0.0,
@@ -20,13 +20,13 @@
   {
     "file": "A Beautiful Mind_0268978_anno.txt",
     "expected": "12+",
-    "predicted": "16+",
+    "predicted": "0+",
     "match": false,
     "reasons": [
-      "интенсивное насилие и сцены убийств"
+      "контент без возрастных ограничений"
     ],
     "scores": {
-      "violence": 1.0,
+      "violence": 0.0,
       "gore": 0.0,
       "sex_act": 0.0,
       "nudity": 0.0,
@@ -44,7 +44,7 @@
       "интенсивное насилие и сцены убийств"
     ],
     "scores": {
-      "violence": 1.0,
+      "violence": 0.722,
       "gore": 0.0,
       "sex_act": 0.0,
       "nudity": 0.0,
@@ -74,13 +74,13 @@
   {
     "file": "28 Days Later_0289043_anno.txt",
     "expected": "18+",
-    "predicted": "16+",
+    "predicted": "12+",
     "match": false,
     "reasons": [
-      "интенсивное насилие и сцены убийств"
+      "умеренное насилие и угрозы"
     ],
     "scores": {
-      "violence": 1.0,
+      "violence": 0.579,
       "gore": 0.0,
       "sex_act": 0.0,
       "nudity": 0.0,

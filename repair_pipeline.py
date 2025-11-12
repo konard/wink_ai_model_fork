@@ -80,7 +80,8 @@ CONTEXT_TEMPLATES = {
 VIOLENCE_WORDS = [
     r'\bkill\w*', r'\bshoot\w*', r'\bshot\b', r'\bstab\w*',
     r'\bknife\b', r'\bgun\w*', r'\bpistol\b', r'\brifle\b',
-    r'\bexplod\w*', r'\bblast\w*', r'\battack\w*', r'\bbeat\w*',
+    r'\bexplod\w*', r'\bblast\w*', r'\battack\w*',
+    r'\bbeating\b', r'\bbeaten\b', r'\bbeats\b',  # Exclude "a beat" (screenplay term)
     r'\bcorpse\b', r'\bdead\b', r'\bmurder\w*', r'\bviolence\b',
     r'\bterrorist\b', r'\bhostage\b', r'\brip(ped|s)? apart\b',
     r'\bthug(s)?\b', r'\bterror\b', r'\bfight(ing)?\b',
@@ -151,6 +152,9 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
     FALSE_POSITIVES = [
         r'if (it|that|this) kills',
         r'(it|that|this)\'ll kill',
+        r'(it|that|this) (will|would) kill',
+        r'gonna.*kill',  # "gonna get the brass ring if it kills him"
+        r'kill (you|me|him|her|them|us)',  # Figurative "kills you/me"
         r'make love',  # Неэксплицитное выражение
         r'kill time',
         r'dressed to kill',
@@ -161,15 +165,25 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
         r'shoot for',
         r'shot in the dark',
         r'long shot',
+        r'shot at',  # Попытка/шанс (like "got a shot at")
+        r'light[ -]?shot',
         r'fight (for|to see|to|for the)',  # Метафора борьбы
+        r'fighting (for|against)',  # "fighting for bread crumbs"
         r'won the war',  # Метафора победы
+        r'war (ration|time|era|years)',  # Historical context
+        r'(world|civil|cold) war',
         r'battles? (with|against|for)',  # Метафорическая борьба
         r'attack(ed|ing)? (the|a) problem',
-        r'shot at',  # Попытка/шанс
         r'speed of light',  # Физическое описание
+        r'explosion of',  # "explosion of wood" (not literal explosion)
+        r'explod(e|ed|ing) (with|into)',  # Figurative
         r'fight back tears',
         r'fight for (justice|freedom|rights)',
-        r'fighting? (cancer|disease|illness)'
+        r'fighting? (cancer|disease|illness)',
+        r'dead serious',  # Figurative
+        r'pool table',  # "shot" in pool context
+        r'bank shot',  # Pool/basketball
+        r'\ba beat\b',  # Screenplay term for pause
     ]
 
     false_positive_patterns = [re.compile(p, re.I) for p in FALSE_POSITIVES]
@@ -191,6 +205,10 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
             if not is_false_positive:
                 matches.append(excerpt)
                 count += 1
+
+    # Additional context-based filtering: if excerpt is very short (< 10 chars)
+    # it's likely a parsing artifact
+    matches = [m for m in matches if len(m.strip()) > 10]
     return count, matches[:5]  # Возвращаем до 5 примеров
 
 
@@ -267,9 +285,14 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     ctx = features['context_scores']
 
     # Базовая нормализация по длине сцены
-    # Увеличиваем знаменатель чтобы снизить ложные срабатывания
-    violence_raw = features['violence_count'] / (L / 200)
-    gore_raw = features['gore_count'] / (L / 150)
+    # Используем более разумную формулу: (count / length) * scale_factor
+    # Это дает плавную оценку вместо скачков от 0 к 1
+    violence_density = features['violence_count'] / max(1, L)
+    gore_density = features['gore_count'] / max(1, L)
+
+    # Масштабируем: 1 упоминание на 50 слов = 0.2, на 25 слов = 0.4, на 10 слов = 1.0
+    violence_raw = violence_density * 100
+    gore_raw = gore_density * 100
 
     # КОНТЕКСТНАЯ КОРРЕКЦИЯ с использованием семантики
 

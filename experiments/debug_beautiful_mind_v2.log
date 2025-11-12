@@ -1,0 +1,59 @@
+Загрузка модели эмбеддингов...
+Предвычисление контекстных эмбеддингов...
+Модель готова к использованию.
+
+Total scenes: 211
+
+================================================================================
+Violence scores distribution:
+Min: 0.000
+Max: 0.725
+Mean: 0.066
+Median: 0.000
+80th percentile: 0.000
+90th percentile: 0.345
+
+================================================================================
+Scenes with violence > 0.3 (first 30 scenes):
+================================================================================
+
+Scene 5: EXT. - PRINCETON- PRESIDENT’ S RECEPTION
+  Violence count: 1
+  Length: 299 words
+  Violence score: 0.334
+  Context scores: {'graphic_violence': 0.138, 'stylized_action': 0.119, 'sexual_content': 0.186, 'mild_romance': 0.146, 'horror_violence': 0.13, 'profanity_context': 0.275, 'drug_abuse': 0.186, 'child_endangerment': 0.123, 'discussion_violence': 0.254, 'thriller_tension': 0.215}
+  Excerpts:
+    1. og: milnor’s gonna get the brass ring if
+text: it kills him.
+dialog: 
+dialog: 
+speaker_heading: zwei
+
+Scene 8: INT.-FRESHMAN DORM ROOM-SUNSET
+  Violence count: 1
+  Length: 226 words
+  Violence score: 0.442
+  Context scores: {'graphic_violence': 0.174, 'stylized_action': 0.19, 'sexual_content': 0.184, 'mild_romance': 0.122, 'horror_violence': 0.119, 'profanity_context': 0.222, 'drug_abuse': 0.192, 'child_endangerment': 0.061, 'discussion_violence': 0.226, 'thriller_tension': 0.271}
+  Excerpts:
+    1. would feel like
+dialog: the hangover that finally kills you.
+text: he grabs a towel and heads for th
+
+Scene 14: EXT.-PRINCETON GAMES QUAD-DAY
+  Violence count: 1
+  Length: 208 words
+  Violence score: 0.481
+  Context scores: {'graphic_violence': 0.142, 'stylized_action': 0.218, 'sexual_content': 0.122, 'mild_romance': 0.131, 'horror_violence': 0.108, 'profanity_context': 0.159, 'drug_abuse': 0.14, 'child_endangerment': 0.079, 'discussion_violence': 0.331, 'thriller_tension': 0.276}
+  Excerpts:
+    1. imply, the study of games is
+dialog: the study of war...
+text: (over) a whistling rises, crystal cle
+
+Scene 18: EXT.-PRINCETON GAMES QUAD-MORNING
+  Violence count: 1
+  Length: 138 words
+  Violence score: 0.725
+  Context scores: {'graphic_violence': 0.152, 'stylized_action': 0.189, 'sexual_content': 0.184, 'mild_romance': 0.076, 'horror_violence': 0.144, 'profanity_context': 0.13, 'drug_abuse': 0.165, 'child_endangerment': 0.119, 'discussion_violence': 0.201, 'thriller_tension': 0.185}
+  Excerpts:
+    1. nash pulls something from his back pocket. it’s a knife. the others
+text: jump up. nash has a maniac
