@@ -1,0 +1,4381 @@
+speaker_heading: SPIDER-MAN 2
+dialog: Written by
+dialog: Michael Chabon
+speaker_heading: FADE IN:
+scene_heading: OVER CENTRAL PARK
+text: Gorgeous fall day. Hot-chestnut weather. Spider-Man sails in
+text: off Central Park West on a line of silk. King of the
+text: Manhattan skyline. Swinging from a turret of the Dakota.
+speaker_heading: PETER (V.O.)
+dialog: Look at this guy.
+text: Sailing over the Sheep Meadow, bouncing off the top of
+text: Reptile House. Sharp turn onto Fifth Avenue, hard around the
+dialog: Plaza Hotel.
+speaker_heading: PETER (V.O.) (CONT'D)
+dialog: Look at him. Like he doesn't have a
+dialog: care in the world.
+speaker_heading: FIFTH AVENUE
+text: is a torrent of taxis and humans and steam from the manholes.
+text: He skims along it like a dragonfly, heading downtown.
+speaker_heading: PETER (V.O.) (CONT'D)
+dialog: You probably think it'd be cool to
+dialog: trade places with this guy. Styling
+dialog: costume. Awesome powers. Greatest
+dialog: damn city in the world.
+scene_heading: AT 36TH STREET
+text: He throws down a great big giant elastic band of webbing.
+text: Turns a couple of office towers into an enormous slingshot.
+text: Curls into a ball and hits the rubber band dead center.
+speaker_heading: PETER (V.O.) (CONT'D)
+dialog: Is that what you're thinking?
+text: He gets just enough bounce to catapult him up over the top of
+text: the Empire State Building. Toe barely grazes the needle tip.
+speaker_heading: PETER (V.O.) (CONT'D)
+dialog: Well, maybe you'd better think
+dialog: again.
+text: He pinballs down Fifth Avenue and then out
+scene_heading: OVER UNION SQUARE
+text: Heading for the Flatiron Building, with the big DAILY BUGLE
+text: sign. Circling in, alighting on its roof.
+speaker_heading: PETER (V.O.) (CONT'D)
+dialog: Maybe you'd better wait until you
+dialog: see the kind of day this guy's
+dialog: having.
+scene_heading: J. JONAH JAMESON'S BIG UGLY MUG
+text: So steamed the very air around his head shimmers.
+speaker_heading: JIT
+dialog: Parker, you're fired!
+scene_heading: INT. JJJ'S OFFICE — DAY
+text: He tosses a stack of photos at PETER PARKER. They're awfully
+dialog: nice photos. Maybe a little too nice.
+speaker_heading: JIJJ (CONT'D)
+text: Dogs catching Frisbees in the
+dialog: park... Some fat old geezer playing
+text: chess... Autumn leaves.
+speaker_heading: PETER
+dialog: I was thinking maybe the Bugle
+dialog: could show another side of New York
+dialog: for a change—-
+speaker_heading: JIT
+dialog: Parker, if I believed for one
+dialog: second those pictures were an
+dialog: accurate reflection of this town,
+dialog: I'd hang myself from the top of the
+dialog: Chrysler Building. I don't pay you
+dialog: to be a sensitive artist! I pay you
+dialog: because for some reason that psycho
+dialog: Spider-Man will pose for you.
+speaker_heading: PETER
+dialog: Well, it's like I told you, Mr.
+dialog: Jameson. Spider-Man won't let me
+dialog: take any more pictures of him. He
+dialog: says you only use them to slander
+dialog: him. You've turned the whole city
+dialog: against him.
+speaker_heading: JIT
+dialog: A fact I'm very proud of! Having
+dialog: that lunatic around has weakened
+dialog: the moral fiber of New York! The
+dialog: police are demoralized! The
+dialog: citizens lazy! Now get your pretty
+dialog: little "portfolio" out of my face
+dialog: before I go into a diabetic coma!
+speaker_heading: PETER
+dialog: Mr. Jameson, please. You can't fire
+dialog: me. Even working two jobs I can
+dialog: barely make tuition, and Aunt May's
+dialog: social security doesn't amount
+dialog: to...
+text: JJJ mimes tying a noose around his neck, throws his head
+text: back, thrusts his tongue from his mouth. Peter folds.
+speaker_heading: PETER (CONT'D)
+dialog: What if--all right, what if I did
+dialog: have a shot of Spider-Man?
+text: Peter reaches into his knapsack and takes out a manila
+text: folder. Slides out a fantastic shot of Spider-Man saving a
+text: nun from an oncoming meat truck. JJJ eyes it hungrily.
+speaker_heading: JIT
+dialog: It stinks. I'll give you three
+dialog: hundred.
+text: He reaches for it. Peter snatches it back.
+speaker_heading: PETER
+dialog: No. There's no way I can sell you
+dialog: this shot... until you agree to run
+dialog: more balanced coverage of Spider-
+dialog: Man.
+speaker_heading: JIT
+dialog: I take my journalistic
+dialog: responsibility to present balanced
+dialog: coverage very seriously Parker, you
+dialog: know that. Fine. I'll give you
+dialog: four. I'll nominate him for a
+dialog: goddamn medal, Parker. You have my
+dialog: word.
+speaker_heading: PETER
+dialog: Five.
+speaker_heading: JIT
+dialog: That's outrageous.
+dialog: (beat)
+dialog: Done.
+text: Peter lets go of the photo, then sits a moment. Knowing he
+dialog: has just made big mistake.
+speaker_heading: JJJ (CONT'D)
+dialog: All right, you've wasted enough of
+dialog: my precious time, Parker. Get lost.
+speaker_heading: PETER
+dialog: Time. Right.
+text: Peter snaps out of it, looks at his watch: oh, shit. He leaps
+text: to his feet, grabs his knapsack, and runs out.
+scene_heading: EXT. MINEO'S PIZZA — DAY
+text: Peter rides up on an elderly Kawasaki: RUMBLING, COUGHING,
+text: SPUTTERING. Not a well machine. On the back, a hotbox with
+text: the Mineo's logo. Peter leaps off and runs into the pizzeria.
+text: A PAGER beeps.
+scene_heading: INT. MINEO'S — DAY
+text: Peter hurtles into the shop, out of breath, frantic. Yanks
+text: the pager from his pocket.
+speaker_heading: PETER
+dialog: Sorry! Mr. Aziz, I'm sorry.
+text: MR. AZIZ hangs up the phone. The BEEPING stops. Life has
+text: disappointed Mr. Aziz; Peter's only a side-manifestation.
+speaker_heading: MR. AZIZ
+dialog: Twenty-one minutes ago, in comes an
+dialog: order from the high-quality law
+dialog: firm of Foehn, Harmattan & Buran
+dialog: for seventeen extra large deep-dish
+dialog: pizzas. In eight minutes, I am
+dialog: defaulting on the Mineo's twenty-
+dialog: nine minute guarantee. Indeed
+text: numerous banners and signs proclaim
+dialog: the sacred number.
+speaker_heading: MR. AZIZ (cont'd)
+dialog: Then not only will I be receiving
+dialog: no money for these pizzas, I will
+dialog: lose the customer forever to Pizza
+dialog: Yurt. And they are killing me
+dialog: already.
+speaker_heading: PETER
+dialog: Why didn't you send Salim?
+speaker_heading: MR. AZIZ
+dialog: Salim was deported yesterday. I
+dialog: have no hope but you. You must make
+dialog: it in time.
+text: He starts thrusting pizzas at Peter, stacking them in Peter's
+text: arms until we can't see his face anymore.
+speaker_heading: MR. AZIZ (CONT'D)
+dialog: You are a nice young man, Peter,
+dialog: but you are not dependable. This is
+dialog: the last chance I can give you. You
+dialog: must cross forty-two blocks in
+dialog: seven and one half minutes. Or your
+dialog: ass is to be fired.
+text: Peter checks the big Mineo's clock. It's 5:44.
+scene_heading: EXT. MINEO'S - NIGHT
+text: Peter runs to his bike, dumps the pizzas into the hotbox.
+text: Climbs on, kicks it. Nothing. Kicks it again. Nothing.
+speaker_heading: PETER
+dialog: I don't believe this!
+text: Mr. Aziz watches, contemplating suicide. Peter kicks it once
+text: more and it starts. He goes slobbering off.
+scene_heading: EXT. NEW YORK STREET — DAY
+text: Peter halted. Looks at his watch. 5:47.
+text: A van has collided with a Town Car. The DRIVERS are on the
+text: street, shouting and threatening each other. The PASSENGER
+text: gets out, too. The three men come to blows.
+text: Peter pops up onto the sidewalk. Mistake. An old lady ina
+text: wheelchair comes out of nowhere. Peter hits the brakes.
+text: Swerves. The bike stalls. He kicks wildly at the starter:
+text: dead. And it's 5:48.
+text: Peter leaps off the bike. With a mighty heave he wrenches the
+text: hotbox right off the back of the motorcycle, snapping bolts,
+text: twisting metal. Then he ducks into an alley.
+scene_heading: EXT. LOWER MANHATTAN - NEW YORK STREET — AERIAL SHOT
+text: Spider-Man swings toward the Woolworth Building. One-handed,
+text: since the hotbox is tucked under his left arm. At the end of
+text: each arc he freefalls until he shoots the next strand of web.
+text: Below, two boys chase each other and a basketball into the
+text: street. A car is coming right at them.
+text: Spider-Man's spider sense tingles. He looks down; sees the
+text: trajectories of car, ball and boys, pure vectors of physics
+text: plotted against the air: collision.
+text: Spider-Man heaves the hotbox away. It arcs heavenward. With
+text: his hand now free, he shoots a strand of web.
+text: A lasso of web encircles the boys and yanks the boys toward
+text: the opposite side of the street.
+text: Sets them on their feet.
+text: The car squeals past, horn BLARING.
+text: The boys, dazed. The basketball shoots in, a web-slung chest
+text: pass. One of them catches it. They look up at the sky.
+text: Spider-Man catches up to the hotbox as it hurtles earthward,
+text: past him. Snags it with a web and drags it back up. The
+text: Woolworth Building looms. Spider-Man snags its pinnacle and
+text: arcs around it, circling in.
+scene_heading: INT. WOOLWORTH BUILDING - LAW OFFICES - DAY
+text: Peter rushes in with the stack of pizzas. Out of breath, kind
+text: of wild looking. A big, silly grin on his face.
+speaker_heading: PETER
+dialog: Pizza time!
+text: He sets the pizzas on the desk. The receptionist stares at
+text: him, then at the pizzas: disgust. Peter looks--there's a gob
+text: of webbing on the top box. Sheepish he scrapes it off.
+speaker_heading: PETER (CONT'D)
+dialog: Sorry.
+scene_heading: INT. MINEO'S PIZZA — EVENING
+text: Peter struts in, grinning.
+speaker_heading: PETER
+dialog: Mr. Aziz! I'm back! I--
+text: Mr. Aziz whirls on him.
+speaker_heading: MR. AZIZ
+dialog: You are fired, that is what you
+dialog: are. The pizzas arrived three
+dialog: minutes late! Peter, the twenty-
+dialog: nine minute guarantee is a promise.
+dialog: I know a promise means nothing to
+dialog: you, but to me it is serious.
+speaker_heading: PETER
+dialog: It's serious to me, too, Mr. Aziz.
+dialog: Honestly. Please, I need this job,
+dialog: please give me another chance.
+text: Mr. Aziz shakes his head. Peter gives up.
+scene_heading: EXT. OSBORN/PARKER APARTMENT - NIGHT
+text: Peter's tired old Kawasaki pulls up in front of the building,
+text: backfiring. He climbs off it.
+text: Trudges into the lobby.
+text: SPIDER SENSE. Peter's surging HEARTBEAT. A shadow looms.
+text: Peter jumps back, then lashes out and grabs hold of his
+text: attacker. Ducks, twists, flips a very large man over his
+text: shoulder. The guy SLAMS against the lobby floor. It's a beefy
+text: SECURITY GOON. Peter has flattened the guy.
+speaker_heading: GOON
+dialog: Christ, I think you broke my
+dialog: tailbone!
+speaker_heading: PETER
+dialog: Oh, man, I'm sorry, I--
+speaker_heading: GOON
+dialog: I was only going ask for your ID!
+speaker_heading: PETER
+dialog: My ID? Since when--?
+scene_heading: INT. OSBORN/PARKER APARTMENT - NIGHT
+text: Peter takes out his key. But instead of a keyhole there's a
+text: card-reader. He's puzzled. The door flies open.
+speaker_heading: HARRY
+dialog: What the hell you did to my
+dialog: security guy?
+speaker_heading: PETER
+dialog: He surprised me! I grabbed him and
+dialog: he... he must have lost his
+dialog: footing.
+dialog: (how lame!)
+dialog: I think they just waxed the lobby.
+dialog: (changing the subject)
+dialog: What's with the muscleman, Harry?
+dialog: Did somebody threaten you?
+speaker_heading: HARRY
+dialog: You're kidding, right? Pete, I'm
+dialog: lucky Spider-Man hasn't killed me
+dialog: already! He knows I'll spend every
+dialog: last dime I have to take him down.
+speaker_heading: PETER
+dialog: Harry. I'm worried about you.
+dialog: You've really gotten kind of...
+text: He takes a slender hybrid PDA/remote from his pocket. Taps
+text: some buttons.
+text: Titanium bars slide across the windows. Steel shutters come
+text: down. Laser trip-beams spin a glowing web across the living
+text: room. Another beam lances from the ceiling and performs a
+text: retinal scan of Peter. He flinches.
+speaker_heading: PETER (CONT'D)
+dialog: ...paranoid.
+text: Harry holds up the screen of his super-Palm. It reads ID
+scene_heading: CONFIRMED: PARKER, PETER.
+speaker_heading: HARRY
+dialog: I guess you're who you seem to be.
+speaker_heading: PETER
+dialog: Please just tell me you didn't put
+text: a camera in the bathroom.
+text: Harry taps, and all the barriers retract; the beams die. He
+text: gets right in Peter's face. Trying to be funny but with weird
+dialog: intensity.
+speaker_heading: HARRY
+dialog: You could save me a buttload of
+dialog: money and trouble if you would just
+dialog: tell me how you always manage to
+dialog: find the guy.
+scene_heading: .»PETER'S FACE
+dialog: The impossibility of the situation; the pain.
+speaker_heading: PETER
+dialog: I would if I could. I swear to you.
+text: Harry stares at him, searching his face. Something there that
+text: he doesn't quite believe. Peter struggles to meet Harry's
+text: searching gaze. Falters. Fails.
+speaker_heading: HARRY
+dialog: That's fine. No, I'm serious. You
+dialog: don't need me, I don't need you.
+dialog: We're not even really friends, are
+dialog: we?
+text: Takes two tickets from his pocket, tosses them on the table.
+speaker_heading: HARRY (CONT'D)
+dialog: Hear are those tickets you wanted.
+dialog: That Octavius guy at Columbia. Have
+dialog: fun.
+speaker_heading: THE TICKETS
+scene_heading: THE ANANSI PROJECT: AN INTERIM REPORT. PROFESSOR OTTO
+scene_heading: OCTAVIUS. DAVIS AUDITORIUM. 6PM.
+speaker_heading: PETER
+dialog: Octavius! Otto Octavius is the god
+dialog: of arachnid biomimetics. Harry, I
+dialog: know you're mad at me, but come on!
+dialog: You can't miss that!
+text: Peter is perfectly serious. Harry can't help smiling.
+speaker_heading: HARRY
+dialog: Lord have mercy on my soul.
+speaker_heading: PETER
+dialog: You promised you'd introduce me to
+dialog: him!
+text: The rage flares up again in Harry.
+speaker_heading: HARRY
+dialog: And you promised to help me get
+dialog: Spider Man!
+dialog: (subsides )
+dialog: All right, fine. I keep my
+dialog: promises.
+speaker_heading: PETER
+dialog: Great! Okay! Let's bolt.
+text: They start to go out. Harry stops by the door, points to the
+text: answering machine.
+speaker_heading: HARRY
+dialog: Oh, there was a message. For you. I
+dialog: didn't feel like picking up.
+text: Peter goes to the machine, presses play.
+speaker_heading: MJ'S VOICE
+dialog: Hello. This is Mary Jane Watson,
+dialog: star of the Broadway stage.
+dialog: (beat)
+dialog: You guys, I'm so nervous!
+text: Peter checks his watch.
+speaker_heading: PETER
+dialog: Hmm. Geez, I hope the lecture's
+dialog: over by 7:30. I need to get down to
+dialog: the theater by 8.
+speaker_heading: HARRY
+dialog: Didn't you already see that lame
+dialog: show of hers?
+dialog: 10.
+speaker_heading: PETER
+dialog: Twice.
+speaker_heading: HARRY
+dialog: Christ, Pete, I know you're her
+dialog: boyfriend, and all, but that's
+text: above and beyond.
+speaker_heading: PETER
+dialog: Hey, tonight she's playing the
+dialog: lead! She's the, you know, the
+dialog: understudy.
+text: As they walk out of the apartment.
+speaker_heading: HARRY
+dialog: What, did she poison the leading
+dialog: lady?
+speaker_heading: PETER
+dialog: Shut up. And I'm not her boyfriend.
+text: Bars descend, indicators flare, as they shut the door.
+scene_heading: INT. COLUMBIA UNIVERSITY — DAVIS AUDITORIUM — NIGHT
+text: Packed house of researchers, reporters, interested members of
+text: the public. PROF. CZERNOWITZ is introducing Otto Octavius.
+speaker_heading: CZERNOWITZ
+dialog: .+.as a doctoral candidate he was
+dialog: dazzling. Now I'm afraid he's left
+dialog: us mere mortals far behind. It's my
+dialog: great honor to present, director of
+dialog: the Anansi Project, winner of a
+dialog: National Science Medal, Dr. Otto
+dialog: Octavius.
+text: APPLAUSE as Otto strides out. Younger than you might expect.
+text: Wearing a long black Gaultier jacket. Smiling like a man
+text: with a surprise in store for us. He and Czernowitz meet. A
+text: stiffness between them. Czernowitz looks intimidated.
+speaker_heading: OTTO
+dialog: Frank.
+speaker_heading: CZERNOWITZ
+dialog: Otto.
+text: They shake hands awkwardly. Then Otto strides to the podium.
+text: Grins, self mocking. Behind him on a table, a violin and
+text: bow. Piano to one side.
+text: Laughter.
+dialog: 11.
+speaker_heading: OTTO
+dialog: He told you I was "dazzling," but
+dialog: what he's too nice to bring up is
+dialog: was what an insufferable little
+dialog: wretch I was.
+text: The lights dim; spot on Otto. Behind him a large
+text: flatpanel monitor descends. As he talks, the display will
+text: mirror, expand on and illustrate his words.
+speaker_heading: OTTO (CONT'D)
+dialog: Biomimetics seeks to adapt for
+dialog: human use the technologies of other
+dialog: species. We poor humans have always
+dialog: envied our fellow creatures their
+dialog: talents; soon we will share them.
+text: Peter is rapt; Harry is playing Tetris on his Palm Pilot.
+speaker_heading: OTTO (CONT'D)
+dialog: My own researches have been into
+dialog: arachnid technology: adapting, the
+dialog: remarkable abilities of spiders,
+dialog: their web-spinning abilities, their
+text: astonishing, almost precognitive
+dialog: impulse control.
+text: Harry notices how spellbound Peter is; leans over.
+speaker_heading: HARRY
+dialog: I will never understand this spider
+dialog: thing of yours.
+text: Peter takes no notice.
+speaker_heading: OTTO
+dialog: We had some success with
+dialog: manipulating spider RNA. But it's
+dialog: in the area of octopedal locomotion
+dialog: that things are really getting
+dialog: exciting. The goal is to provide
+dialog: stable motion on every possible
+dialog: kind of terrain and superior
+text: manipulation at a distance.
+text: Otto steps out from behind the podium.
+speaker_heading: OTTO (CONT'D)
+dialog: You can't imagine the sheer number
+dialog: crunching might required to control
+dialog: and coordinate eight legs. Really
+dialog: tough. Actually, it was a chance
+dialog: visit to the Bronx Zoo that gave me
+dialog: the key insight.
+dialog: 12.
+text: He walks toward the monitor, which displays an octopus, along
+text: with a diagram of its nervous system.
+speaker_heading: OTTO (CONT'D)
+text: The octopus has the equivalent of a
+text: powerful processor in each leg,
+text: networked to the central unit in
+dialog: her brain.
+text: The display fades to a diagram of the Rig, eight legs
+text: networked to each other through and to the center. The
+text: center is empty; then a diagrammatic human operator appears.
+speaker_heading: OTTO (CONT'D)
+dialog: Now, so far the capacity to control
+dialog: the full complement of eight legs
+dialog: is beyond our capacity. But we've
+dialog: been able to implement a similar
+dialog: system using...
+text: Otto takes a step forward, smiling a little coyly. Then from
+text: somewhere behind him a pair of glinting pseudopods snake out.
+text: The black stealth-bomber glint of superhard ceramic. A gasp
+text: from the audience.
+speaker_heading: OTTO (CONT'D)
+dialog: Four!
+text: Harry sits up. Puts away the Palm Pilot.
+text: The 'pods hover over Otto's shoulders a moment, undulant.
+speaker_heading: OTTO (CONT'D)
+dialog: I call it a self-articulating
+dialog: network, but I'm afraid the name
+text: that has stuck is Otto's Octopus.
+text: One 'pod reaches to tap him on the shoulder.
+speaker_heading: OTTO (CONT'D)
+dialog: Yes? Oh, thank you. It is a little
+dialog: warm in here.
+text: The arms help him out of the jacket, and as it comes off,
+text: another pair of pseudopods is revealed. The audience goes a
+dialog: little nuts.
+text: One 'pod takes up the violin; another, the bow. The next pair
+text: snake out toward the piano; Otto strikes up a Grieg sonata.
+text: With his own two hands, he takes out a fat cigar and lights
+text: it; puffs contentedly.
+text: The audience, amazed, afraid, half suspecting that it's alla
+dialog: prank.
+dialog: 13.
+text: Peter with a look of open-mouthed wonder. The music breaks
+dialog: off.
+text: Now the 'pods assume a configuration like a daddy long-legs,
+text: "toes" splayed against the dais, arching high into the air.
+text: Among them hangs, perfectly at ease, Otto. One at a time, in
+text: turn, he raises and lowers each foot.
+speaker_heading: OTTO (CONT'D)
+dialog: Each one of my four assistants here
+dialog: is equipped with its own hundred-
+dialog: teraflop processor.
+text: He begins to stride back and forth across the stage on his
+text: four dancing pseudopods.
+speaker_heading: OTTO (CONT'D)
+dialog: Computer architecture so
+dialog: sophisticated and capable of
+dialog: learning it approaches
+dialog: consciousness.
+text: He sinks back onto the two lower 'pods. The upper ones snake
+text: out around him.
+speaker_heading: OTTO (CONT'D)
+dialog: At times I feel the Rig here has a
+dialog: life of its own.
+text: LEFT UPPER PSEUDOPOD takes a piece of paper from Otto's
+text: pocket. RIGHT UPPER produces a pen and scrawls something
+text: across the paper. Then the 'pod with the paper slaps it
+text: across Otto's back. He turns around, as if confused, walking
+text: on the lower pseudopods. The sign says GEEK!
+text: Laughter from the audience. They're eating this up. Otto,
+text: back to the audience, whirls his head around.
+speaker_heading: OTTO (CONT'D)
+dialog: Given time, and a strong enough
+dialog: host...
+dialog: (rueful smile)
+dialog: ...its systems and my own would
+text: actually begin to integrate with
+dialog: each other--
+text: The pseudopods rip away his shirt, revealing THE RIG nestled
+text: right up against his spine, overlapping his own flesh.
+speaker_heading: OTTO (CONT'D)
+dialog: --Merge into one organism.
+dialog: 14.
+speaker_heading: AUDIENCE
+text: Shock, even revulsion at the sight of the implants. Then a
+text: surge of APPLAUSE.
+speaker_heading: PETER
+text: Gapes, bowled over.
+speaker_heading: PETER
+dialog: You have to introduce me to him!
+speaker_heading: HARRY
+dialog: Don't you have a diva waiting?
+text: Peter checks his watch.
+speaker_heading: PETER
+dialog: I can make it.
+scene_heading: INT. DAVIS AUDITORIUM - BACKSTAGE - NIGHT
+text: Otto lurches in on the pseudopods to a ROAR of applause from
+dialog: the hall.
+text: The 'pods telescope in and Otto falls to the floor. But one
+text: of the 'pods remains slightly extended.
+text: OTTO'S team crowds around him and drag him over to the NEURAL
+text: COUPLER UNIT. They mount it around him.
+text: The TEAM LEADER twists the Rig's LATCH. This is a dial with a
+text: glass tube at its heart, like a spirit level, with a single
+text: glowing bubble of air. He aligns the bubble with a mark and--
+text: WHAM-the 'pod LASHES out and knocks the Team Leader aside.
+scene_heading: INT. DAVIS AUDITORIUM - AUDIENCE - NIGHT
+text: People are still applauding. But Peter's spider-sense
+text: TINGLES. He gets up.
+speaker_heading: PETER
+dialog: I'll meet you in the lobby.
+speaker_heading: HARRY
+dialog: Where are you--
+speaker_heading: PETER
+dialog: Too much coffee.
+scene_heading: INT. DAVIS AUDITORIUM - BACKSTAGE - NIGHT
+text: The Rig is out of control. Otto hangs from it like a doll.
+text: The pseudopods whip and buzzsaw. Smash lightbulbs. Scatter
+dialog: humans.
+dialog: 15.
+text: Spider-Man leaps into the middle of the cyclone. He tries to
+text: reach Otto. The 'pods feint and block.
+text: He fires web snares at the pods; pins them to the wall. They
+text: break free, lash out. Knock Spider-Man down.
+text: Spidey leaps up, fires a strand in either direction, snags
+text: the upper two ‘pods. Yanks them toward himself. Ties them in
+text: a knot. They GRIND in protest. Keeping a grip on the knot
+dialog: he--
+text: Spins a thick cocoon around each of the lower ones, padding
+text: each out until it's a gently flailing balloon. The Rig
+text: struggles for a moment, then powers down. Otto falls to the
+text: floor, the ‘pods knotted across him.
+text: Spider-Man kneels beside Otto. Making sure he's okay.
+text: The Team Members hurry over with the coupler. Spider-Man gets
+text: out of the way. The team gets Otto into i and the Team Leader
+text: twists the Latch.
+text: SPLORCH. The rig pops open. Otto falls out.
+text: We see that Otto's bare, muscular back is enhanced by four
+text: neural sockets. They roll him over.
+text: Otto opens his eyes. The irises of his eyes seem to be
+text: leaking into the whites: pinwheels. Strange flowers. Octopi.
+speaker_heading: ASSISTANT
+dialog: Look at his eyes!
+speaker_heading: ASSISTANT 2
+dialog: We're overdoing the endorphin push.
+speaker_heading: TEAM LEADER
+dialog: That's the symbiosis routines in
+text: the Rig. It's actually trying to
+text: reconfigure his optical functions.
+speaker_heading: OTTO
+dialog: Was I... was I fighting Spider-Man?
+text: Everyone looks around at Spider-Man. Spider-Man's not there.
+text: Otto sits up. They try to help him.
+speaker_heading: OTTO (CONT'D)
+dialog: I'm fine! Thank you. I'm fine. Now,
+dialog: get off me.
+text: He stands up, shaky. Brushes off their helping hands.
+dialog: 16.
+speaker_heading: TEAM LEADER
+dialog: Otto, it was too long. You stayed
+text: in the Rig too long.
+speaker_heading: OTTO
+dialog: No, the problem is that I didn't
+dialog: stay in it long enough! My system
+dialog: never gets the chance to reach
+dialog: equilibrium with the Rig's!
+text: They stare at him. Is he serious? He looks around. Sees the
+text: broken light bulb. The slashed curtain. The shattered chair.
+text: He sits down.
+speaker_heading: OTTO (CONT'D)
+dialog: Maybe I stayed in the rig too long,
+dialog: I don't know.
+text: They bring him a glass of water and a clean shirt. He accepts
+text: their ministrations.
+speaker_heading: OTTO (CONT'D)
+dialog: Thank you. Thanks a lot, Teddy.
+dialog: (concerned)
+dialog: Are you all right? I didn't hurt
+dialog: you?
+speaker_heading: TEAM LEADER
+dialog: (relieved)
+dialog: I'm fine, chief.
+scene_heading: INT. DAVIS AUDITORIUM - BACKSTAGE CORRIDOR
+text: Harry introduces Peter to Otto; they're shaking hands. Otto
+text: looks a bit frazzled but basically fine.
+speaker_heading: HARRY
+dialog: Doesn't it hurt to be jacked into
+dialog: that thing?
+speaker_heading: OTTO
+dialog: Actually, thanks to the endorphin
+dialog: boosters it feels very good. Coming
+dialog: out's a bitch.
+speaker_heading: PETER
+dialog: It's so great to meet you. And the
+dialog: Rig's pretty--cool.
+speaker_heading: OTTO
+dialog: Still one or two--
+dialog: (twitches his head)
+dialog: Kinks to work out. But basically
+dialog: sound.
+dialog: 17.
+speaker_heading: PETER
+dialog: Actually, Doctor, I was hoping to
+dialog: hear you talk about the superspider
+dialog: research.
+speaker_heading: OTTO
+dialog: Ah. Well. Unfortunately we lost our
+dialog: funding for that project. I'm
+dialog: afraid it was rather poorly
+dialog: managed. And please... call me
+dialog: Otto. Any friend of the Osborns is
+dialog: my friend. The Rig's materials and
+dialog: kinetechnology is all Oscorp design
+dialog: and build. Norman Osborn was a huge
+dialog: supporter of my work. A steady and
+dialog: generous supporter. Not too mention
+text: a true original. A man, in a world
+dialog: of mediocrities. He's very sorely
+dialog: missed.
+text: At this mention of Norman, a shadow clouds Harry's face.
+speaker_heading: OTTO (CONT'D)
+dialog: So I hear you're into spiders.
+speaker_heading: PETER
+dialog: It's sort of a hobby.
+speaker_heading: OTTO
+dialog: And you guys had a--field trip? To
+dialog: our lab last year? I hope that was
+dialog: interesting?
+speaker_heading: PETER
+dialog: Oh, yeah. Changed my life.
+speaker_heading: HARRY
+dialog: Pete? Not that I really care, but
+dialog: don't you have an ego extravaganza
+dialog: to get to?
+text: Peter looks at his watch: it's 7:45.
+speaker_heading: PETER
+dialog: Jeez! Oh, my God. I have to go.
+dialog: Now!
+speaker_heading: OTTO
+dialog: Ego extravaganza?
+speaker_heading: PETER
+dialog: It's our friend--
+dialog: 18.
+speaker_heading: HARRY
+dialog: Your friend.
+speaker_heading: PETER
+dialog: --MJ. Mary Jane Watson. She's in
+dialog: this musical. She's the understudy
+dialog: and she's making her big debut in
+text: fifteen minutes.
+text: He shakes hands with Otto, then starts away.
+speaker_heading: PETER (CONT'D)
+dialog: You ought to check it out, I bet
+dialog: you'd really get into it.
+scene_heading: EXT. MARTIN BECK THEATER — NIGHT
+text: The Marquee reads: BRIDE! Over it, enormous cutouts of Dr.
+text: Frankenstein and the Bride. The name Deirdre DUNN plastered
+dialog: everywhere.
+text: A tour bus pulls up in front of the theater. The nameplate
+scene_heading: reads: MT. NEBO CENTER FOR ASSISTED LIVING. A BUNCH OF OLD
+text: LADIES file out.
+text: We're with two of the ladies, SOPHIE and ROSE. As they enter
+text: the lobby, they are each handed a program.
+text: Rose notices a leaf of paper poking from the program. Tugs it
+dialog: out.
+speaker_heading: ROSE
+dialog: What's this?
+scene_heading: THE PIECE OF PAPER
+text: DURING TONIGHT'S PERFORMANCE, THE ROLE OF ELIZABETH
+text: FRANKENSTEIN WILL BE PLAYED BY MARY JANE WATSON.
+speaker_heading: ROSE (CONT'D)
+dialog: Wouldn't you know it. Sixty dollars
+dialog: a ticket and we get the understudy.
+speaker_heading: SOPHIE
+text: Deirdre's probably in rehab again.
+scene_heading: INT. THEATER - BACKSTAGE - NIGHT
+text: Frenetic stagehands make last minute changes. Actors loiter
+text: in the wings. We travel down the wings, past actors and crew
+text: who crowd the stairs, down to the dressing rooms.
+text: MJ WATSON sits at the mirror, making little adjustments to
+text: her makeup.
+dialog: 19.
+text: She's in costume as Elizabeth Frankenstein and holding a
+text: blond wig in her hands. RENARD, the actor playing
+text: HENRY FRANKENSTEIN, lounges beside her, calm where she's
+text: worried. He's very good-looking.
+speaker_heading: RENARD
+dialog: Just remember, acting is reacting.
+dialog: Mo
+dialog: Got it.
+text: Clearly troubled rather than nervous. The door to the
+text: dressing room opens. MJ turns expectantly. ANOTHER ACTOR'S
+text: there, costumed as an Angry Villager.
+speaker_heading: MJ (CONT'D)
+dialog: Did you check Will Call?
+speaker_heading: ACTOR
+text: The ticket is still there.
+text: MJ looks sad. Puts on the wig, tugs it straight, and smiles
+text: at herself. Big theatrical smile. The show must go on.
+text: Renard pulls a chair over, sits down right beside MJ.
+speaker_heading: RENARD
+dialog: Hey, cheer up. There's a TV crew
+dialog: here, you know. From New York 1.
+dialog: They heard about your big debut.
+speaker_heading: MJ
+dialog: How did they hear?
+speaker_heading: RENARD
+dialog: I don't know. Somebody must have
+dialog: called them. Somebody who likes the
+dialog: way you... act.
+text: Flirting hard. He brushes a flake of mascara from her cheek.
+speaker_heading: RENARD (CONT'D)
+dialog: So, who is he, your Mr. No-Show?
+speaker_heading: MJ
+dialog: A friend of mine.
+speaker_heading: ACTOR
+dialog: Boyfriend?
+speaker_heading: MJ
+dialog: No. Just a friend. I thought he
+dialog: might want to see my debut, but I
+dialog: guess he doesn't.
+dialog: 20.
+speaker_heading: ACTOR
+dialog: Eh, who needs him?
+speaker_heading: MJ
+dialog: (resolute)
+dialog: That's what I say. Who needs him?
+text: The STAGE MANAGER comes in.
+speaker_heading: STAGE MANAGER
+dialog: MJ? You ready?
+scene_heading: I/E. THEATER — NIGHT
+text: Peter tears into the lobby. Runs up to the theater door. A
+text: burly USHER stops him.
+speaker_heading: USHER
+dialog: Whoa. You can't go in there. Nobody
+text: seated once the performance begins.
+text: Points to a sign which confirms this.
+speaker_heading: PETER
+dialog: But I--
+speaker_heading: USHER
+dialog: It's to help maintain the illusion.
+speaker_heading: PETER
+dialog: I understand. But I have to get in
+text: there. Mary Jane Watson is a friend
+dialog: of mine.
+speaker_heading: USHER
+dialog: And as far as I can tell, she is a
+dialog: very nice young lady.
+dialog: (beat)
+dialog: Nobody seated once the performance
+dialog: begins. You can go in at
+text: intermission.
+speaker_heading: PETER
+dialog: When's that?
+speaker_heading: USHER
+dialog: (checks watch)
+text: About forty-two minutes from now.
+scene_heading: MJ'S CAST HEADSHOT
+dialog: Nice picture. A little sultry.
+dialog: 21.
+scene_heading: INT. THEATER — LOBBY - NIGHT
+text: It's on a wall by the front doors. Peter's gazing at the
+text: picture. Just kind of amazed by how pretty she looks.
+text: Spider-sense TINGLES.
+text: SIREN in the distance. Faint SQUEAL of tires.
+scene_heading: INT. THEATER — ONSTAGE - NIGHT
+text: MJ as Elizabeth with Renard as Henry F. Henry is singing his
+text: big number, "I Created A Man." MJ emotes back at him. Her
+text: gaze strays toward the house.
+text: Right in the front row, a glaringly empty seat.
+text: Back on MJ. She sings.
+scene_heading: OUR TWO OLD LADIES
+text: Way at the at the back of the house.
+speaker_heading: ROSE
+dialog: She's terrible.
+scene_heading: INT. THEATER — NIGHT
+text: SIREN is louder. Peter ducks out into the street. Something
+text: is happening and he needs to stop it. It's coming from over
+dialog: on Broadway.
+text: A CAR flashes through the intersection of 45th and Ninth.
+text: Driving way too fast. In traffic. Skids. Smashes into a car.
+text: Then another. Then keeps on going downtown. Two seconds
+text: later, one two three police cruisers.
+text: Peter looks back at the theater. Then at his watch. Then back
+text: to the avenue.
+speaker_heading: PETER
+dialog: It's not your problem, Pete. It's
+dialog: the police's problem. It's not your
+dialog: problem.
+scene_heading: EXT. NINTH AVENUE - NIGHT
+speaker_heading: "CAR CHASE" SCENE (CC)
+text: The car roars down the avenue, weaving in and out. The
+text: cruisers in pursuit.
+text: It's a rag-top; THREE GUYS. Two in the back with machine
+text: guns. Oh, like Spider-Man didn't see that coming! Spider Man
+text: flies elegantly through their fire. Snags the two shooters.
+text: Pins them to light posts and hangs them out for the police.
+dialog: 22.
+text: Now Spider-Man turns to the DRIVER. Lands on the car. Is
+text: thrown off. Shot at. Keeps coming back.
+text: In the end he crawls under the car, comes over top, webs up
+text: the Driver's gun. Manages to get them both out just before
+text: the car slams into a big construction site dumpster and
+speaker_heading: EXPLODES.
+scene_heading: EXT. CONSTRUCTION SITE - NIGHT
+text: TWO POLICEMEN come running over. Spider-Man lowers the poor
+text: bastard down to them on a line, headfirst. They grab him and
+text: cuff him. One leads him away. The other looks up at Spider
+dialog: Man.
+speaker_heading: POLICEMAN 2
+dialog: There's no way I can not arrest you
+dialog: for that.
+speaker_heading: SPIDER-MAN
+dialog: Duly noted.
+text: He fires a web and swings back uptown.
+speaker_heading: POLICEMAN 2
+dialog: It's a lot safer in jail, Spider-
+dialog: Man!
+scene_heading: EXT. NINTH AVENUE - NIGHT
+text: Spider-Man, swings back toward the theater. Spider sense
+text: TINGLES. His head snaps left.
+text: Atop a building nearby, the flash of a sniper's rifle. The
+text: next instant a shot rings out. A bullet snips the dragline
+text: neatly in two. It goes slack and Spider-Man falls out of the
+text: sky. Spider-Man plummets to the ground.
+text: A MOTHER is pushing TWINS in a stroller. Right under him.
+text: Moving like a diver he twists around. Fires a web that snags
+text: a small billboard across the street. He stops falling.
+text: The webbing peels the entire top sheet off the billboard, in
+text: a single piece. Peter falls the last four feet or so. Manages
+text: to arrest his fall, slamming his shoulder into the pavement.
+text: Nearly hits the TWINS.
+speaker_heading: MOTHER
+dialog: Maniac! Idiot!
+text: Peter stumbles to his feet. Two big BRUISERS rush him. One
+text: carries a pair of heavy-duty handcuffs. They're on him.
+text: They're big, but Peter handles them easily with a little fake
+text: kung fu. Then he looks up.
+dialog: 23.
+text: Scans the skies over Ninth Avenue. All quiet. There's nothing
+dialog: there now.
+speaker_heading: TAUNTING MAN
+dialog: (0.S.)
+dialog: Hey, look. It's the ten million
+dialog: dollar man.
+text: Spider-Man looks down. And sees that a crowd has gathered
+text: around him. Most just staring at him like hungry dogs.
+speaker_heading: TAUNTING MAN (CONT'D)
+dialog: We get five, six guys together, we
+dialog: could take him. That's like, what,
+dialog: two million apiece. Come on.
+text: But he doesn't step forward. Nobody steps forward. Then a
+text: little kid steps forward. Twelve or thirteen.
+speaker_heading: KID
+dialog: You in for it now.
+text: The kid hands Spider-Man an early copy of tomorrow's Bugle.
+scene_heading: THE PHOTO PETER SOLD HIM TODAY(captioned SPIDER MAN ASSAULTS
+scene_heading: NUN!!!) and THE HEADLINE:
+dialog: WANTED -- $10,000,000 REWARD.
+speaker_heading: SPIDER-MAN
+dialog: Ten million dollars. I should
+dialog: arrest myself.
+text: Bounds right over them and then into the night.
+speaker_heading: SPIDER-MAN (CONT'D)
+dialog: Give it your best shot, New York.
+scene_heading: INT. MARTIN BECK THEATER — LOBBY - NIGHT
+text: Peter comes tearing back in. The lobby's ominously empty. The
+text: same usher stands there. Ready for Peter.
+speaker_heading: PETER
+dialog: Tell me I didn't miss intermission.
+text: In reply the usher just crosses his arms.
+scene_heading: INT. THEATER - NIGHT
+text: MJ is having a deep scene with the Monster and the Bride,
+text: just before the tragic conclusion.
+dialog: 24.
+text: At the back of the theater, one of the old ladies watches,
+text: expressionless. Her friend is sound asleep.
+scene_heading: EXT. THEATER - STAGE DOOR
+text: Peter waits, watching the door. Some actors come out. Peter
+dialog: perks up--no.
+text: Then she's there.
+speaker_heading: PETER
+dialog: MJ!
+text: She sees him, is pierced through by the sight of him--and
+text: keeps walking. He goes after her.
+speaker_heading: PETER (CONT'D)
+dialog: MJ. Please.
+text: She keeps going. He takes her by the arm. She shakes it off.
+text: She isn't going to even speak to him. On second thought-- She
+text: turns back to him.
+speaker_heading: MJ
+dialog: You know, when you said you wanted
+dialog: to be friends, I believed you.
+speaker_heading: PETER
+dialog: I do want to be friends.
+speaker_heading: MJ
+dialog: Well, then you aren't a very good
+dialog: friend, are you?
+speaker_heading: PETER
+dialog: I tried, MJ. I got here. I mean, I
+dialog: was a little late. They wouldn't
+dialog: let me in.
+speaker_heading: MJ
+dialog: But you missed everything! All of
+dialog: it! Why didn't you come in at
+dialog: intermission?
+text: Peter doesn't know how to answer this; can't lie fast enough.
+speaker_heading: PETER
+dialog: Well--there was an accident--in the
+dialog: street. I went to get a picture
+dialog: and--
+text: She doesn't want to hear it. Starts away again.
+dialog: She looks
+dialog: 25.
+speaker_heading: PETER (CONT'D)
+dialog: MJ. I do want to be your friend.
+dialog: I'm sorry. Please.
+text: at him. Is she softening? Peter will never know.
+text: Renard comes out of the theater. Checks out Peter.
+dialog: Gives her
+dialog: Pete. Her
+dialog: Peter the
+speaker_heading: RENARD
+dialog: Good night, MJ. You were wonderful.
+text: a big hug. When he lets go, MJ is staring right at
+dialog: look says, See? You could lose me. Renard gives
+text: fisheye and then walks off.
+speaker_heading: PETER
+dialog: MJ. You aren't-- are you...
+speaker_heading: MJ
+dialog: Renard's just a friend. Why. Do you
+dialog: wish I was seeing somebody? Would
+dialog: you like to get rid of me and for
+dialog: all?
+speaker_heading: PETER
+speaker_heading: MJ--
+speaker_heading: MJ
+dialog: No. No, I think you enjoy this idea
+dialog: you have that I'm going around
+dialog: carrying a torch for you. Which I'm
+dialog: not.
+dialog: (beat)
+dialog: No, I'm not seeing anybody, Peter.
+dialog: But you know what? I might meet
+dialog: someone. I might even fall in love
+dialog: with somebody. Tomorrow. And then
+dialog: nobody will be carrying a torch for
+dialog: you. And then what will you do?
+text: She's angry. He looks like he thinks she has a right to be.
+speaker_heading: PETER
+dialog: MJ. You don't know. You don't know
+dialog: how much I think about you. How
+dialog: much I--
+speaker_heading: MJ
+dialog: No, that's right. I don't know
+dialog: anything. I've known you since the
+dialog: first grade but I don't know
+dialog: anything about you.
+dialog: 26.
+text: Peter takes a step toward her. Looks into her eyes. Six
+text: inches of air separates him from having her.
+text: His PAGER goes off. He's embarrassed, fumbles with it.
+speaker_heading: PETER
+dialog: Sorry. It's--oh. It's Aunt May.
+dialog: She hardly ever pages me. I
+dialog: better--
+text: MJ watches him go. Typical.
+scene_heading: EXT. PAYPHONE - NIGHT
+text: Peter's on the phone, worried.
+speaker_heading: PETER
+dialog: Aunt May? Aunt May, what's the
+dialog: matter? Why are you crying?
+scene_heading: INT. AUNT MAY'S HOUSE - SIMULTANEOUS
+text: Aunt May's in her bathrobe, sitting at the kitchen table. Not
+text: so quietly losing it.
+speaker_heading: MAY
+dialog: What's the matter? I'm going out of
+dialog: my mind, that's what the matter! I
+dialog: can't take it any more!
+scene_heading: EXT. PAYPHONE - SIMULTANEOUS
+text: Peter is distressed.
+speaker_heading: PETER
+dialog: Okay, okay, Aunt May, settle down.
+dialog: I'm coming.
+text: He hangs up, and runs back down to the alley where he left
+text: MJ. But she's gone.
+scene_heading: EXT. TRIBOROUGH BRIDGE - NIGHT
+text: Peter races out to Queens on his lousy motorcycle.
+scene_heading: INT. AUNT MAY'S HOUSE - NIGHT
+text: Peter comes running into the house at top speed, tears into
+text: the kitchen.
+text: Aunt May's just sitting there, not crying. Scarily still,
+text: holding a cup of tea, in a pool of light. Nice plate of
+text: cookies beside her.
+dialog: 27.
+speaker_heading: PETER
+dialog: Aunt May? What--
+speaker_heading: MAY
+text: There's a fly.
+speaker_heading: PETER
+dialog: A fly?
+speaker_heading: MAY
+dialog: A fly, a bee, I don't know what it
+text: is. Buzzing all around the house,
+dialog: it's driving me insane! Who can
+dialog: sleep with a racket like that?
+dialog: PETER: Okay.
+speaker_heading: PETER
+dialog: All right. I'll take care of it.
+speaker_heading: MAY
+dialog: I tried to kill it myself, but I
+dialog: can't. I don't know where it is.
+text: Peter cocks an ear, his hearing spider-sharp.
+speaker_heading: PETER
+dialog: It's in the bedroom on your lamp.
+text: She gives him a look; how did he
+dialog: know that?
+scene_heading: INT. AUNT MAY'S HOUSE - BEDROOM
+text: Peter steps into the bedroom and closes the door behind him.
+text: His eyes dart to a porcelain shepherdess holding up a forty
+text: watt bulb and a gilt-edged shade.
+text: There on the shepherdess's bonnet perches a big fat juicy
+dialog: fly. If we could detect such things, we would sense that the
+text: fly feels a sudden alarm.
+scene_heading: INT. AUNT MAY'S HOUSE - KITCHEN
+text: Aunt May hears the THWING of Spidey's webbing and then a
+speaker_heading: SPLAT.
+text: Peter emerges from the bedroom, looking satisfied.
+speaker_heading: PETER
+dialog: Mission accomplished.
+text: A beat.
+dialog: 28.
+speaker_heading: MAY
+dialog: I'm sorry, Peter. I know you must
+dialog: think I'm losing my mind. It's
+dialog: just-- your uncle always killed the
+dialog: bugs around here.
+speaker_heading: PETER
+dialog: He was a handy guy to have around.
+dialog: (beat)
+dialog: I never realized how much I
+dialog: depended on his advice.
+speaker_heading: MAY
+dialog: Something on your mind?
+speaker_heading: PETER
+dialog: Well--
+speaker_heading: MAY
+dialog: You could talk to me, you know.
+speaker_heading: PETER
+dialog: Yeah, I know that. But I--
+speaker_heading: MAY
+dialog: Peter...
+dialog: (taking a chance)
+dialog: I've seen the change that has come
+dialog: over you since Ben died. Everyone
+dialog: has.
+text: Peter looks startled. Guilty.
+speaker_heading: PETER
+dialog: Change...? I don't... What do you
+dialog: mean?
+speaker_heading: MAY
+dialog: You have to grieve him, Peter. You
+dialog: have to let yourself mourn.
+speaker_heading: PETER
+dialog: Oh. Yeah.
+dialog: (beat)
+dialog: I wish I could.
+speaker_heading: MAY
+dialog: What?
+speaker_heading: PETER
+dialog: Oh--no, I mean, I know, you're
+dialog: right.
+dialog: 29.
+speaker_heading: MAY
+dialog: Sooner or later, Peter, you have to
+dialog: let it out. It might as well be
+dialog: now.
+text: Peter nods. Sits down. Weight of the world.
+speaker_heading: PETER
+dialog: I'm having a very hard day, Aunt
+dialog: May.
+text: She slides the plate of cookies over to him. He takes one.
+text: Chews it. Sighs.
+speaker_heading: MAY
+dialog: Go ahead. Cry.
+speaker_heading: PETER
+dialog: No, Aunt May. I can't cry. I can't
+dialog: mourn Uncle Ben. I don't have the
+dialog: right.
+speaker_heading: MAY
+dialog: Don't be silly, Peter. Of all
+dialog: people--
+speaker_heading: PETER
+dialog: Of all people, not me. You don't
+dialog: know- everything there is to know,
+dialog: Aunt May. About how Uncle Ben died.
+dialog: The guy who-- that punk.
+dialog: (deep breath)
+dialog: I had a chance to stop him.
+dialog: MAY What?
+speaker_heading: PETER (CONT'D)
+text: The guy. I ran into him. A couple
+dialog: of hours before he shot Uncle Ben.
+dialog: He was robbing this place. And I
+dialog: knew it. And I could have stopped
+dialog: him easily. But I let him run right
+dialog: past me. Because at the time it
+dialog: didn't seem like my problem.
+text: She's just looking at him. Dry-eyed. A little confused,
+dialog: maybe.
+speaker_heading: PETER (CONT'D)
+dialog: And then like an hour later, that's
+dialog: when Uncle Ben was waiting for me
+dialog: and this guy went up to him and...
+dialog: 30.
+text: She sits a moment longer. Then she stands up and takes the
+text: plate of cookies away from him.
+speaker_heading: MAY
+dialog: Well, I guess I can understand how
+dialog: you didn't want to tell me this.
+text: Turns and dumps all the lovely cookies into the trash. Quiet
+dialog: fury.
+speaker_heading: MAY (CONT'D)
+dialog: I mean, on the surface, it does
+dialog: seem to be something fairly
+dialog: unforgivable.
+speaker_heading: PETER
+dialog: Aunt May?
+text: She swings the china plate above her head, then brings it
+text: down against the counter. It shatters.
+speaker_heading: MAY
+dialog: Damn it!
+text: She crouches stiffly and begins to pick up the pieces. Peter
+text: goes to help her but she pushes him away. As she tosses
+text: shards into the trash, she cuts herself.
+speaker_heading: MAY (CONT'D)
+dialog: Ow! Damn it.
+text: Pokes her finger into her mouth. Peter tries to put his hand
+text: on her shoulder.
+speaker_heading: MAY (CONT'D)
+dialog: Get away from me. Get out!
+text: He backs away. She takes the Dustbuster from the broom closet
+text: and begins noisily to bust dust. Steely eyed.
+speaker_heading: PETER
+dialog: Aunt May--
+text: She ignores him, vacuuming. He turns and walks out.
+scene_heading: EXT. BQE - NIGHT
+text: Peter roars back to the city. As he slows in some traffic,
+text: the bike begins to backfire and throw sparks. Then it
+text: actually bursts into flame. Fellow motorists honk at him. One
+text: leans out of a passing car.
+dialog: 31.
+scene_heading: FELLOW MOTORIST
+dialog: Yo, butthead, your motorcycle is on
+dialog: fire.
+text: Peter scrambles over onto the shoulder. Leaps off the burning
+text: bike. Contemplates the flames then starts to stamp them out.
+text: This quickly devolves into a vicious kicking.
+speaker_heading: PETER
+dialog: Stupid frigging piece of junk! Why
+dialog: can't I have one thing in my life
+dialog: that actually works!
+text: Fellow motorists slow their cars to watch as Peter's spider
+text: strength renders the bike a heap of junk in seconds.
+speaker_heading: PETER (CONT'D)
+dialog: Can't-- even-- cross town without
+text: bursting into flames-- or being
+dialog: shot at!
+text: Peter stands over the corpse of the bike, heart POUNDING.
+text: Then turns and starts to limp home along the median.
+scene_heading: INT. OSBORN/PARKER APARTMENT — NIGHT
+text: Harry is lying on the couch, watching a tape of Barbara
+text: Walters interviewing the his father. With the aid of a shaker
+text: of martinis. And a little amber prescription bottle.
+text: THUMPING from outside, muffled through the blast shutter over
+text: the door.
+speaker_heading: PETER
+dialog: (0.S.)
+dialog: Harry, god damn it, let me in!
+text: Harry picks up the remote and punches in the code. The
+text: barrier goes up. Peter drags his sorry ass in the door. He's
+text: a wreck.
+speaker_heading: HARRY
+dialog: I made martinis.
+speaker_heading: PETER
+dialog: I see that.
+text: Onscreen, Norman Osborn sheds a single shining tear. Harry is
+text: crying, too.
+speaker_heading: HARRY
+dialog: That's the only time that man ever
+dialog: cried.
+dialog: 32.
+speaker_heading: PETER'S FACE
+dialog: Oh, brother. Here we go.
+text: He takes a deep breath, then sits down beside Harry.
+speaker_heading: HARRY (CONT'D)
+dialog: Have a drink. You look like you
+dialog: could use one.
+speaker_heading: PETER
+dialog: I probably could. But no, thanks.
+text: He points to the bottle of pills.
+speaker_heading: PETER (CONT'D)
+dialog: What are those?
+speaker_heading: HARRY
+text: Dinner. Courtesy of Dr. Chomsky.
+speaker_heading: PETER
+dialog: I'm sure he doesn't want you taking
+dialog: them with alcohol.
+speaker_heading: HARRY
+dialog: She. No, you're right. She'd
+dialog: probably be very disappointed in
+dialog: me.
+text: They sit and watch the tape of Norman Osborn. Now Norman is
+text: his old in-control self again, telling Barbara Walters a
+text: story. Barbara is laughing.
+speaker_heading: HARRY (CONT'D)
+dialog: Pete. Just tell me where to find
+dialog: him. Tell me where you meet him.
+dialog: That's all you need to do. I'll
+dialog: take care of the rest.
+text: Peter looks at him. Harry just keeps staring at the screen.
+speaker_heading: PETER
+dialog: I can't. He broke off contact with
+dialog: me. He said I've made it too
+dialog: dangerous for him. He almost got
+dialog: killed today.
+speaker_heading: HARRY
+dialog: I know.
+dialog: (beat)
+dialog: Who do you think put up the bounty?
+text: Onscreen, Norman Osborn is laughing, now, too. A strangely
+text: familiar laugh. His goblin grin is reflected for a moment on
+text: his son's face, mad glint of the TV in his eye.
+dialog: 33.
+speaker_heading: PETER
+dialog: Bounty!
+speaker_heading: HARRY
+dialog: I'm sorry, did I say bounty? I
+dialog: meant reward.
+speaker_heading: PETER
+dialog: Harry, what you're talking about
+dialog: is--
+speaker_heading: HARRY
+dialog: Murder? Maybe. People get murdered,
+dialog: Pete. My father. Your uncle. It
+dialog: happens.
+text: The tape goes blank. Harry's eyes fill with static. Peter
+text: gets up.
+speaker_heading: PETER
+dialog: I think--it would probably be best
+dialog: for me to move out.
+speaker_heading: HARRY
+dialog: What? Because of what I said about
+dialog: Spider-Man? Pete, don't be--
+speaker_heading: PETER
+dialog: Mr. Aziz fired me today, Harry. And
+dialog: I can't work for the Bugle anymore.
+dialog: So. I can't afford to pay you rent
+dialog: anymore.
+speaker_heading: HARRY
+dialog: You'll find another job. I'll carry
+dialog: you until you do, no problem.
+speaker_heading: PETER
+dialog: I couldn't let you do that.
+text: Harry sloshes upright. Grinning a twisted grin.
+speaker_heading: HARRY
+dialog: No, that's right. You wouldn't want
+dialog: to be a sniveling little do-nothing
+dialog: freeloader. Like me.
+speaker_heading: PETER
+dialog: Harry, come on. Let's not--ah,
+dialog: forget it.
+text: He starts to walk out.
+dialog: 34.
+speaker_heading: HARRY
+dialog: Pete?
+text: Harry sits up, drunk and stoned but still Harry.
+speaker_heading: HARRY (CONT'D)
+dialog: Well... where are you going to go?
+dialog: Home to Aunt May?
+speaker_heading: PETER
+dialog: No, I don't think I'm so welcome
+dialog: there anymore.
+text: He climbs up to his bedroom door. Tries to open it. Pushes
+text: some buttons. Nothing happens.
+speaker_heading: PETER (CONT'D)
+dialog: Harry, could you please let me into
+dialog: my bedroom?
+scene_heading: INT. OTTO'S LOFT - NIGHT
+text: Otto lies in a steaming bathtub, recuperating from his show.
+text: Nice tub, good cigar. TV flickering in the wall.
+dialog: On the news: His performance. Video coverage of the lecture,
+text: of Otto strutting around the stage.
+text: BOY TALKING HEAD
+dialog: ...potential applications, Octavius
+dialog: said, range from handling nuclear
+dialog: waste to detonating underwater
+dialog: mines to the exploration of outer
+dialog: space.
+text: GIRL TALKING HEAD
+dialog: Speaking of creepy crawlies, Jim,
+text: it seems that Spider-Man is finding
+dialog: New York to be a very tough town.
+text: At the words "Spider-Man" Otto sits up in the tub. He leaps
+text: out, dripping, and pads over to the television wall.
+text: Otto hits the record button on his DVD-R. We see several
+text: shelves of DVD archives arranged above the recorder.
+text: On TV, the incident is reported. Jameson is there, ranting.
+text: We see the headline about the reward. Then there's a shot of
+text: Spider-Man scaling a wall.
+text: Otto zooms in on it, watching with a scientist's eye.
+text: The girl talking head comes back on.
+dialog: 35.
+speaker_heading: GIRL TALKING HEAD (CONT'D)
+text: It was a scene right out of All
+dialog: About Eve tonight when a spokesman
+dialog: for Deirdre Dunn announced that the
+dialog: Broadway star, currently playing
+dialog: the lead in the popular musical
+dialog: Bride! would be taking a temporary
+dialog: leave of absence for some well
+dialog: needed rest...
+text: Otto pops out the disk, fits it into its box, scrawls a
+text: label. Files it on the shelf. We see that it is labelled:
+text: SPIDER-MAN 5/24/04. All of the other disks are labelled the
+dialog: same way. They go back for a year.
+speaker_heading: GIRL TALKING HEAD (CONT'D)
+dialog: ...-Said that the role will be
+text: played by Miss Dunn's understudy,
+dialog: Mary Jane Watson.
+text: Otto's attention is drawn to the screen again. MJ is being
+text: interviewed, in makeup, backstage.
+speaker_heading: MJ
+speaker_heading: (ON TV)
+dialog: Well, this is great opportunity for
+dialog: me, but mostly I just wish for a
+text: very speedy recovery for Deirdre.
+text: Otto's gaze remains scientific, but somehow softened. Towels
+text: off his hair, watching MJ's lovely face.
+text: We pull back and reveal as we do so his four backjacks, each
+text: capped with a rubber seal, glistening.
+speaker_heading: INSERT
+text: The next day's Bugle: NEW YORK TO SPIDER-MAN: DROP DEAD.
+scene_heading: EXT. NEW YORK STREET — NEWSSTAND - DAY
+text: The newspaper sits atop a pile. THWIP! A fine mesh of
+text: webbing spreads across the edge of the paper. The NEWSVENDOR
+text: watches openmouthed as the paper is tugged gently skyward.
+text: A dollar bill comes dangling down on a thin silky thread.
+scene_heading: EXT. NEW YORK STREET - LAMPPOST - DAY
+text: Spider-Man crouches atop the lamppost, scanning the paper.
+text: Crumples it up. Head snaps to the left. TINGLE of spider
+text: sense. A GUNSHOT. A SCREAM.
+scene_heading: EXT. KOREAN GROCERY - DAY
+dialog: 36.
+text: A THUG runs out with a sackful of money. Stuffs his gun into
+text: his waistband.
+text: A jet of webbing catches his left arm and pins it to the
+text: wall. Another catches his right arm, then THWIP-THWIP each of
+text: his legs at the ankle. He's pinned and struggling. He
+text: drops the bag.
+text: Spider-Man picks up the bag. Opens it and peers inside.
+speaker_heading: SPIDER-MAN
+dialog: You shot someone for nineteen
+dialog: dollars? That's--
+text: Out of nowhere looms a huge OBJECT, heading for his skull. A
+dialog: wet impact.
+text: It's a WATERMELON, wielded by a pair of YOUNG MEN. A neat
+text: stack of watermelons behind them.
+text: Spider-Man wobbles. Sags.
+speaker_heading: YOUNG MAN
+dialog: You're under arrest.
+text: The GROCER comes running over. A bloody patch on his upper
+text: arm. Picks up the bag of money. Screams at the young men.
+speaker_heading: GROCER
+dialog: What's the matter with you? He's a
+dialog: good guy. I'm sorry, Spider-Man.
+dialog: Here.
+text: He jabs the grubby pile of bills toward Spider-Man. A SIREN.
+text: Spider-Man closes the Grocer's hand around the money.
+speaker_heading: SPIDER-MAN
+dialog: (to Grocer)
+dialog: Thanks.
+text: As the police run up, Spider-Man takes to the sky.
+scene_heading: EXT. QUEENS - FILIPINO CULTURAL CENTER - NIGHT
+text: Dusk outside Bingo Hall. A black Volvo pulls up. Five HOODS
+text: pile out and go running in.
+scene_heading: INT. BINGO HALL - NIGHT
+text: Two hundred frightened but outraged old Filipina ladies
+text: relinquish their bingo money to the pillowcases of the hoods.
+text: A thick strand of webbing lances in and SMACKS the gun of the
+text: Lead Hood. Snatches it from his hand. Then swings it into
+text: his temple, knocking him cold.
+dialog: 37.
+speaker_heading: SPIDER-MAN
+text: Stands in the doorway, wielding the web like a lariat.
+text: The gun flies through the air, conking the Second Hood on the
+text: head, then the Third, Fourth and Fifth. They all go down in
+text: under three seconds.
+text: The old ladies turn to Spider-Man. Hard to read their
+text: expressions. He waves his fingers.
+speaker_heading: OLD LADY
+dialog: Ten million dollars!
+text: They start toward him, and then they're on him, bludgeoning
+text: him with their handbags.
+scene_heading: INT. BINGO HALL - NIGHT
+text: He stumbles free of them and then leaps to safety.
+scene_heading: INT. JJJ'S OFFICE — NIGHT
+text: JJJ's working late. Studying two alternate front pages. One
+text: says: NOWHERE TO RUN TO, BABY. The other says: NOWHERE TO
+speaker_heading: HIDE.
+text: CRASH! !!!! A blizzard of broken glass. JJJ ducks under his
+text: desk as the avalanche comes down.
+text: Spider-Man drops down through the skylight over JJJ's desk.
+text: JJJ comes out from under the desk. Sees Spider-Man standing
+dialog: there.
+speaker_heading: SPIDER-MAN
+dialog: Got a minute?
+text: JJJ picks up his phone. Punches a button.
+speaker_heading: JIT
+text: This is Jameson. Code S. Repeat.
+dialog: Code S.
+speaker_heading: SPIDER-MAN
+dialog: Is that S as in "Shut the hell up"?
+text: He slaps a gob of webbing across JJJ's mouth, then, in a few
+text: seconds, encases him entirely. A slick pupa. Takes the
+text: straw from JJJ's Big Gulp. Picks up the cocoon. Jams in the
+text: straw about where JJJ's mouth should be. Garbled CURSING.
+text: Spider-Man sticks the cocoon under his arm and leaps to the
+dialog: 38.
+text: ceiling. Clambers across the newsroom, over the astonished
+text: staff. Out a window, upside down.
+scene_heading: EXT. ROOF OF BUGLE - NIGHT
+text: Spider-man rips the cocoon away. JJJ starts to rant but looks
+text: over the cornice and sees the street far below. Cringes and
+text: pulls back. Afraid.
+speaker_heading: JIT
+dialog: I-- I'm acrophobic. Fear of
+dialog: heights.
+speaker_heading: SPIDER-MAN
+dialog: Really, I thought that was fear of
+dialog: spiders.
+dialog: (beat)
+dialog: Look, Jameson. I'm fine with you
+dialog: hating me. I'm even fine with you
+dialog: slandering me. But getting me
+dialog: killed, I don't know, that kind of
+dialog: irritates me a little.
+text: JJJ creeps carefully away from the edge.
+speaker_heading: JIT
+dialog: The Bugle didn't tell anybody to
+dialog: kill you.
+text: His courage returning. He starts to close in on Spider-Man.
+speaker_heading: JJJ (CONT'D)
+dialog: Look, pal. I'm not fine with
+dialog: anything about you. You are a
+dialog: danger to this city. You may not
+dialog: believe in old-fashioned ideas like
+dialog: due process and the rule of law,
+dialog: but I do. You come in here with
+dialog: your tight pants and your sticky
+dialog: fingers and you tell us you're a
+dialog: hero. But you know what I see? A
+text: vigilante, a muscle man, a gangster
+dialog: in spandex. What gives you the
+dialog: right? Because you're the
+dialog: strongest? That's not the country
+dialog: I'm from.
+text: JJJ has Spider-Man on the defensive--backing away.
+speaker_heading: JJJ (CONT'D)
+dialog: You know, I hired a psychiatrist to
+dialog: do a profile of you. Did you see
+dialog: that story?
+speaker_heading: (MORE )
+dialog: 39.
+speaker_heading: JIJJ (CONT'D)
+dialog: Did you read what that lady said?
+dialog: "Delusionary." "Narcissistic."
+dialog: "Messiah complex." Translation:
+text: JJJ goes in for the kill.
+speaker_heading: JJJ (CONT'D)
+dialog: You need to get a life, pal.
+text: A door SLAMS. A DOZEN SECURITY GUYS pour out onto the roof.
+text: Spider-Man looks at them, then back at JJJ. Seems about to
+text: speak. Then leaps over the side of the building, and is gone.
+text: The security men run to the ledge.
+speaker_heading: JJJ (CONT'D)
+dialog: Where the hell were you? You're all
+dialog: fired.
+scene_heading: INT. OSBORN/PARKER APARTMENT - NIGHT
+text: Peter has his stuff packed up; he's carrying out three
+text: suitcases and big laundry sack. Harry comes out into the hall
+text: to watch him go.
+speaker_heading: HARRY
+dialog: So, that's it. You're just going.
+text: Peter starts to say something, then just nods.
+speaker_heading: HARRY (CONT'D)
+dialog: Where?
+speaker_heading: PETER
+dialog: I found a place out in Sheepshead
+dialog: Bay.
+text: As he goes out the door, the laundry bag tumbles from the
+text: pile of suitcases. Peter stoops to pick it up.
+speaker_heading: HARRY
+dialog: You don't have to take dirty
+dialog: clothes. You can still do your wash
+dialog: here, you know.
+text: Peter shrugs.
+speaker_heading: PETER
+dialog: I need the big machine.
+scene_heading: INT. LAUNDROMAT - NIGHT
+text: 3 AM. Deserted. Peter sits in a plastic chair, reading a
+text: thick tome entitled Biomolecular Chemistry.
+dialog: 40.
+text: A pile of similar tomes beside him. Makes a note in a
+dialog: notebook.
+text: A YOUNG MAN enters, carrying a laundry sack. Sees Peter
+text: sitting there. Peter doesn't look up. The man goes over to
+text: a machine.
+text: Spider sense TINGLES. Peter looks up as in slow motion the
+text: man walks, KEYRING JINGLING, CHANGE in his pocket, earphones
+text: THROBBING in his ears.
+text: Slowly the fingers reach for the lid of the machine.
+speaker_heading: PETER
+dialog: No!
+text: The man gapes at him.
+speaker_heading: PETER (CONT'D)
+dialog: You can't use that one. That's my
+text: machine.
+text: The man decides that Peter is mad. He begins to stuff his
+text: clothes back into the sack.
+speaker_heading: YOUNG MAN
+dialog: Okay, mister. Take it easy.
+text: He shoulders the bag and hurries out.
+speaker_heading: YOUNG MAN (CONT'D)
+text: The yellow light's flashing.
+text: Peter waits a moment, then runs over to the machine.
+text: The OUT OF BALANCE light is blinking. Peter lifts the lid.
+text: Pulls out the red and blue suit, soaking wet.
+scene_heading: INT. DR. CHOMSKY'S OFFICE
+text: Harry sits facing Dr. Chomsky, a petite Korean-American
+dialog: woman.
+scene_heading: DR. CHOMSKY
+dialog: Nightmares?
+speaker_heading: HARRY
+dialog: Every night. Two of them, last
+dialog: night.
+scene_heading: DR. CHOMSKY
+dialog: What are they about?
+dialog: 41.
+speaker_heading: HARRY
+dialog: I didn't think you guys handled
+dialog: dreams anymore. I thought that
+dialog: dreams were just brain garbage.
+scene_heading: DR. CHOMSKY
+dialog: They are. But you can learn a lot
+dialog: about a person by going through
+dialog: their garbage.
+text: Harry thinks. He closes his eyes.
+scene_heading: HARRY'S NIGHTMARE
+text: He's shaking hands with his father. They're both smiling.
+text: Then with a horrible wet sound Harry splits open, right down
+text: the center, and Norman Osborn steps out of the husk. The real
+text: Norman starts to laugh his GOBLIN laugh.
+scene_heading: BACK ON HARRY
+text: He opens his eyes. Real pain in them.
+speaker_heading: HARRY
+dialog: They're disgusting. I don't want to
+dialog: talk about them. Just, please. Give
+dialog: me something to help me sleep
+dialog: through them.
+text: The doctor stares at him. Sighs. Reaches for the prescription
+dialog: pad.
+scene_heading: INT. MARTIN BECK THEATER - AUDIENCE
+text: Otto sits in the fifth row, center. Watching.
+scene_heading: INT. THEATER - ONSTAGE
+text: MJ sings her big number, "The Mind of the Man I Love."
+scene_heading: INT. THEATER - AUDIENCE
+text: Otto's entranced.
+scene_heading: INT. MARTIN BECK THEATER - BACKSTAGE - NIGHT
+text: MJ stalks offstage to lackluster APPLAUSE. Dissatisfied.
+text: Renard follows right behind.
+speaker_heading: MJ
+dialog: I sucked!
+speaker_heading: RENARD
+dialog: You sucked not.
+dialog: 42.
+scene_heading: INT. DRESSING ROOM - CONTINUOUS
+text: MJ runs into the dressing room, flings herself onto a
+text: battered sofa. There's a Bugle lying there; she tosses it
+text: toward Renard.
+speaker_heading: MJ
+dialog: The Bugle was right. I do "manage
+dialog: to be both overstated and paper-
+dialog: thin at the same time."
+speaker_heading: RENARD
+dialog: Someone doesn't agree with you or
+dialog: the Bugle.
+text: He points to a big bouquet of black roses, with a card. She
+text: goes to them, intrigued, charmed, irritated all at once.
+text: Opens the card.
+speaker_heading: MJ
+dialog: If Peter thinks he can...
+speaker_heading: THE CARD
+text: It reads: I THINK YOU ARE BRILLIANT.
+dialog: 0.0.
+dialog: MJ "0.0.2?"
+speaker_heading: RENARD
+dialog: Oh oh.
+scene_heading: EXT. MARTIN BECK THEATER - NIGHT
+text: MJ is walking out, carrying the flowers. Otto approaches, but
+text: keeps a certain distance. He doesn't want to frighten her.
+text: He's dressed with a sharpness that is only slightly funereal.
+speaker_heading: OTTO
+dialog: Miss Watson?
+text: She turns, startled but somehow having expected it, too.
+speaker_heading: OTTO (CONT'D)
+dialog: I'm Otto Octavius. I--I sent you
+dialog: those flowers.
+speaker_heading: MJ
+dialog: Oh oh.
+speaker_heading: OTTO
+dialog: I hope that wasn't out of line. Was
+dialog: it? It was. Excuse me. I'm sorry.
+dialog: 43.
+text: He turns and walks away. Shaking his head. Not so much
+text: embarrassed as disturbed by the failure of his experiment.
+speaker_heading: MJ
+dialog: No! I mean--
+speaker_heading: OTTO
+dialog: I won't bother you again.
+speaker_heading: MJ
+dialog: Wait!
+text: Slowly Otto turns back.
+speaker_heading: MJ (CONT'D)
+dialog: I loved the flowers. I've been sort
+dialog: of hoping somebody might send me
+dialog: flowers.
+speaker_heading: OTTO
+dialog: Peter Parker?
+speaker_heading: MJ
+dialog: Yeah...? How do you...?
+speaker_heading: OTTO
+dialog: Peter's a friend. Of a friend.
+dialog: Honestly, I don't really know him
+dialog: very well at all. But he's the one
+dialog: who told me about you. About your
+dialog: being in this show. Which I loved.
+dialog: It was beautiful. You were
+dialog: brilliant, I meant it.
+speaker_heading: MJ
+dialog: Thank you. Unfortunately the drama
+dialog: critic of the Daily Bugle doesn't
+dialog: agree with you.
+speaker_heading: OTTO
+dialog: The man is a well-known idiot.
+speaker_heading: MJ
+dialog: Really?
+speaker_heading: OTTO
+dialog: Legendary.
+text: She likes this. The bubble of weirdness between them pops. We
+text: can almost hear it. MJ salutes him with the roses.
+speaker_heading: MJ
+dialog: Thanks for these.
+dialog: 44,
+text: MJ and the roses go very well together. Otto stares. Inner
+text: turmoil visible. A long beat goes by. She turns to leave.
+speaker_heading: OTTO
+dialog: Do you believe in the value of
+dialog: boldness, Miss Watson?
+speaker_heading: MJ
+dialog: At all times.
+speaker_heading: OTTO
+dialog: Have dinner with me. Right now.
+text: MJ hesitates. Not because she doesn't want to; because she
+dialog: does. This is a big yes for her.
+speaker_heading: MJ
+dialog: Where did you have in mind?
+speaker_heading: OTTO
+dialog: There's this Ethiopian place on
+dialog: West 47th.
+speaker_heading: MJ
+dialog: Ethiopian. Wow. I've never--
+text: He wiggles his long elegant fingers. Faintly but disturbingly
+text: tentacular.
+speaker_heading: OTTO
+dialog: I like to eat with my hands.
+scene_heading: INT. MESKEREM ETHIOPIAN RESTAURANT - NIGHT
+text: A lovely server settles an enormous platter of doro wat and
+text: other fine and strange foods before them. Otto is delighted
+text: to see it. MJ less sure.
+speaker_heading: OTTO
+dialog: Yum. Look at that.
+speaker_heading: MJ
+dialog: It's very... colorful.
+text: Otto digs in. After a moment MJ tears off a piece of njera
+text: and joins in. Warily. Otto watches her. She looks right back
+text: at him.
+speaker_heading: OTTO
+dialog: Well?
+speaker_heading: MJ
+dialog: Strange but good.
+dialog: 45.
+speaker_heading: OTTO
+dialog: You were telling me about your
+dialog: mother.
+speaker_heading: MJ
+dialog: I know I was, and I'm sorry. Let's
+dialog: talk about you. You seem like a
+dialog: much more interesting person than
+dialog: me.
+speaker_heading: OTTO
+dialog: Not to me.
+dialog: (self mocking)
+dialog: Not right now, anyway.
+scene_heading: INT. RESTAURANT - LATER
+text: They are sitting closer to each other. She's finishing a
+text: story. It's supposed to be funny but he just nods, serious.
+speaker_heading: OTTO
+dialog: And did you have a dog?
+speaker_heading: MJ
+dialog: When I was little. Tasha. She--no.
+dialog: I am not going to tell you about my
+dialog: childhood pets. That's enough. It's
+dialog: your turn. Tell me about what you
+dialog: do. It sounds fascinating.
+speaker_heading: OTTO
+dialog: I could describe it to you. But you
+dialog: would never believe it.
+speaker_heading: MJ
+dialog: Try me.
+speaker_heading: OTTO
+dialog: I'll tell you what. Come uptown.
+dialog: Right now. I'll show you the lab.
+dialog: I'll show you the rig.
+speaker_heading: MJ
+dialog: Oh, I couldn't--
+speaker_heading: OTTO
+dialog: Boldness in all things.
+scene_heading: INT. ANANSI PROJECT LABORATORY - NIGHT
+text: The darkened laboratory. Machines softly interrogate one
+text: another. KEY in the door. Slash of light.
+dialog: 46.
+text: All the lights go on as Otto ushers MJ in. She notices the
+text: rig right away. It hangs in its dock, a malign orchid.
+speaker_heading: MJ
+dialog: Is that it?
+text: Otto is in love with the rig, of course. The way that a man
+text: might be in love with a ship, or a 1971 Chevrolet Barracuda.
+speaker_heading: OTTO
+dialog: That's it.
+text: She gets that he has feelings for his machine.
+speaker_heading: MJ
+dialog: It's beautiful.
+dialog: (beat)
+dialog: It's a little freaky.
+speaker_heading: OTTO
+dialog: Well, I'ma little freaky. You
+dialog: should probably know that about me.
+speaker_heading: MJ
+dialog: Okay.
+speaker_heading: THE RIG
+text: One of its heads. The one with a somehow crafty expression in
+text: its staring black sensor.
+speaker_heading: POV - THE RIG
+text: As Otto "comes out" to MJ.
+speaker_heading: OTTO
+dialog: I am not like other people, MJ. I'm
+dialog: not like anybody you've ever met.
+dialog: Freaky, yeah, I'm a freak of
+dialog: nature. I taught myself calculus
+dialog: when I was nine. I was a chess
+dialog: grandmaster at fifteen. I don't
+dialog: say it as a boast. It was hell on
+dialog: earth. I had to fight every day of
+dialog: my life.
+speaker_heading: MJ
+dialog: I knew a kid like that.
+speaker_heading: OTTO
+dialog: But there was always that one
+dialog: pretty girl who also managed
+dialog: somehow to be nice. I'll bet that
+dialog: was you, huh?
+dialog: 47.
+text: MJ looks away, smiles.
+speaker_heading: THE RIG
+text: Deep in its sensor, a diode pulses. Now it's watching MJ.
+speaker_heading: OTTO (CONT'D)
+dialog: Today, I'm all right with it. I've
+dialog: learned to embrace being a freak. I
+dialog: accept that I was given the gift of
+dialog: intelligence for a purpose. Which
+dialog: is this thing you see. The rig.
+dialog: Otto's Octopus.
+text: He goes over to it. Takes hold of one of its hands. A touch
+dialog: of the bridegroom.
+speaker_heading: MJ
+dialog: What does it, well... do?
+speaker_heading: OTTO
+dialog: Oh, it cuts hair.
+text: She laughs.
+speaker_heading: OTTO (CONT'D)
+dialog: What does it do? It improves you.
+dialog: It makes you better.
+speaker_heading: MJ
+dialog: You mean it makes you stronger?
+speaker_heading: OTTO
+dialog: Stronger, faster, yes, but also
+dialog: smarter. Much smarter. When I'm
+dialog: jacked in, I feel like my grasp
+dialog: finally equals my reach. I can feel
+dialog: myself--expanding. Not just my
+dialog: physical grasp but my mind, my
+dialog: heart, my soul. I feel enlarged by
+dialog: the experience. And it feels right.
+dialog: Have you ever felt anything like
+dialog: that?
+speaker_heading: MJ
+dialog: I thought so. One time.
+text: She goes over to the rig. Slowly extends her fingers toward
+text: the nearest head. As her fingers draw nearer the diode pulses
+text: and we begin to fear for the fate of her fingers. Her
+text: fingertips touch-- the eye goes dark.
+speaker_heading: MJ (CONT'D)
+dialog: When you say "jack"...
+dialog: 48.
+speaker_heading: OTTO
+text: There are four shunts that
+dialog: interface directly with my central
+dialog: nervous system. I wear it. But it's
+dialog: also wearing me.
+text: He reaches up and takes hold of the latch, with its spirit
+text: level bubble.
+speaker_heading: OTTO (CONT'D)
+dialog: This is the neural integrity seal.
+dialog: The latch, basically.
+speaker_heading: MJ
+dialog: Does it hurt?
+speaker_heading: OTTO
+dialog: The system delivers a steady dose
+dialog: of pain blocking endorphins the
+dialog: whole time I'm in it. Which so far
+dialog: has never been longer than a few
+dialog: hours. The goal is a permanent
+dialog: interface. Of course the idea
+dialog: of a permanent human/machine
+dialog: integration makes some people
+dialog: uneasy.
+text: Granted, MJ's looking a little uneasy. Otto fingers the
+dialog: Latch.
+speaker_heading: OTTO (CONT'D)
+dialog: The Rig is designed to seek to
+dialog: implement a systems merger with the
+dialog: host. Unfortunately, so far, my
+dialog: flimsy human tissue's not up to the
+dialog: challenge. Not yet. We're working
+dialog: on that.
+text: MJ is freaked, and fascinated.
+speaker_heading: MJ
+dialog: So you have, like... holes? In your
+dialog: back? Permanent ones?
+speaker_heading: OTTO
+dialog: Want to see them?
+text: Daring her, a little bit.
+speaker_heading: MJ
+dialog: Not really, but yes.
+text: He turns. Unbuttons his shirt. Lowers it. Four black glinting
+text: discs in his back. Freaky but beautiful.
+dialog: 49.
+speaker_heading: MJ (CONT'D)
+dialog: Whoa! Okay. Thank you. Very nice.
+text: He pulls up the shirt, rebuttons it, turns. Shirttails
+dialog: hanging out.
+speaker_heading: OTTO
+dialog: It's late.
+speaker_heading: MJ
+dialog: It is.
+scene_heading: A DOORBELL PANEL
+text: A FINGER scans the names. Stops at WATSON. Press the BUZZER.
+scene_heading: EXT. MJ'S APARTMENT BUILDING - NIGHT
+text: Peter's standing there. Dressed up. Holding a single red
+text: rose. He waits. There's no answer. He checks his watch; it's
+text: late. Then cue the TINGLE of spider-sense. He whirls, hears
+scene_heading: FOOTSTEPS, VOICES.
+text: MJ and Otto approach the building. Peter's face as he
+text: registers the voices: alarmed.
+speaker_heading: REVERSE ANGLE
+text: On the front step as MJ and Otto approach. Peter's not there.
+text: MJ turns to Otto, carrying the big dark bouquet.
+speaker_heading: MJ
+dialog: Thank you. I had a really nice,
+dialog: really interesting time. And thank
+dialog: you for the flowers.
+speaker_heading: PETER PARKER
+text: Clings to the side of her building, upside down. Takes the
+text: single cheap rose from his teeth. Looks at it.
+speaker_heading: OTTO
+dialog: So, maybe it's out of line. For me
+dialog: to ask you this. But I don't want
+dialog: to make a fool of myself. Are you
+dialog: seeing Peter Parker? Because if you
+dialog: are--
+speaker_heading: MJ
+dialog: No. I was. But he wouldn't... He
+dialog: couldn't... He just couldn't.
+speaker_heading: OTTO
+dialog: It's really none of my business.
+dialog: 50.
+text: But he looks pleased with the information. He holds out his
+dialog: hand.
+speaker_heading: OTTO (CONT'D)
+dialog: Good night.
+text: She takes his hand, then plants a kiss on his cheek.
+speaker_heading: PETER
+text: Watching the kiss. It's breaking his heart.
+speaker_heading: MJ
+text: Turns and lets herself into the building.
+scene_heading: INT. MJ'S BUILDING - LOBBY - NIGHT
+text: She presses herself against the door. Stunned at her own
+dialog: brazen behavior.
+scene_heading: EXT. MJ'S BUILDING - NIGHT
+text: As Otto turns and starts back across town. A skip in his
+text: step. A cybergoth Gene Kelly. Feels like dancing with a
+text: lamppost.
+scene_heading: EXT. LAMPPOST - NIGHT
+text: As Otto walks through its beam we notice a dark shape
+text: crouching on the stanchion. Watching.
+scene_heading: EXT. SCIENCE BUILIDNG - NIGHT
+text: The domed building where it all began for Peter. A shadow
+text: from the shadows leaps onto the domes. It's Peter.
+scene_heading: INT. SCIENCE BUILDING - NIGHT
+text: The great central hall. It's deserted and dim. He walks
+text: around. Hears echoes of that afternoon a year ago.
+text: The spider cages are empty.
+text: He looks down at his hand where the spider bit him, rubs it.
+text: Thoughtful, then his face breaks. He sits down, buries his
+text: face in his hands. Chokes up.
+text: A WHIRR; he looks up, TINGLING.
+scene_heading: INT. ANANSI PROJECT LABORATORY - NIGHT
+text: Peter creeps down the hall just outside. We HEAR the
+text: unmistakable WHIRR of the rig.
+scene_heading: SERIES OF SHOTS - COUPLING THE RIG
+dialog: 51.
+text: 1) Otto lowers the Rig into position.
+text: 2) The Rig watches, expressionless.
+text: 3) Otto steps into the Rig. Engages the coupler. A WHINE of
+dialog: hydraulics.
+text: Otto reaches back to twist the Latch. Can't quite see what
+text: his fingers are doing.
+text: His fingers can't reach. Can't reach. He strains, grunting.
+text: Gives up. Starts to press the decoupler. Then--
+text: --a 'pod reaches in for the Latch and TWISTS IT.
+text: Otto flinches, then lets go as blessed relief floods his
+text: features. Sinking in. The irises of his eyes spiral out.
+text: One of the 'pods reaches toward his face and, tenderly,
+text: strokes it with steely finger.
+text: Peter, watching, GASPS.
+text: The 'pods hone in on the sound at once, quivering. Otto looks
+dialog: over.
+speaker_heading: OTTO
+dialog: Who's there?
+text: Peter steps out of the shadows.
+speaker_heading: OTTO (CONT'D)
+dialog: Parker?
+speaker_heading: PETER
+dialog: Hi.
+speaker_heading: OTTO
+dialog: (rattled)
+dialog: What the hell are you doing here?
+speaker_heading: PETER
+dialog: I wanted to talk to you. But I see
+dialog: you're--what are you doing?
+speaker_heading: OTTO
+dialog: I was just--uh. Celebrating.
+speaker_heading: PETER
+dialog: You use that thing...
+dialog: recreationally?
+speaker_heading: OTTO
+dialog: It helps me relax.
+dialog: 52.
+scene_heading: INT. ANANSI PROJECT LABORATORY - NIGHT
+text: Peter sits across a desk from Otto. One 'pod puts on a CD.
+text: Two others are busy pouring two cans of Coke. Peter eyes the
+text: ‘pods warily. Otto taps at the keyboard of his computer.
+speaker_heading: OTTO
+dialog: The viral delivery system we were
+text: using in the superspider project.
+speaker_heading: PETER
+dialog: That's right.
+text: Otto hits a few more keys.
+speaker_heading: OTTO
+dialog: That's why you came here.
+speaker_heading: PETER
+dialog: What other reason would there be?
+text: Otto shrugs.
+speaker_heading: OTTO
+dialog: Here. Yes, we were using a modified
+text: arbovirus. Highly infectious in
+dialog: spiders. We replaced the nucleonic
+dialog: RNA with whatever we wanted to code
+dialog: for and the virus did the rest.
+speaker_heading: PETER
+dialog: Is this arbovirus infectious in
+dialog: humans?
+speaker_heading: OTTO
+dialog: It could be. If we had wanted to
+dialog: introduce spider material into a
+dialog: human, I suppose we could just have
+dialog: just gotten one of the little
+dialog: critters to bite--
+text: Staring at Peter. Understanding without knowing.
+speaker_heading: PETER
+dialog: What?
+speaker_heading: POV - THE RIG
+text: It watches Peter and Otto, pulsing softly.
+speaker_heading: OTTO
+dialog: Why do you want to know?
+speaker_heading: PETER
+dialog: I'm just curious.
+dialog: 53.
+text: As Peter says these words:
+text: They are processed by the suit; it subjects them to a
+scene_heading: VISUAL VOICE-STRESS ANALYSIS
+text: The pattern is scanned and designated COUNTERFACTUAL.
+text: AN INDICATOR begins to blink on one of the pods.
+scene_heading: AT OTTO'S WORKSTATION
+text: The ROUTER begins to blink in kind.
+speaker_heading: ON THE MONITOR
+text: Windows pop up, running archive footage of Spider-Man:
+text: climbing, swinging, leaping.
+dialog: Another window: Superspider Inventory: 1 through 15. Number
+text: 15 flashes: LOST.
+text: But Otto's not even looking at the monitor; he doesn't need
+dialog: to.
+speaker_heading: OTTO
+dialog: Spider-Man's a friend of yours,
+dialog: isn't he?
+text: Peter starts to play the question off.
+speaker_heading: PETER
+dialog: No, not a friend--
+speaker_heading: OTTO
+dialog: Know anything about him?
+speaker_heading: PETER
+dialog: Not much. Kind of a quiet guy.
+speaker_heading: OTTO
+dialog: Know if he was ever bitten by a
+dialog: spider?
+speaker_heading: PETER
+dialog: He might have been. I wouldn't
+dialog: know.
+speaker_heading: OTTO
+dialog: We lost a spider. If, by chance, it
+dialog: bit him. Is that what happened? And
+dialog: transferred the viral genotrope in
+dialog: its venom...
+text: He's advancing on Peter now. The ‘pods billow and arc.
+dialog: 54.
+speaker_heading: OTTO (CONT'D)
+dialog: That's great! It's a conceptual
+dialog: breakthrough!
+speaker_heading: PETER
+dialog: Not to him, it isn't. He's sick of
+dialog: it. That's why I came to see you.
+dialog: To see if there's any way to--
+speaker_heading: OTTO
+dialog: Why didn't he just come himself?
+speaker_heading: PETER
+dialog: Huh? Oh, because. He's, uh,
+text: horribly disfigured. Up close.
+dialog: That's why he wears the mask.
+dialog: (shudders )
+dialog: It's like, he has these little
+text: hairs all over him, and compound
+dialog: eyeballs. And the smell!
+speaker_heading: OTTO
+dialog: Unfortunate. No way to control the
+dialog: process, I suppose, relying on a
+dialog: bite.
+dialog: (beat)
+dialog: He could probably use one of these
+dialog: eventually.
+text: He reaches into a tray behind him. Holds up a tiny ziplock
+text: bag with a speck inside. Peter leans in to look. A tiny bit
+text: of circuitry--a spider-mite of silicon.
+speaker_heading: PETER
+dialog: What is it?
+speaker_heading: OTTO
+dialog: It's basically an immune system on
+dialog: a chip. You seed it with a sample
+dialog: of the material you want to defend
+text: against, and it pumps out antigens.
+dialog: I call it a parity chip.
+speaker_heading: PETER
+dialog: Parity?
+speaker_heading: OTTO
+dialog: Equilibrium. The Rig is so
+dialog: powerfully integrative that right
+dialog: now it overwhelms my own systems.
+dialog: I'm hoping to use this to boost my
+dialog: body's immunity.
+speaker_heading: (MORE )
+dialog: 55.
+speaker_heading: OTTO (CONT'D)
+dialog: In theory your friend could seed
+dialog: this with some of his own
+dialog: spiderized DNA, implant it, and
+dialog: knock out the genes that are coding
+dialog: for his spider traits.
+text: He tosses the chip back onto the tray.
+speaker_heading: OTTO (CONT'D)
+dialog: This is just a prototype. We're not
+dialog: in fab yet.
+text: Peter regards the tray, the little baggie. There it is. His
+text: salvation. His eyes stray up to:
+text: AN AIRVENT IN CEILING
+text: Conveniently located just over the tray.
+speaker_heading: OTTO (CONT'D)
+dialog: I had dinner with Mary Jane Watson
+dialog: tonight.
+text: Peter looks back, caught by surprise.
+speaker_heading: PETER
+dialog: Oh. Yeah. I know.
+speaker_heading: OTTO
+dialog: Terrific girl.
+speaker_heading: PETER
+dialog: Agreed.
+scene_heading: INT. ANANSI PROJECT LABORATORY - NIGHT
+text: The Rig is back in the coupler. Otto is at his workstation,
+text: asleep in his chair. All quiet.
+speaker_heading: THE AIRVENT
+text: A tiny thread drops from it. Weighted with little suction
+text: cup of webbing.
+text: The little fishing line drops into the tray. Bounces. Misses
+text: the baggie. Bounces again. Snags it.
+text: THWIP! The baggie shoots up into the air and through the
+text: slats of the vent.
+scene_heading: INT. VETERINARY SUPPLY STORE - DAY
+text: Peter walks in, trying to appear nonchalant.
+dialog: 56.
+speaker_heading: CLERK
+dialog: Can I help you?
+speaker_heading: PETER
+dialog: Yes, hello. I need some soft tissue
+text: xx. And a Y-gauge syringe.
+speaker_heading: CLERK
+dialog: A Y-gauge... what are you trying to
+dialog: treat, a rhinoceros?
+speaker_heading: PETER
+text: A spider.
+dialog: (beat)
+dialog: Really big spider.
+scene_heading: INT. DITKOVICH'S HOUSE - PETER'S ROOM - NIGHT
+text: Peter drops a box filled with lab supplies onto his tiny
+text: desk. Sweeps everything off the top of it.
+scene_heading: INT. DITKOVICH'S HOUSE - LIVING ROOM - NIGHT
+text: A tiny house in Brighton Beach. DITKOVICH is playing cards,
+text: for money, with his Ukrainian cronies. HUGE CLATTER. They all
+text: look up at the ceiling. Then at Ditkovich.
+speaker_heading: DITKOVICH
+dialog: (in Ukrainian, subtitled)
+text: The new roommate.
+text: They go back to their game. SOMETHING BREAKS. Ditkovich lays
+text: down his cards with a sigh.
+speaker_heading: DITKOVICH (CONT'D)
+dialog: (in Ukrainian, subtitled)
+dialog: I think he took my vodka.
+scene_heading: INT. DITKOVICH'S HOUSE - STAIRS - NIGHT
+text: Ditkovich calls up as we climb the stairs and start down the
+text: upstairs hall.
+speaker_heading: DITKOVICH
+dialog: Mr. Parker? Everything is all
+dialog: right?
+scene_heading: INT. PETER'S ROOM - NIGHT
+text: Peter is wiping down the glass surface of the desk with
+text: Clorox. We see: gauze pads, adhesive tape, alcohol, pipette.
+text: A hot plate with a saucepan of boiling water. A box of
+text: Morton's kosher salt. A bottle of vodka.
+dialog: 57.
+speaker_heading: PETER
+dialog: Yes! Everything's fine! Sorry!
+text: He decants some of the steaming saline into a tube.
+text: He picks up the pipette, scrapes at the inside of his cheek.
+text: Then he picks up the chip with a clasp. Smears the tissue
+text: against the chip. Drops it into the tube.
+text: Holds up the BIG NEEDLE. Jeez. Pokes it down into the tube,
+text: and draws in the fluid. The chip is sucked in along with it.
+text: He stares into the whirling fluid in the syringe.
+scene_heading: SERIES OF SHOTS - THE SYRINGE
+text: In its swirl:
+text: 1) Spider-Man careens like a maniac through Greater Manhattan
+text: airspace.
+text: 2) Peter Parker sits despondent in Otto's laboratory, head in
+text: his hands.
+text: 3) He crouches at the side of Ben Parker, watching him die.
+speaker_heading: BEN
+dialog: (0.S.)
+dialog: I thought I'd taught you the
+dialog: meaning of responsibility, Peter.
+dialog: At least by my death. That's the
+dialog: part of all this that makes me the
+dialog: saddest.
+text: Peter turns. Uncle Ben is sitting on the bed behind him.
+speaker_heading: PETER
+dialog: You don't know what it's like,
+dialog: Uncle Ben. You don't know how it
+dialog: feel to be such a freak of nature!
+dialog: Okay, with great power comes great
+dialog: responsibility. I get that.
+dialog: But you know what comes with no
+dialog: power? No worries. No guilt. No
+dialog: freak show!
+text: With his free hand he pours a shot of vodka. Tosses it back.
+speaker_heading: PETER (CONT'D)
+dialog: I'm not going to lose Mary Jane
+dialog: because of Spider-Man. I can be
+dialog: Spider-Man, or I can have a life. A
+dialog: normal life.
+text: And drawing a deep breath he jerks up his shirt, baring his
+dialog: hip.
+dialog: 58.
+text: Pops the needle under the skin. Squeezes. It hurts. A lot.
+text: His eyes roll back in his head.
+scene_heading: INT. DITKOVICH'S HOUSE - LIVING ROOM - NIGHT
+text: CLINK of coins. A muffled THUD from above. Play stops.
+text: Ditkovich starts to say something. Changes his mind.
+speaker_heading: DITKOVICH
+dialog: Hit me.
+scene_heading: INT. PETER'S ROOM - NIGHT
+text: Peter wakes up on the floor. Sits up. Hand to his hip; a tiny
+text: dimple under the skin.
+text: He checks himself out in the mirror. Strong. Fit. No visible
+text: difference. He frowns, then leaps up into the air. Completes
+text: a half-flip, and sticks feet first against the ceiling. Damn.
+text: He dresses with care, buttoning his neat civilian clothes.
+text: Then he goes to the closet. Crouches down, opens a panel in
+text: the closet wall. Takes out a little rolling suitcase with a
+text: picture of Wolverine. Unzips it:
+text: The red and blue suit, neatly folded.
+scene_heading: EXT. FAR BROOKLYN - VACANT LOT - DAWN
+text: Still dark. Peter carries the suitcase down a deserted
+text: street and then out into a swampy waste. In the distance,
+text: HOMELESS MEN around a burning steel drum. Here, a steel drum
+text: standing alone.
+text: The suitcase CLANGS against the inside of the drum. Peter
+text: takes out a can of lighter fluid.
+text: Douses the thing liberally, then strikes a match. HUGE,
+text: STUPIDLY HUGE FIREBALL.
+text: Peter leaps to one side. Kicks over the drum. Flame scatters
+text: everywhere. He jumps around trying to stamp them out. Faraway
+text: LAUGHTER from the men.
+text: Peter picks up still-intact suitcase.
+speaker_heading: PETER
+dialog: Ouch!
+text: He shakes the costume out of the smoldering case.
+text: Picks it up off the ground, stares at it. The dead eyes of
+text: the mask stare back.
+dialog: 59.
+text: He stuffs the thing into the steel drum and walks away. Does
+text: not look especially unburdened.
+scene_heading: EXT. VACANT LOT - ANOTHER VIEW
+text: A HOMELESS MAN watches Peter walk away from the drum.
+text: He tacks a little unsteadily across the lot toward the drum.
+scene_heading: INT. SUBWAY CAR - DAY
+text: Peter riding in a subway car, smudges of black on his face.
+text: Nearest him sits A YOUNG WOMAN in scrubs. Near her are a
+text: couple of MEN. They're staring at her. Peter sees it.
+speaker_heading: MAN
+dialog: Hi.
+speaker_heading: YOUNG WOMAN
+dialog: Hello.
+speaker_heading: MAN
+dialog: I'm Jack. I said, Hi. I'm Jack.
+text: The woman was trying to ignore him. She blushes.
+text: Peter's spider sense TINGLES as he watches.
+speaker_heading: SECOND MAN
+dialog: You don't got to be rude, bitch.
+text: Peter, sweating. His fingers flex. His lips narrow. His eyes
+text: meet the second man's.
+text: The train pulls screeching into the station. The doors open
+text: and the girl slips out. The men stand up as if to follow her,
+text: then sit back down. They laugh.
+text: One of them flips Peter off. Peter looks away.
+scene_heading: INT. DAILY BUGLE - JJJ'S OFFICE - DAY
+text: The homeless man stands across the desk from JJJ. Carrying
+text: the charred husk of the suitcase.
+speaker_heading: JIT
+dialog: I hope you don't have the head of
+text: an extraterrestrial in there.
+speaker_heading: HOMELESS MAN
+dialog: No, sir.
+speaker_heading: JIT
+dialog: Because if you do, you're the third
+dialog: guy this week.
+dialog: 60.
+text: The homeless man unzips the bags and yanks out the costume.
+text: It's blackened and crumpled but still gorgeous. Real.
+speaker_heading: JJJ (CONT'D)
+dialog: Where the hell did you get that?
+speaker_heading: HOMELESS MAN
+dialog: This guy left it in the garbage.
+dialog: Out in New Lots. First he tried to
+text: set it on fire.
+speaker_heading: JIT
+dialog: Set it on fire?
+text: He takes the costume and shakes it out by the shoulders.
+text: Turns it this way and that. Then he grins.
+speaker_heading: JJJ (CONT'D)
+text: He's out. Thrown in the towel!
+dialog: Abandoned his sad masquerade! He--
+text: A dark thought occurs.
+speaker_heading: JJJ (CONT'D)
+dialog: That loser! Quitting on me! In the
+dialog: middle of the best damn story I've
+dialog: had in thirty years! If I hadn't
+dialog: already crushed him, I'd crush him
+dialog: again just for giving up on me!
+text: JJJ is forgetting his visitor.
+speaker_heading: HOMELESS MAN
+dialog: Uh, mister...
+speaker_heading: JIT
+dialog: Wait a minute. What kind of idiot
+dialog: does he think I am? A burnt
+dialog: costume! How heavy-handed can you
+dialog: get? Sure, he wants everybody to
+dialog: think he's quit. When, in reality,
+text: he's just going underground.
+dialog: Inventing a whole new identity for
+dialog: himself!
+speaker_heading: HOMELESS MAN
+dialog: Mr. Jameson, please, I'm hungry.
+text: JJJ haggles, but his heart's not in it. He's staring fixedly
+text: at the Spidey suit.
+speaker_heading: JIT
+dialog: I'll give you fifty bucks.
+dialog: 61.
+speaker_heading: HOMELESS MAN
+text: A hundred.
+speaker_heading: JIT
+text: Seventy-five.
+scene_heading: EXT. UNIVERSITY - DAY
+text: Peter comes up out of the subway, carrying a knapsack. Part
+text: of a stream of other students.
+text: Walks past an alley, sees THREE MEN standing together. None
+text: of them savory looking. Two are clearly threatening the
+text: third. They rifle the pockets of his jacket. They snatch a
+dialog: little parcel. Slap him.
+text: Peter's face, wrestling with the problem. Should he do
+text: something? He takes a deep breath and keeps on walking.
+text: Hesitant at first, then steadily.
+scene_heading: INT. JJJ'S OFFICE — NIGHT
+text: Late editorial meeting. The costume hangs conspicuously from
+text: the door. STAFFERS keep sneaking glances at it as JJJ
+text: harangues them.
+text: JJJ picks up a front page proof. Headline: SPIDEY PLAYS
+speaker_heading: POSSUM!
+speaker_heading: JIT
+text: Spider-Man has put himself into a
+dialog: one-man witness protection program.
+dialog: He's in hiding. And it's going to
+dialog: be my personal mission, and yours,
+dialog: to root him out! Expose him to the
+dialog: light! There's no hiding from the
+dialog: truth, let's show him that!
+dialog: (beat)
+dialog: That's all I have so far. You
+text: people figure out the rest.
+text: They all get up and file out. Some groans. ROBBIE ROBERSTON
+text: turns as he's leaving, pausing by the costume. Sniffs.
+speaker_heading: ROBBIE
+text: Lighter fluid.
+text: He goes out. Shuts the door.
+text: Jonah goes over to the suit. Regards it. Leans forward.
+text: Sniffs it. A weird idea comes into his brain. He starts to
+text: unbutton his shirt.
+dialog: 62.
+scene_heading: INT. JJJ'S OFFICE — NIGHT
+text: We're watching him, maybe through the window. He pulls the
+text: mask down over his head, completing the costume. Naturally
+dialog: it's not a perfect fit.
+text: He poses stiffly, movements awkward. Then he catches sight of
+text: himself in a mirror. Strikes a pose. Another.
+text: A parody of Spidey's characteristic moves. Finally he does
+text: the upside-down hook'em horns webshooting thing. We leave him
+text: having a shameless amount of fun.
+scene_heading: INT. DITKOVICH'S HOUSE - DINING ROOM
+text: The next morning Peter wakes up in bed. Sits up, blinking,
+text: pressing at his hip.
+text: He picks up Biomolecular Chemistry. Holds it close, far,
+text: close. Readable but a little blurry. He smiles.
+text: Gets out of bed. Maybe he's shrunken a bit.
+text: He goes over to a wallpapered wall and lays his palm against
+text: it. It slides a quarter inch; he smiles. It sticks. He
+text: frowns. He creeps up the wall and onto the ceiling. Hangs
+text: there. Drops onto the floor. Not yet.
+text: He FIRES a strand of web. It shoots clear and thin. Then
+text: weirdly it SPUTTERS. FOAMS UP.
+text: He shakes his hand at the wrist. Shoots again. Another clear
+text: strand shoots out and hits his knapsack. Jerks it back to
+text: him. But something is changing.
+speaker_heading: PETER
+dialog: It's working.
+text: He's delighted.
+scene_heading: INT. DITKOVICH'S HOUSE - STAIRS - DAY
+text: Peter comes flying down the stairs.
+speaker_heading: PETER
+dialog: Ditkovich! Ditkovich!
+text: He gives an exuberant little kick at the bottom of the
+text: stairs. Loses his footing. Falls on his ass.
+text: Ditkovich looks down at him. Peter's not even embarrassed.
+dialog: 63.
+speaker_heading: PETER (CONT'D)
+dialog: What a klutz, huh?
+dialog: (grins)
+dialog: I need to use the phone.
+scene_heading: INTERCUT - PETER AND MJ
+text: MJ is doing yoga. In Downward Dog pose when the phone rings.
+speaker_heading: MJ
+dialog: Hello?
+speaker_heading: PETER
+dialog: MJ? It's Peter. I-- I want to see
+dialog: you.
+text: She doesn't say anything.
+speaker_heading: PETER (CONT'D)
+dialog: I want to take you out. After your
+dialog: show. Tonight. I thought we could
+dialog: have dinner. I've made a few
+dialog: changes.
+speaker_heading: MJ
+dialog: I can't, Peter. Even if I wanted to
+dialog: see you. Which I'm not totally sure
+dialog: that I do. I already have plans.
+speaker_heading: PETER
+dialog: With Otto Octavius?
+text: She's taken by surprise by this.
+speaker_heading: MJ
+dialog: I don't think that's any of your
+dialog: business, Peter. Goodbye.
+text: She hangs up, leaving Peter looking puzzled.
+scene_heading: INT. ANANSI PROJECT LABORATORY - NIGHT
+text: Otto's singing in the shower. The shower is actually a
+text: hazmat-exposure rinse. He towels off. Singing "Tonight" from
+dialog: West Side Story.
+text: In his exuberance, he is being WATCHED by the Rig. After a
+text: moment he approaches the Rig. Reaches up to touch it.
+speaker_heading: OTTO
+dialog: (just kidding around)
+dialog: You jealous? Silly thing. You know
+dialog: what you and I have is special.
+dialog: 64.
+text: A moment of doubt.
+speaker_heading: OTTO (CONT'D)
+dialog: Actually, I almost wish I could
+dialog: take you with me. Don't feel like
+dialog: quite such a fool with you around.
+dialog: Must be the endorphin push.
+text: He looks around. Peels off his shirt.
+scene_heading: INT. MARTIN BECK THEATER - STAGE - NIGHT
+text: MJ's on stage, singing. We do a kind of Citizen Kane rise up
+text: into the catwalks high above the stage.
+text: Peter Parker dangles by a thread. Upside down. Listening as
+text: MJ's voice rises.
+scene_heading: INT. QUEENS HOT DOG STAND - NIGHT
+text: Otto and MJ carrying a couple of dogs apiece toward the
+text: counter. It's very crowded. Otto's wearing his long coat.
+speaker_heading: MJ
+dialog: Thanks for indulging me. I know
+dialog: it's a long way to come for a hot
+dialog: dog. But these are the best.
+speaker_heading: OTTO
+dialog: I've never been to Queens before.
+text: Otto stumbles. Two 'pods shoot out of the bottom of his coat
+dialog: and arrest his fall.
+text: He rights himself, blushing. No one has noticed but us. He
+text: takes a bite.
+speaker_heading: OTTO (CONT'D)
+dialog: It's a very good hot dog.
+speaker_heading: MJ
+dialog: I really needed it.
+speaker_heading: OTTO
+dialog: I'm sorry the show's not getting
+dialog: any easier for you.
+speaker_heading: MJ
+dialog: It's like there's this pane of
+text: glass between me and the audience.
+dialog: They can see me and hear me, but
+dialog: they can't feel me.
+dialog: 65.
+speaker_heading: OTTO
+dialog: I don't agree. I think you're the
+dialog: most marvelously expressive
+dialog: performer I've ever witnessed.
+text: MJ beams for an instant, then cracks up, then looks at him.
+speaker_heading: MJ
+dialog: You're sort of gaga over me, aren't
+dialog: you?
+speaker_heading: OTTO
+dialog: Sort of. I hope that's okay.
+speaker_heading: MJ
+dialog: I think so.
+speaker_heading: OTTO
+dialog: I know we haven't known each other
+dialog: for very long. But I--
+text: He winces, and reaches involuntarily for his side.
+speaker_heading: MJ
+dialog: You okay?
+speaker_heading: OTTO
+dialog: Bad back.
+text: Through the plate-glass windows we can see Peter watching
+text: them from out on the street.
+scene_heading: EXT. STREETCORNER - NIGHT
+text: Otto and MJ stand a foot apart.
+speaker_heading: OTTO
+dialog: So what do you want to do, now?
+speaker_heading: MJ
+dialog: I don't know.
+speaker_heading: OTTO
+dialog: Would you like--
+dialog: (f£linches )
+dialog: Would you like to come to my place?
+dialog: My home, this time. Not my lab.
+dialog: I've been working on a Mozart trio.
+speaker_heading: MJ (confused)
+dialog: You have another Rig at home?
+dialog: Oops.
+dialog: 66.
+speaker_heading: OTTO
+dialog: Well, sort of. You see--
+text: TWO BIG BAD MEN pass. One bumps into Otto. Kind of hard.
+speaker_heading: OTTO (CONT'D)
+dialog: Hey, watch it, man.
+text: The BBM ignores him. Otto starts after, with those freaky
+text: octopus eyes.
+dialog: Mo
+dialog: Otto...
+text: Otto seems to rise up, weirdly looming.
+speaker_heading: OTTO
+dialog: I don't know why human beings
+dialog: persist in believing that mere
+dialog: physical bulk confers some sort of
+dialog: evolutionary advantage.
+text: The BBM feels a tap on his shoulder. It's a 'pod, natch.
+speaker_heading: MAN
+dialog: Yeah?
+text: The 'pods snake out around Otto, fatal and alert.
+speaker_heading: On MJ
+text: She looks fully as if the flesh of the guy that she's sort of
+text: getting a crush on has suddenly sprouted four steel arms.
+text: Otto and the faithful Rig make short work of the two men.
+text: Otto turns back to MJ, hanging in the air. Aglow with the
+text: work out. Hurricane eyes. SIRENS in the distance.
+speaker_heading: OTTO
+dialog: We wanted to show you what we are.
+scene_heading: EXT. STREETCORNER - ANOTHER VIEW
+text: Peter is watching from a distance as Otto bursts out into
+text: strange bloom.
+speaker_heading: PETER
+dialog: Oh oh.
+text: Starts to run toward them. Then stops. Looks around. Sees:
+scene_heading: EXCELSIOR SOUVENIR SHOP
+text: He dashes in and looks around. Finds a Spider-Man replica t
+dialog: shirt.
+dialog: 67.
+text: Grabs it, and a Big Apple ski mask. Runs out of the shop with
+text: the SHOPOWNER running after him.
+text: As he runs he pulls on the long-sleeved T-shirt and mask.
+scene_heading: EXT. STREETCORNER - ON OTTO AND MJ
+text: The arms retract and Otto comes to her, his clothing in
+text: tatters. She backs away. Turns. Tries to run.
+text: A 'pod lazily retrieves her. Whips her around.
+speaker_heading: OTTO (plural voice)
+dialog: Look at us!
+text: She meets his gaze. He looks tenderly at her. SIREN getting
+text: louder.
+speaker_heading: OTTO
+dialog: (normal voice)
+dialog: You're so lovely.
+text: The fingertip of the 'pod strokes her cheek with the same
+dialog: tenderness. Ick.
+speaker_heading: MJ
+dialog: Get away from me!
+text: She tries to duck free of the 'pod. He won't let go.
+speaker_heading: SPIDER-MAN
+dialog: (0.S.)
+text: Let go of her.
+text: Otto turns. Sees Peter standing there. Laughs.
+speaker_heading: OTTO
+dialog: We're out of candy, kid. You'll
+dialog: have to TP the house.
+speaker_heading: SPIDER-MAN
+dialog: Put her down!
+text: He flies at Otto. Otto sidesteps him and, reinforcing his
+text: grip on MJ, starts to flee up the side of a building. On top
+text: of the building they start to fight.
+text: A leaping pursuit across the rooftops. Elevated tracks in
+text: the distance. On the next to last rooftop before the tracks,
+text: Otto turns. The fight begins.
+text: It's not a fair fight; Otto his hampered by holding MJ.
+text: Otto looks at MJ: reproach in his eyes. Then he sets her
+text: gently down. And leaps over to the next building.
+dialog: 68.
+text: Spider-Man goes to MJ. She shakes his arm.
+speaker_heading: MJ
+dialog: Go get him. Please. He's not bad.
+text: Peter peers at her through the eyeholes of the ski mask.
+speaker_heading: PETER
+dialog: Do you...Do you love him?
+speaker_heading: MJ
+dialog: He's my friend. He's angry. And
+dialog: dangerous. Please, Spider-Man.
+dialog: Don't let him hurt himself.
+text: Spider-Man nods. And goes after Otto. Chases him across the
+text: last rooftop before the tracks. Otto hesitates on the ledge.
+text: Spider-Man flies at him headfirst. HITS and they both tumble
+text: over the side of the building.
+speaker_heading: “TRAIN SEQUENCE" (TR)
+text: They fall onto the elevated tracks that run alongside the
+dialog: building.
+text: A train is passing at that moment. They smash down onto the
+text: top of it and are carried along the rushing tracks.
+text: Otto rights himself. Gets to his feet.
+speaker_heading: OTTO
+dialog: I'm ready. Come on.
+text: Spidey rises and then it's basically a five mile long version
+text: of King of the Hill, at high speed. Or maybe the myth of
+text: Sisyphus. Otto digs at the head of the car, and Spidey comes
+text: after him. And Otto throws him off, and Spidey comes after
+dialog: him.
+text: Every time he falls off the train, something worse happens to
+dialog: Spider-Man than the time before. It's brutal. But he always
+text: climbs back on.
+text: At one point Spidey manages to get right onto Otto's back. He
+text: gets his hand in at the root of the 'pods and grabs hold of
+text: the Latch. Pulls on it. It SNAPS and swings free. Still
+text: attached. But useless. And Otto HURLS him off the train.
+text: Spidey climbs back on.
+text: After the Latch busts, Otto just keeps getting stronger. But
+text: we notice that Spidey seems to be tiring. He's winded.
+text: So it makes Otto angry that Spidey keeps on coming. He knocks
+text: Spidey off again, and then smashes in the window of the car
+text: beneath his feet, reaches in with his 'pods.
+dialog: 69.
+text: He starts yanking people right out and tossing them to the
+text: side. Spider-Man snares them all in webs. The last time, his
+text: webbing SPUTTERS before it fires.
+text: Finally Otto rips the controls right out of the car. Then he
+text: jumps off the train. Spider-Man wants to go after him.
+text: But the train is now hurtling out of control. He can't just
+dialog: leave it.
+text: He stays. And it's a good thing, because a big L-bend in the
+text: tracks is coming up. And the train is going much too fast to
+dialog: take the turn.
+text: Spider-Man manages to get all the passengers evacuated to the
+text: rear half of the train.
+text: Then he gets behind the first three cars (now empty), right
+text: in down between, and cuts the lead ones loose. Gives them a
+text: mighty push. They race ahead, smash through the guard rail,
+text: and PLUNGE over the side of the elevated.
+text: Now Spider-Man has to stop the part with the PASSENGERS. He
+text: jumps down in front of the car that's now the lead. Plants
+text: his legs against the speeding track itself. Railroad ties
+text: SNAP-SNAP-SNAP and the momentum slows. But not enough.
+text: Finally, web SPUTTERING, at the very limit of his strength,
+text: Spider-Man strings his own body between buildings with
+text: webbing, making himself into the focus of a giant slingshot,
+text: with all those tons of train shoving right up against him.
+text: And the train slows. And slows. And slows. And stops. The
+text: Passengers CHEER.
+text: Utterly spent, his makeshift costume tattered, gaping holes
+text: in his mask, Spider-Man hangs over the abyss, clinging to the
+text: edge, held in place by the tension of his webbing against the
+text: bulk of the train behind him. And then--
+speaker_heading: AT HIS WRISTS
+text: The webbing gives out. For good. The spinnerets FOAM OVER
+text: like emptied aerosol cans.
+text: He hangs suspended for a moment. Then falls--
+text: And is caught, by the Passengers. Leaning out of the front
+text: windows of the train.
+text: They drag him back in and lay him on the floor. His mask is
+text: so torn and stretched that you can see more than half his
+dialog: face.
+text: The passengers look down at him. Then AN OLDER MAN reaches
+text: down and tugs the mask back over Spider'man's face. Looks up
+dialog: at the others: Anybody got a problem with my doing that?
+dialog: 70.
+dialog: Nobody does.
+scene_heading: INT. ANANSI PROJECT LABORATORY - NIGHT
+text: Otto stumbles back into the lab. He's crying. He backs into
+text: the coupler and activates it. It advances to a certain point
+text: and then stalls. Tries it again; nothing.
+text: His hand reaches for the Latch. It's loose; he remembers in
+scene_heading: FLASHBACK - FIGHT
+text: As Spider-Man BUSTS the latch while trying to decouple Otto.
+scene_heading: PRESENT MOMENT - LAB
+text: A glinting black 'pod joins his hand on the Latch. They are
+text: together forever now. A look on Otto's face of inexpressible
+text: rapture or possibly unbearable pain. He sinks to the ground.
+scene_heading: INT. ANANSI PROJECT LABORATORY - DAY
+text: Early the next morning. One of the GRADUATE ASSISTANTS lets
+text: lets herself in. Wearing headphones, listening to the Flaming
+dialog: Lips. Nicest time of the day.
+text: Singing along, hangs up coat, turns on lights. Takes a moment
+text: or two to sense that something is amiss. Doffs the
+text: headphones. Turns to look at:
+scene_heading: THE EMPTY COUPLER
+text: Cables dangling loose.
+dialog: This pretty much freaks out the Graduate Assistant
+dialog: completely.
+speaker_heading: ASSISTANT
+dialog: Professor Octavius?
+speaker_heading: OTTO
+text: Lies on the floor, naked, in the rig. Weird fluid seeping
+text: from the flesh/machine interface. The assistant goes for the
+text: phone, stabs out a code.
+speaker_heading: ASSISTANT (CONT'D)
+dialog: This is Gretchen McCord, in the
+dialog: Anansi lab. I need help. I need
+dialog: doctors. A lot of doctors.
+text: An ALARM begins to sound.
+scene_heading: INT. RESEARCH CENTER - CORRIDOR - DAY
+text: A special team of commando DOCTORS, extreme surgeons, rush
+text: along, wheeling equipment and gear. They're like Helmut
+text: Newton doctors, packing in a portable operating theater.
+dialog: 71.
+scene_heading: INT. ANANSI PROJECT LABORATORY - DAY
+text: Converted to an impromptu surgery. Otto lies on a table with
+text: the 'pods wilting around him.
+text: The X-docs go to work. They're wearing mirrored eyeshades and
+text: using laser instruments. It's a complicated ballet of
+text: machinery and surgeons and blood. The ANESTHESIOLOGIST
+text: monitors the EKG.
+speaker_heading: DOCTOR 1
+dialog: Jesus! Look at his tissue! It's
+text: changing so fast you can see it.
+speaker_heading: DOCTOR 2
+dialog: His autoimmune function is breaking
+text: down completely.
+speaker_heading: DOCTOR 3
+dialog: The Rig's like a parasite...that's
+text: going to kill its host.
+speaker_heading: DOCTOR 4
+dialog: Unless we kill him first by trying
+dialog: to remove it.
+text: The pace of the EKG ratchets up a notch.
+speaker_heading: ANESTHESIOLOGIST
+dialog: I may need to give him a little
+dialog: more. So are we going to do this or
+dialog: not?
+text: The doctors look at each other.
+speaker_heading: DOCTOR 3
+dialog: All right. Come on.
+text: The Anesthesiologist prepares to turn up the gas on Otto.
+text: One of the 'pods stirs faintly. Unobserved. It's diode
+text: pulses. Takes in the situation.
+text: The surgeons take up their instruments.
+text: From the pseudpod, a soft WHIRR as we travel down
+text: INTO THE POD ITSELF
+text: Into its systems. Impulses sent to a fabrication unit. A
+text: complicated organic molecule takes rapid shape, then a dozen
+text: more like it, and we follow them back out of the fab.
+text: The molecules are pumped directly into another system: Otto's
+text: nervous system. Up the spine, toward the brain.
+dialog: 72.
+text: A soft feminine VOICE wells up, muffled. Almost sounds like
+dialog: it's saying, Wake up, Otto.
+speaker_heading: OTTO'S BODY
+text: We travel up along his hips and chest, through his neck and
+dialog: up to
+speaker_heading: HIS EYES
+text: They snap open.
+speaker_heading: OTTO
+dialog: I'm awake.
+text: With a ROAR he comes to life. The ‘pods windmill and lash and
+text: flail. A tornado or turbine.
+text: Within moments, Otto stands surrounded by bodies. He's
+text: bleeding himself.
+text: The servo of a 'pseudopod TRILLS softly. The other 'pods
+text: gather near it, and turn their attention as one on Otto.
+text: Darting, flexing, the 'pods go to work on Otto's wounds. One
+text: cleans with a swab. One secretes an ointment. One radiates a
+text: healing light. And one pours him a glass of brandy. He knocks
+text: it back. Sighs.
+speaker_heading: OTTO (CONT'D)
+dialog: All right. System report.
+text: He appears to be LISTENING to a voice in his head, a soft
+text: feminine MURMUR we can almost make out. Winces.
+speaker_heading: OTTO (CONT'D)
+dialog: Jesus, that's disgusting. How long
+dialog: do we have?
+dialog: (listening)
+dialog: I'm going to have to try the parity
+dialog: chip.
+text: He goes over to the tray. Of course it's not there.
+speaker_heading: OTTO (CONT'D)
+dialog: Spider-Man! He stole it--or Parker
+dialog: stole it for him.
+dialog: (listens)
+dialog: No, no time to fab a new one.
+text: His VOICE thickens as he shift to the plural, as if another
+text: strand had been woven into it.
+speaker_heading: OTTO (CONT'D)
+dialog: We need to find another means of
+dialog: attaining system equilibrium.
+dialog: 73.
+scene_heading: INT. ANANSI PROJECT LABORATORY - CONTINUOUS
+text: Otto opens one of the X-doctors' portable lockers. Stacked
+text: with their rubberized scrub-jumpsuits. Holds it up. Yes, it
+dialog: will do. The 'pods take it from him.
+speaker_heading: THE 'PODS
+text: Go to work modifying the uniform. A blade. A needle. A heat
+text: sealer. Then they hand it back to Otto. He holds it up; now
+text: it can fit around the rig.
+scene_heading: INT. LABORATORY - NIGHT
+text: Otto checks himself out in a mirror over a sink. Pretty
+text: styling. He looks closer.
+speaker_heading: HIS EYES
+text: Colored storms race across them. The surface of Jupiter.
+text: This won't do. He picks up a pair of eyeshields.
+text: Electrochromic lenses that darken at a touch. He darkens
+text: them, then smiles at the man in the reflection: Doc Ock.
+speaker_heading: OTTO
+dialog: Not bad for a dying man.
+scene_heading: INT. MARTIN BECK THEATER — REHEARSAL ROOM - DAY
+text: MJ is taking some coaching from a WOMAN AT A PIANO. Trying to
+text: find around a thorny note in her song. The DIRECTOR of
+text: Bride! pokes in his head.
+speaker_heading: DIRECTOR
+dialog: MJ? Talk to you a minute?
+text: MJ looks at the Pianist. The Pianist knows. Looks away.
+scene_heading: INT. DIRECTOR'S OFFICE - DAY
+text: MJ's talking fast as he ushers her in.
+speaker_heading: MJ
+dialog: Bobby, I know I keep screwing up my
+text: blocking in the scene with the
+dialog: couch.
+speaker_heading: DIRECTOR
+dialog: You've been fine.
+speaker_heading: MJ
+dialog: I've been working all day with
+dialog: Renard--
+text: She sits.
+dialog: She doesn'
+text: She cocks
+dialog: She takes
+dialog: MJ's eyes
+dialog: 74.
+speaker_heading: DIRECTOR
+dialog: Sit down.
+text: He slides a box of mints across the desk.
+speaker_heading: MJ
+dialog: No, thank you.
+speaker_heading: DIRECTOR
+dialog: Take one. It's a proven fact that
+dialog: it's harder to cry if you have a
+dialog: mint in your mouth.
+dialog: t get it. Then she gets it.
+speaker_heading: MJ
+dialog: When is she coming back?
+speaker_heading: DIRECTOR
+text: Tomorrow night. She's strong and in
+text: good voice, and she's all ready to
+dialog: go.
+speaker_heading: MJ
+dialog: Well. I'm glad to hear that. It was
+dialog: a great learning experience for me,
+dialog: and--
+speaker_heading: DIRECTOR
+dialog: I'm glad you feel that way, MJ, I
+dialog: really am. But, well, there's one
+dialog: more thing I have to tell you.
+text: her head, curious, no idea what it could be.
+speaker_heading: DIRECTOR (CONT'D)
+dialog: Please, have a mint.
+dialog: a mint.
+speaker_heading: DIRECTOR (CONT'D)
+dialog: Allie Black is going to take over
+dialog: as the Shepherdess. And as Mrs.
+text: Frankenstein's understudy.
+text: fill with tears. She goes pale.
+speaker_heading: MJ
+dialog: What? Why? Bobby, why?
+dialog: 75.
+speaker_heading: DIRECTOR
+dialog: Well, I just think, and Howard
+dialog: agrees with me, that it would be
+dialog: best. Overall. It's not you, MJ.
+dialog: It's the show. It's just not the
+dialog: best fit. For you.
+text: MJ is in shock now. She nods, rises, heads for the door.
+text: Before she goes out she turns back. Being brave.
+speaker_heading: MJ
+dialog: Bobby, can I ask you something? Do
+dialog: you think I have any talent?
+speaker_heading: DIRECTOR
+dialog: Talent? Yes. And guts. Looks, too,
+dialog: if you don't mind my saying so.
+dialog: But-—
+speaker_heading: MJ
+dialog: But what?
+speaker_heading: DIRECTOR
+dialog: Nothing.
+speaker_heading: MJ
+dialog: Come on. You'll be doing me a
+dialog: favor.
+speaker_heading: DIRECTOR
+dialog: You seem to have a hard time
+dialog: opening up. Really connecting to
+dialog: the audience. There's something
+dialog: broken way down inside of you that
+dialog: you don't want to let out. Most
+dialog: people don't. But actors have to.
+text: She nods, bitterly. She knows. She slips out.
+scene_heading: EXT. THEATER - DAY
+text: MJ stands outside the theater. Bills are going up over the
+text: posters, next to the words DEIRDRE DUNN, that read HER
+text: TRIUMPHANT RETURN. It's raining. Maybe it's even starting to
+text: snow. She just stands there, crushed.
+text: FOOTSTEPS. It's Renard, walking into the theater. He sees
+text: her, and then starts to act like he didn't.
+speaker_heading: MJ
+dialog: Renard?
+dialog: 76.
+speaker_heading: RENARD
+dialog: Oh!
+dialog: (bad acting)
+dialog: MJ Hi. Hey. I heard.
+speaker_heading: MJ
+dialog: I should have known. I don't know
+dialog: why I ever thought I--
+speaker_heading: RENARD
+dialog: Yeah, that's tough. I know how
+dialog: you're feeling.
+text: Somehow not quite sincere.
+speaker_heading: MJ
+dialog: No, you don't. There's only one
+dialog: person who knows how I'm feeling
+dialog: right now.
+scene_heading: INT. PETER'S ROOM - DAY
+text: Peter is on the phone. He's a wreck, battered, cut.
+speaker_heading: RECEPTIONIST
+dialog: (0.S.)
+dialog: Center for Biomimetic Research.
+speaker_heading: PETER
+dialog: Dr. Octavius, please?
+speaker_heading: RECEPTIONIST
+text: Just a moment.
+speaker_heading: HARSH VOICE
+dialog: (0.S.)
+dialog: Who is this?
+speaker_heading: PETER
+dialog: I'ma... friend... of Dr. Octavius.
+speaker_heading: HARSH VOICE
+dialog: (0.S.)
+text: Dr. Octavius has resigned his
+dialog: appointment. Who is this?
+text: Peter hangs up. Spooked. A KNOCK at his bedroom door. He
+dialog: jumps.
+speaker_heading: PETER
+dialog: Yeah?
+text: Ditkovich opens the door.
+dialog: 77.
+speaker_heading: DITKOVICH
+dialog: Pretty girl is here.
+scene_heading: INT. DITKOVICH'S HOUSE - DAY
+text: Peter comes down the stairs. MJ is standing in the living
+text: room. They look at each other; he reads her sadness.
+speaker_heading: PETER
+dialog: What happened?
+text: She goes to him and bursts into tears. He holds her. Strokes
+text: her hair. She looks up at him.
+speaker_heading: MJ
+dialog: You're wearing your glasses.
+scene_heading: EXT. CONEY ISLAND - BOARDWALK - DUSK
+text: They walk along the deserted boardwalk. Snow flurries.
+speaker_heading: PETER
+dialog: Those guys are crazy, MJ. That's
+dialog: all I can say. I saw you. You were
+dialog: awesome.
+text: She turns to look at him.
+speaker_heading: MJ
+dialog: You saw me? When did you see me?
+speaker_heading: PETER
+dialog: Oh, I dropped in the other night.
+dialog: You were fantastic! You put
+dialog: everything you have out there, MJ.
+dialog: Everything you are. Right up front.
+dialog: You always have. That's what I've
+dialog: always...
+speaker_heading: MJ
+dialog: What? That's what you always what?
+text: He puts his arm around her. She leaves it there.
+scene_heading: INT. DINER - NIGHT
+text: Peter drinks coffee. MJ's eating a huge sundae.
+speaker_heading: PETER
+dialog: I know what a jerk I've been. I
+dialog: understand why you got mad at me. I
+dialog: said I would always be there for
+dialog: you, and then I wasn't.
+speaker_heading: (MORE )
+dialog: 78.
+speaker_heading: PETER (CONT'D)
+dialog: But I swear to you, MJ, things are
+dialog: going to be different now.
+text: She rolls her eyes.
+speaker_heading: PETER (CONT'D)
+dialog: What? I'm serious.
+speaker_heading: MJ
+dialog: Why are things going to be
+dialog: different now? Because you started
+dialog: wearing your glasses again?
+speaker_heading: PETER
+dialog: Because--I can't tell you. But you
+dialog: don't need to worry about it,
+dialog: because I have changed, and--
+dialog: But MJ's getting steamed.
+speaker_heading: MJ
+dialog: You can't tell me? You can't tell
+dialog: me! Peter Parker, if you can't tell
+dialog: me, if you can't trust me, then
+dialog: nothing has changed at all! You and
+dialog: your little boy secrets!
+text: She pushes away the ice cream.
+speaker_heading: MJ (CONT'D)
+dialog: Call me when you're ready to grow
+dialog: up!
+text: PEOPLE are staring. Timidly Peter raises a finger.
+speaker_heading: PETER
+dialog: Check, please.
+speaker_heading: MJ
+dialog: Isn't there one semi-normal, grown
+dialog: up human male in this whole goddamn
+dialog: city?
+text: The WAITRESS brings the check.
+speaker_heading: WAITRESS
+dialog: I hope that was a rhetorical
+dialog: question.
+text: Peter takes out his wallet. As he opens his wallet, he
+text: already knows what he will find in it.
+text: It's empty.
+dialog: 79.
+speaker_heading: PETER
+dialog: I, uh, I need to get to an ATM.
+text: MJ, disgusted, yanks open her purse. Scrambles up from the
+dialog: table.
+speaker_heading: MJ
+dialog: Yeah. Things have really changed a
+dialog: lot.
+text: MJ shakes her head, tosses down a twenty, walks out.
+scene_heading: EXT. MINEO'S PIZZA - NIGHT
+text: Peter approaches. GIBREEL is out front, struggling to attach
+text: a hot box to the back of his motorscooter. It tumbles.
+text: Peter lurches to grab it but PIZZAS go scattering everywhere.
+text: GIBREEL is frantic. Peter tries to help him gather them.
+speaker_heading: PETER
+dialog: Same thing happened to me one time.
+text: Mr. Aziz comes out.
+speaker_heading: MR. AZIZ
+dialog: Peter Parker!
+scene_heading: INT. MINEO'S PIZZA - NIGHT
+text: Peter stands supplicant, Mr. Aziz shaking his head. The phone
+speaker_heading: RINGS and RINGS.
+speaker_heading: PETER
+dialog: It's just I'm flat broke, Mr. Aziz.
+dialog: Please give me another chance.
+speaker_heading: MR. AZIZ
+dialog: I am sorry, Peter, but following
+dialog: your downsizement I have been
+dialog: obliged to hire my nephews from
+dialog: home.
+text: He nods his head toward SALADIN, who is engaged in fatal
+text: combat with a round of dough.
+speaker_heading: MR. AZIZ (CONT'D)
+dialog: If anything they are even less
+dialog: competent than you, but they are
+dialog: family.
+text: He reaches for the phone.
+speaker_heading: MR. AZIZ (CONT'D)
+dialog: Yes, yes, Mineo's.
+dialog: 80.
+text: VIEW THROUGH THE WINDOW
+text: As Gibreel putters away on his scooter. The hotbox comes
+text: loose and smashes against the street.
+text: Before Mr. Aziz can react, SPIDER-MAN walks in. Not Spider
+text: man. A guy in a realistic Spidey mask. With a big Glock.
+text: Brandishes it toward Peter, then Mr. Aziz.
+text: Saladin holds up the sagging round of dough.
+speaker_heading: SPIDEY HOOD
+dialog: Okay, Hadji, give me everything you
+dialog: got.
+text: Mr. Aziz tries to smile.
+speaker_heading: MR. AZIZ
+dialog: All right, but I hope you have a
+dialog: very modest habit, my friend,
+dialog: because this is not going to buy
+dialog: you much of a fix.
+speaker_heading: SPIDEY HOOD
+dialog: Shut up!
+text: He CLUBS Mr. Aziz on the head with his gun.
+text: Peter throws himself on the hood. Tries to get a choke-hold
+text: on him.
+text: The hood elbows Peter, then punches him hard in the stomach.
+text: Peter tries to grab him again. The hood smashes him over the
+text: head with his gun. Peter sags to the floor.
+text: The hood snatches all the cash from the register.
+text: Mr. Aziz comes over and helps Peter to his feet. Mr. Aziz is
+text: crying.
+speaker_heading: MR. AZIZ
+dialog: Thank you, Peter. You are a very
+dialog: good person.
+text: Peter staggers to his feet.
+scene_heading: INT. HARRY'S APARTMENT - DAY
+text: Harry's sleeping in the middle of the day, face down.
+text: Bottles by the bed. A CLUNK. His eyes unstick. ANOTHER WEIRD
+text: METALLIC CLUNK. Harry sits up. It sounds like it's coming
+text: from the other side of his titanium security shutters.
+dialog: 81.
+text: He hits the security panel. An image of the lobby station.
+text: The guard is dead.
+text: BRRRONG. The shutters are ripped open. Doc Ock steps in from
+text: five stories up. ALARMS are screaming.
+speaker_heading: OTTO
+dialog: I don't have time to waste, Osborn.
+dialog: I need money. Lots of it. Quickly.
+text: And a well-equipped laboratory.
+text: He takes a small envelope from his pocket, holds it out to
+dialog: Harry.
+speaker_heading: OTTO (CONT'D)
+dialog: That's my Christmas list, Santa.
+dialog: Account numbers. Suppliers. The
+dialog: address I want it all sent to.
+dialog: (grins)
+dialog: I'm going free-lance.
+speaker_heading: HARRY
+dialog: This is nuts, Otto. Are you nuts?
+dialog: You killed one of my security guys!
+dialog: (points to window)
+dialog: You trashed five million dollars
+dialog: worth of bomb shielding! What the
+dialog: hell's your problem?
+speaker_heading: OTTO
+dialog: We must achieve system equilibrium.
+dialog: Otto can't survive in this
+dialog: intermediate state.
+speaker_heading: HARRY
+dialog: Otto can't?
+text: He looks curiously at Ock. There's something different--the
+dialog: weird plural voice. Ock masters it.
+speaker_heading: OTTO
+dialog: I need Spider-Man.
+text: That gets Harry's interest.
+speaker_heading: OTTO (CONT'D)
+dialog: I need his body. Not all of it,
+dialog: just his immune system. Well, and
+dialog: his spine. And all of his bone
+dialog: marrow.
+speaker_heading: HARRY
+dialog: His spine?
+speaker_heading: OTTO
+dialog: All you need to know is that in
+dialog: return for your--corporate
+dialog: support--for this procedure... I
+dialog: guarantee you that transition to
+dialog: the next level of human evolution
+dialog: will...unavoidably... kill Spider-
+dialog: Man.
+dialog: 82.
+text: There's a distant rising TROMP of feet. A POUNDING on the
+text: outer doors.
+speaker_heading: OTTO (CONT'D)
+dialog: Think it over, Junior. What would
+dialog: your father want you to do?
+speaker_heading: SECURITY
+dialog: (0.S.)
+dialog: Mr. Osborn! Mr. Osborn!
+text: Harry looks at Otto, who tosses the envelope at
+text: fumbles the catch.
+text: Otto leaps out through the window. The SECURITY
+text: looking around.
+speaker_heading: SECURITY MAN
+dialog: Mr. Osborn! Are you all right?
+scene_heading: EXT. QUEENS CEMETERY - DAY
+text: A black Mercedes pulls up amid the rolling gray
+text: Queens cemetery. A CHAUFFEUR gets out and comes
+text: car. Opens the door for Harry.
+text: Harry gets out and looks around at the. Barren,
+dialog: hates it here.
+scene_heading: EXT. CEMETERY - NORMAN'S GRAVE - DAY
+dialog: him. Harry
+text: MEN burst in,
+dialog: surf of a
+dialog: around the
+dialog: wintry. He
+text: Harry stands in front of the headstone. A hint of spookiness
+text: in drift of leaves across the grave.
+speaker_heading: HARRY
+dialog: Dad. I know that you were a man of
+dialog: honor. A man who always played by
+dialog: the rules. And I know I'm not
+dialog: supposed to take the law into my
+dialog: own hands.
+text: Mocking LAUGHTER. Harry gazes at the thirteen unlucky
+dialog: letters:
+speaker_heading: NORMAN OSBORN.
+speaker_heading: NORMAN OSBORN
+dialog: (0.S.)
+dialog: "I know I'm not supposed to take
+dialog: the law into my own hands." What a
+dialog: pussy!
+speaker_heading: HARRY
+dialog: Dad--
+speaker_heading: NORMAN OSBORN
+dialog: You saw what Spider-Man did to me.
+text: He's playing by a different sent of
+dialog: rules. Rules for men. Let this
+dialog: Octopus do it for you, if you
+dialog: aren't man enough to do it
+dialog: yourself. But if he fails... I
+dialog: expect you to avenge me.
+dialog: 83.
+text: Harry falls down onto his knees. Collapses on the grave.
+speaker_heading: HARRY
+dialog: I will. I swear!
+scene_heading: INT. LIMOUSINE - DAY
+text: Harry flips open his cell phone, punches a number.
+text: the grave on his cheek.
+speaker_heading: HARRY
+dialog: Octavius? Osborn. You'll get
+dialog: everything you need.
+scene_heading: INT. BUGLE - DAY
+dialog: Dirt from
+text: Peter walks into the city room, toward Jameson's office. He
+text: stops when he sees:
+text: THROUGH THE PARTITION
+text: Harry and JJJ, talking urgently. On the door behind Harry,
+dialog: Peter sees:
+speaker_heading: HIS COSTUME
+text: The sight of his shocks him.
+text: He walks up to Betty Brant's desk.
+speaker_heading: BETTY
+dialog: You back on the job?
+speaker_heading: PETER
+dialog: I'm hoping to be.
+dialog: 84.
+speaker_heading: BETTY
+dialog: You sure know how to pick your
+dialog: moments.
+speaker_heading: JIT
+dialog: (0.S.)
+dialog: You change your mind?!
+scene_heading: INT. JJJ'S OFFICE — DAY
+text: JJJ and Harry are face to face.
+speaker_heading: JIT
+dialog: You can't promise a ten million
+dialog: dollar reward and then change your
+dialog: mind! I've stoked the greed and
+dialog: bloodlust of eight million people
+dialog: to a fever pitch! You're just going
+dialog: to turn your back on that?
+text: Harry is strangely cool. Cooler than we've ever seen him.
+dialog: Jabs that
+speaker_heading: HARRY
+dialog: I've found a more effective means
+dialog: of obtaining my end.
+speaker_heading: JIT
+dialog: Yeah? And what is that?
+speaker_heading: HARRY
+dialog: You'll know soon enough.
+speaker_heading: JIT
+dialog: Oh, really? Tell me this, Osborn...
+dialog: How do I know that you aren't
+dialog: Spider-Man? Eh? Maybe this whole
+dialog: reward thing was just an elaborate
+dialog: dodge. And now that's things are
+dialog: getting a little hot for you, you
+dialog: want to call it off! Your father
+dialog: was a strange character, I always
+dialog: thought so. Maybe you're a little
+dialog: strange, yourself.
+text: Jameson finger at Harry.
+speaker_heading: JJJ (CONT'D)
+dialog: Now go home, and leave the running
+dialog: of a public smear campaign to the
+dialog: people who really know what they're
+dialog: doing.
+text: Harry grabs the finger and crumples it in his fist. Jameson
+text: snatches it back, wincing.
+dialog: 85.
+speaker_heading: HARRY
+dialog: You're just a grandstanding hack,
+dialog: Jameson! You don't know what it's
+dialog: like to want revenge so bad you can
+dialog: taste it!
+text: Harry stalks out, brushes past Peter. Peter reaches out to
+dialog: him.
+speaker_heading: PETER
+dialog: Harry? Harry, what's going on?
+text: Harry whirls, furious, about to strike. The wire lattice
+text: embedded in the safety glass of the partition casts a grid of
+text: shadow across Peter's face; it looks like webbing.
+text: Harry peers at Peter, fixedly, then turns and walks out.
+text: JJJ turns to Peter, sucking on his sore finger. Peter eyes
+dialog: the costume.
+speaker_heading: JIT
+dialog: Jesus, Parker, how many times do I
+dialog: have to fire you?
+scene_heading: EXT. AUNT MAY'S HOUSE - DAY
+text: A sunny day. Geraniums. Otto notices the geraniums by the
+text: door. Rings. Aunt May's there.
+speaker_heading: MAY
+dialog: Yes?
+speaker_heading: OTTO
+dialog: Excuse me. I'm looking for Peter
+dialog: Parker.
+text: Sorrow on the old woman's face at the name.
+speaker_heading: MAY
+dialog: He isn't here. Do you mind my
+dialog: asking what this concerns? Are you
+dialog: a friend of Peter's?
+speaker_heading: OTTO
+dialog: We share a hobby.
+speaker_heading: MAY
+dialog: What hobby is that?
+speaker_heading: OTTO
+dialog: Spider-Man.
+dialog: 86.
+speaker_heading: MAY
+dialog: Spider-Man?
+dialog: (nods )
+dialog: One look at you and I should have
+dialog: known.
+speaker_heading: OTTO
+dialog: Please.
+text: There's a WHIRR but it's Otto's own meat arm that shoots out.
+text: He clutches Aunt May. WHIRRING. Otto struggles against a
+text: murderous impulse in the ‘pods.
+speaker_heading: OTTO (CONT'D)
+dialog: Please! It's very urgent. Where is
+dialog: Parker?
+speaker_heading: MAY
+dialog: I haven't seem him in over a week!
+dialog: We had an argument, I threw him
+dialog: out. I don't know where he is! And
+dialog: that's the truth.
+text: She's lying. But doubt creases Otto's face. May sees it. And
+text: suddenly fear gives way to something else. Anger. Pride. Will
+dialog: to live.
+speaker_heading: MAY (CONT'D)
+dialog: Now I'll thank you to take your
+dialog: hand off of me!
+text: Otto's surprised. So is May. He retracts his hand.
+speaker_heading: OTTO
+dialog: We will find Spider-Man. We will
+text: flush him out.
+speaker_heading: MAY
+dialog: You do that. Just leave Peter
+dialog: Parker alone.
+speaker_heading: “OCK'S RAMPAGE"
+text: Three scenes of urban destruction.
+scene_heading: EXT. PRADA - DAY
+text: Ock alights outside the flagship store. Goes "shopping."
+text: Trashes the place, terrifies fellow shoppers. Goes out with
+text: cool new clothes. As he's walking out he says, with panache:
+dialog: 87.
+speaker_heading: OTTO
+dialog: My name is Otto Octavius. I ama
+dialog: mad scientist. I'm looking for
+dialog: Spider-Man.
+scene_heading: EXT. LINCOLN TUNNEL - DAY
+text: Cars lined up heading out of town, traffic stalled. Drivers
+text: touchy. Suddenly a car FLIES right out of the tunnel. Lands
+text: on and crushes some other cars.
+text: Another car flies out. Then another. A few more besides. Then
+text: there's a METALLIC GROANING and SCRAPING.
+text: Ock emerges, dragging an ARMORED CAR behind him. He tosses
+text: cars in front of the tunnel mouth to one side. Clears a
+text: space. Then rips open the armored car.
+text: People leap from their cars to harvest the whirling money.
+text: Quickly they turn savage, fighting each other, slipping and
+text: sliding on the ice as they chase the money.
+text: Otto strides among them. Hangs over them. They stop fighting
+dialog: and look up.
+speaker_heading: OTTO
+dialog: My name is Otto Octavius, I ama
+text: mad scientist. The destruction will
+dialog: not stop until Spider-Man
+dialog: surrenders himself to me.
+scene_heading: EXT. ROSE SPACE CENTER - DAY
+text: Otto smashes his way into the building, shattering the huge
+text: windows, scattering schoolchildren.
+scene_heading: INT. SPACE CENTER - DAY
+text: He heads straight for the Willamette Meteorite.
+speaker_heading: TOUR GUIDE
+dialog: ...found in Oregon, weighing over
+dialog: 15 tons...
+speaker_heading: OTTO
+text: It's closer to sixteen.
+text: He digs in the 'pods. Grips the Meteorite.
+text: Pulls. Pulls. Pulls. And UPROOTS it. Carries right out of the
+dialog: museum.
+dialog: 88.
+scene_heading: INT. FIFTH AVENUE - DAY
+text: Otto stalks down the avenue swinging the space rock at the
+text: end of his 'pods like an enormous mace. Gouging huge chunks
+text: out of buildings on either side.
+scene_heading: INT. WASHINGTON SQUARE PARK - DAY
+text: Otto winds up like a cricket bowler and then hurls the
+text: meteorite through Washington Square Arch.
+text: He turns to a HORRIFIED CROWD who cower nearby.
+speaker_heading: OTTO
+dialog: I'm sure you know who I am by now.
+dialog: Let me repeat. Spider-Man is
+dialog: responsible for the fate of New
+dialog: York City.
+text: Turns to a WOMAN. Gently.
+speaker_heading: OTTO (CONT'D)
+dialog: Did you get that?
+speaker_heading: WOMAN
+text: Spider-Man is responsible.
+speaker_heading: OTTO
+dialog: Thank you.
+speaker_heading: WOMAN
+dialog: You're welcome.
+text: Otto stalks away. We get a good look at him as he goes by. He
+text: looks bad. The toll on his tissues is becoming visible;
+text: tracery of black webbing across his skin.
+scene_heading: TELEVISION NEWS REPORT
+text: Features footage of Ock's reign of terror.
+speaker_heading: REPORTER
+text: As the carnage continues, Denise,
+text: one question is increasingly on the
+dialog: mind of New Yorkers--where is
+dialog: Spider-Man? If he won't give
+dialog: himself up to Octavius-- why
+dialog: doesn't he stop him?
+scene_heading: INT. PETER'S ROOM - DAY
+text: Peter watches the broadcast on a tiny B&W TV.
+text: He looks as if he's been lying there motionless for days.
+text: Weeks. Unshaven. In pajamas. In a bad way.
+dialog: 89.
+speaker_heading: WOMAN ON TV
+dialog: ..-he told us that Spider-Man is
+dialog: responsible for this.
+dialog: (to camera)
+dialog: Spider-Man, please. Do as he says.
+text: Peter's hand strays to the place on
+text: his hip where he made the
+dialog: injection.
+speaker_heading: REPORTER
+dialog: Back to you, Denise.
+text: GIRL TALKING HEAD
+dialog: Thank you, Rhonda. And, now, here
+dialog: in the studio, we have JJ Jameson,
+dialog: publisher of the New York Daily
+dialog: Bugle. In recent days, your paper
+dialog: had been taking some of the credit
+dialog: for apparently driving Spider Man
+text: into hiding. Now that he doesn't
+text: seem to want to come out of hiding,
+dialog: do you feel your paper deserves
+dialog: some of the blame for--
+speaker_heading: JIT
+speaker_heading: (ON TV)
+dialog: For the fact that Spider-Man is a
+dialog: damn coward? Absolutely not! As
+dialog: much as I deplore this Doctor
+dialog: Octopus character's methods--
+text: GIRL TALKING HEAD
+dialog: Doctor Octopus?
+speaker_heading: JIT
+speaker_heading: (ON TV)
+dialog: That's what we're going with, what
+dialog: do you think?
+text: A KNOCK on the door. Soft, at first. Peter ignores it. Then
+speaker_heading: LOUDER.
+speaker_heading: MAY
+dialog: (0.S.)
+dialog: Peter?
+text: Panic. Peter switches off the television. Makes a frantic,
+text: doomed attempt to tidy the room. Gives up. Goes to open the
+dialog: door.
+text: Aunt May comes in, carrying grocery bags and a baked good.
+text: Tries to conceal her distaste at the room.
+dialog: 90.
+speaker_heading: MAY (CONT'D)
+dialog: Well, isn't this--snug. Here, I
+dialog: Made you some soup, and your
+dialog: favorite, a Boston cream pie. Real
+dialog: whipped cream.
+speaker_heading: PETER
+dialog: You came all the way over here--
+dialog: with soup?
+speaker_heading: MAY
+dialog: And Boston cream pie.
+speaker_heading: PETER
+dialog: Aunt May, haven't you seen the
+dialog: news? Don't you know what's
+dialog: happening out there?
+speaker_heading: MAY
+text: The trains are still running. If
+dialog: the trains are still running, it
+dialog: must be all right.
+dialog: (beat)
+dialog: And I haven't heard from you in so
+dialog: long, dear. I'm worried about you,
+dialog: Peter, you don't look well. Come
+dialog: downstairs and have some soup.
+scene_heading: INT. KITCHEN - NIGHT
+text: Peter sits at the table while Aunt May puts a bowl of soup in
+text: front of him. He digs right in. Days since he ate.
+speaker_heading: MAY
+dialog: You know, that awful Octopus. He
+dialog: came looking for you. Earlier
+dialog: today.
+text: The spoon stops halfway to his mouth. Freaked by this.
+speaker_heading: PETER
+dialog: He came to see you? Why?
+speaker_heading: MAY
+dialog: He said that he was looking for
+dialog: Spider Man.
+text: She's fiddling with the Boston cream pie. Not looking at him.
+speaker_heading: MAY (CONT'D)
+dialog: For some reason he seemed to feel
+dialog: that you might know where to find
+dialog: him.
+dialog: 91.
+text: A long pause. Then Peter goes back less heartily to his soup.
+text: She pokes
+speaker_heading: MAY (CONT'D)
+dialog: I can't say that he was a very nice
+dialog: man.
+text: a finger into his soup, tastes it.
+speaker_heading: MAY (CONT'D)
+dialog: I sent him packing.
+dialog: (beat)
+dialog: Too much dill.
+speaker_heading: PETER
+dialog: Aunt May. The last time we... at
+dialog: the house... what I told you...
+speaker_heading: MAY
+dialog: You should have told me sooner. And
+dialog: I should have forgiven you before
+dialog: now. It would have been so much
+dialog: easier for both of us.
+speaker_heading: PETER
+dialog: I would have liked that. Things
+dialog: haven't been very easy at all.
+text: Tears in his eyes.
+speaker_heading: MAY
+dialog: Peter, I understand the burden that
+dialog: you've been carrying.
+speaker_heading: PETER
+dialog: No, you don't.
+speaker_heading: MAY
+dialog: Yes, I think I do. The sense of
+dialog: guilt. Of responsibility.
+speaker_heading: PETER
+dialog: I'm so sick of that word.
+speaker_heading: MAY
+dialog: But that's how life is, Peter.
+text: She slices him a piece of Boston cream pie (really a cake).
+speaker_heading: MAY (CONT'D)
+dialog: (cont'd)
+dialog: Responsibilities are thrust on you.
+dialog: Calamities. Tragedies. Through no
+dialog: fault of your own. And you sit, and
+dialog: you say--
+dialog: She looks
+dialog: bite.
+speaker_heading: PETER
+dialog: Why me?
+speaker_heading: MAY
+dialog: Yes, you say, why me? And the
+dialog: answer is, you'll never know the
+dialog: answer to that.
+dialog: at the pie--why not? Cuts herself a
+speaker_heading: MAY (CONT'D)
+dialog: Mmm. Not bad. But the real question
+dialog: you should asking is not, why me?
+dialog: It's, what are you going to do
+dialog: about it?
+dialog: (beat)
+dialog: My particular answer to that
+dialog: question is, to bring my only
+dialog: nephew some chicken noodle soup and
+text: a Boston cream pie.
+text: He isn't crying anymore. He's just listening,
+speaker_heading: MAY (CONT'D)
+dialog: I don't what the answer is for you,
+dialog: Peter. But you do.
+speaker_heading: PETER
+dialog: It's so hard, Aunt May. I just want
+dialog: to have a normal life. The kind of
+dialog: life--
+speaker_heading: MAY
+dialog: That doesn't break your heart?
+dialog: (beat)
+dialog: That would be nice, wouldn't it?
+dialog: Normal, I don't think so.
+scene_heading: EXT. RUINED PIER - NIGHT
+dialog: Doc Ock's
+dialog: 92.
+dialog: piece. Takes a
+text: and eating pie.
+text: secret lair. It hums with activity within.
+scene_heading: INT. SECRET LAIR - NIGHT
+text: A laboratory is in place. Much of
+dialog: Oscorp Systems, Inc. Ock has been working all
+dialog: away from making adjustments to a
+text: table. Sits down in a chair.
+text: Harry is there, irritated, strung out.
+dialog: the equipment labeled
+dialog: night. He steps
+dialog: nasty-looking surgical
+dialog: Two
+dialog: 93.
+speaker_heading: HARRY
+dialog: Why don't you have him yet? What am
+dialog: I paying you for?
+speaker_heading: OTTO
+dialog: He won't come out... I can't flush
+dialog: him.
+text: "pods snake out and grab a can of soda, a slice of pizza.
+text: The other two take hold of one of his meat arm. One jacks in
+text: a blood probe.
+speaker_heading: OTTO (CONT'D)
+dialog: How is it?
+speaker_heading: HARRY
+dialog: How is what?
+speaker_heading: OTTO
+dialog: I'm not talking to you!
+text: Otto looks over at:
+speaker_heading: A MONITOR
+text: It displays the analysis of his immunoresponse. Not good.
+speaker_heading: OTTO (CONT'D)
+dialog: I see.
+dialog: (beat, plural voice)
+dialog: We have one remaining vector.
+speaker_heading: HARRY
+dialog: Vector? What do you mean.
+speaker_heading: OTTO
+dialog: (normal voice)
+dialog: I mean, I want to see Mary Jane
+dialog: Watson again.
+scene_heading: INT. MJ'S BEDROOM - NIGHT
+text: Television going, footage of Otto's havoc. MJ dozes in the
+text: blue light. BOOM. She stirs. BOOM! SCREAMS of people in the
+text: street. Her eyes open. The sound of the 'pods--kzh-kzh kzh.
+text: She goes to the window and looks out.
+text: The buildings across the way lie in rubble. Fires. People
+text: running in panic. In the center of it stands Doc Ock. A
+text: literal path of destruction behind him.
+speaker_heading: OTTO
+dialog: Mary Jane! Mary Jane!
+dialog: 94.
+text: She pulls back from the window. Summons her nerve. Goes to
+text: the window and throws it open. Steps out onto the little
+text: balcony of her apartment.
+speaker_heading: MJ
+dialog: Otto... Otto. Why are you doing
+dialog: this?
+text: A look of agony passes across his face.
+speaker_heading: OTTO
+dialog: Why?
+text: His features harden.
+speaker_heading: OTTO (CONT'D)
+dialog: Because we need to catch a spider.
+text: He climbs straight up the face of the building to her.
+speaker_heading: OTTO (CONT'D)
+dialog: And you are the fly.
+scene_heading: EXT. MJ'S NEIGHBORHOOD - NIGHT
+text: In flames. Police and rescue crews. Peter comes running up
+text: toward the street where she lives. It's cordoned off. A
+text: POLICEMAN stops him.
+speaker_heading: POLICEMAN
+dialog: That's as far as you can go, buddy.
+text: Peter steps back, horrified by the destruction. People
+text: huddle miserably nearby. A Nynex guy is standing on top of
+text: his truck, trying to see what's happening.
+speaker_heading: BYSTANDER
+dialog: 1 Where's Spider-Man in all this?
+speaker_heading: BYSTANDER 2
+dialog: That's what I'm saying, what's his
+dialog: problem? It's like, how selfish can
+dialog: you be?
+speaker_heading: BYSTANDER 3
+dialog: He's responsible for all of this. I
+dialog: saw it on TV.
+dialog: Peter hears all this. Jesus.
+text: A HUGE CRASH in the distance, then a series of CRUNCHES.
+speaker_heading: BYSTANDER
+dialog: 1 What was that?
+dialog: 95.
+speaker_heading: NYNEX GUY
+text: He just climbed up the side of a
+text: building. He's talking to some
+dialog: girl! He's grabbing her!
+text: There's just time for the shock to register on Peter's face
+text: when Ock comes crashing past with MJ caught up struggling in
+dialog: one 'pod.
+text: The police raise their weapons. Ready to fire.
+speaker_heading: COP
+dialog: No, you'll hit the girl.
+text: Ock's moving incredibly fast. He steps right over the police
+text: line--and right over Peter. Peter runs after them.
+speaker_heading: PETER
+dialog: MJ! MJ!
+dialog: MJ hears him--
+speaker_heading: MJ
+dialog: Peter?
+text: --but Ock just keeps on going. Peter picks up a broken beam
+text: lying nearby and hurls it at Ock's legs as hard as he can. A
+text: ‘pod lashes out and flicks it away. Then lashes at Peter,
+text: too, and sends him flying.
+text: He lands hard. Ock vanishes from sight.
+text: Peter gets up, looks around. Jumps into the Nynex truck.
+text: Takes off after Ock at top speed. The Nynex guy has to leap
+dialog: off.
+speaker_heading: NYNEX GUY
+dialog: That dude took my damn truck!
+scene_heading: EXT. AVENUE - NIGHT
+text: Ock stalks along the street, moving fast. MJ struggles in the
+dialog: "pod.
+speaker_heading: MJ
+dialog: Otto! Otto, stop!
+text: Otto reaches back, with a meat hand, as if to slap her.
+text: Catches himself.
+speaker_heading: OTTO
+dialog: Okay. Okay!
+text: Poor Otto's brain is shivering into shards.
+speaker_heading: OTTO (CONT'D)
+dialog: Okay, MJ. Darling. Let me try to
+dialog: explain this to you.
+text: He stops and sets her down somewhat roughly.
+speaker_heading: MJ
+dialog: Let me go.
+speaker_heading: OTTO
+dialog: I can't.
+text: She stares at him.
+speaker_heading: OTTO (cont'd)
+dialog: No.
+dialog: (listens)
+dialog: Shut up!
+speaker_heading: MJ
+dialog: I didn't say anything!
+speaker_heading: OTTO
+dialog: I'm not talking to you! Okay. Okay,
+dialog: I'll let go. But don't leave me.
+dialog: 96.
+text: He uncoils a 'pod from her waist. She starts to bolt.
+speaker_heading: OTTO (CONT'D)
+dialog: I'm going to die, MJ!
+scene_heading: EXT. AVENUE - NIGHT
+text: Peter races in the truck. Weaving through traffic.
+text: in the distance.
+scene_heading: EXT. AVENUE - NIGHT
+text: Otto retracts the arms. MJ turns toward him. Sees
+text: there. Takes a step his way.
+speaker_heading: OTTO
+dialog: Please. Come. You'll be helping us.
+dialog: We promise.
+text: As he speaks, one of the 'pods snakes beckoningly
+text: notices, and she shudders.
+speaker_heading: MJ
+dialog: Otto, who is we?
+text: GUNNING ENGINE. Here comes Peter, tires squealing.
+dialog: Sees Ock
+dialog: real pain
+dialog: out. MJ
+dialog: Otto
+text: snatches MJ up again with one 'pod. Rises up on the lower
+dialog: pair.
+dialog: 97.
+text: And with the fourth, PLUNGES straight into the cab of the
+text: truck and grabs hold of Peter. Rips him out and tosses
+dialog: him aside.
+text: The truck crashes against a lamppost and splits open. A
+text: bicycle chained to the lamppost goes flying and lands with a
+text: clatter. Peter lies amid spools of cable and orange plastic
+text: fencing. He stands up shakily.
+text: Now a HELICOPTER descends on the intersection. Squad cars
+text: arrive from every direction.
+text: One of the 'pods snakes up and grabs hold of the chopper's
+text: strut. Another reaches right into the whirl of the
+text: helicopter's rotors. His ‘pod takes hold of the rotor shaft
+text: and with a horrible shrieking brings it to a halt. Then Ock
+text: hurls the chopper directly at the police cars.
+text: Watching the explosion, grinning, he retreats. He doesn't
+dialog: see:
+speaker_heading: THE WEB
+text: That Peter has improvised, from orange fencing, across the
+text: intersection. It's crooked and lame but Ock stumbles. Loses
+text: his balance. SLAMS to the ground. One ‘pod stays aloft,
+text: holding MJ.
+text: Peter runs to her, she grabs hold of him. He tries to pry it
+text: loose. No way. Now another 'pod snakes in and grabs Peter and
+text: bats him lightly aside.
+speaker_heading: OTTO
+dialog: Tell your friend Spider-Man I need
+dialog: to talk to him.
+text: Then they're gone. Peter's alone in the rubble. Defeated...
+text: and then, abruptly, grim. He goes over to the wreckage of the
+text: Nynex truck. Pulls out the toolbox. Opens it. Takes out a
+text: wicked needle-nose pliers. Holds it up. Should he?
+scene_heading: FLASHBACK - CONEY ISLAND
+text: They walk down the boardwalk in the snow. A few strings of
+text: colored lights. He puts his arm around MJ's waist.
+speaker_heading: PETER
+dialog: (V.0.)
+dialog: I just want to have a normal life.
+dialog: A life--
+speaker_heading: MAY
+dialog: (V.0.)
+dialog: --that doesn't break your heart?
+dialog: That would be nice, wouldn't it?
+dialog: 98.
+scene_heading: PRESENT MOMENT - AVENUE - NIGHT
+text: He looks around at the smoldering wreckage around him. Then
+text: at the pliers. This is going to hurt.
+text: He JABS the knife directly into his hip. Digs around. The
+text: worst SPLORCH imaginable results. His eyes roll back in his
+text: head. He staggers. But he holds up the bloody chip and grimly
+text: smiles.
+text: He looks around--needs wheels. There's the bicycle. A
+text: little bent. It will do. He takes pedaling after Ock and MJ.
+scene_heading: EXT. AVENUE - NIGHT
+text: Peter rides past LOOTERS, smashing store windows. A LOOTER
+text: holds up the television he has snatched.
+speaker_heading: LOOTER
+dialog: Hey, look here, I got me my eight-
+dialog: armed discount.
+text: Peter slows, watching, frowning.
+speaker_heading: LOOTER (CONT'D)
+dialog: What are you going to do about it?
+text: Peter pedals off, slows again, turns.
+speaker_heading: PETER
+dialog: You really should put that back.
+text: The looter, incredulous.
+speaker_heading: LOOTER
+dialog: Man, shut up.
+text: His friends laugh. Then there's a cry for help.
+text: Peter looks. Some other LOOTERS have descended on a SIKH man
+text: who is defending his store.
+speaker_heading: LOOTER (CONT'D)
+dialog: Yo, why don't you go back to
+dialog: Baghdad?
+speaker_heading: PETER
+dialog: Hey!
+text: Everyone turns to look at him. Peter looks down the Avenue.
+text: Far, far away, by the Flatiron Building, we can see the
+text: dancing glint of Ock's ‘pods.
+text: Then LOOTERS fall on the Sikh man.
+dialog: 99.
+text: Peter drops the bike, and runs into the midst of the gang.
+text: They turn on him. The Sikh man crawls out of the melee,
+text: bleeding. The looters swell around Peter, kicking, stomping,
+text: punching. He goes down under the surf of men.
+text: Then, with an audible WHOOSH, the gang of looters FLIES
+text: BACKWARD. It's like a blossom blooming. Peter rises to his
+text: feet, bloodied but steady. The men come at him again but now
+text: he makes short work of them, leaping, kicking, dancing.
+text: The Sikh Man looks on, throwing sympathy punches.
+text: The looters lie fallen around Peter. He reaches down to yank
+text: the stocking cap from one of the men's heads.
+speaker_heading: PETER (CONT'D)
+dialog: Are you using this?
+scene_heading: INT. JJJ'S OFFICE — NIGHT
+text: JJJ is at his desk, on the phone. People coming and going.
+text: The Spidey suit hangs in a nice class case.
+speaker_heading: JIT
+dialog: Any sign of him? No?
+text: WHAP. From the boarded-up skylight. JJJ looks up. Uh oh.
+text: A foot SMASHES through the wood, splintering it, and then
+text: Peter, stocking cap over his face, lands in front of JJJ's
+text: desk. He goes over to the case, SHATTERS it. Reaches in and
+text: takes the suit. Holds it up.
+speaker_heading: JJJ (CONT'D)
+dialog: What the hell do you think--
+speaker_heading: PETER
+dialog: It makes you look fat.
+text: He fires a web up out of the skylight, gives it a jerk, and
+text: then sails out after it.
+scene_heading: EXT. FIFTH AVENUE - NIGHT
+text: Spider-Man swings along the avenue, trying to catch up to
+dialog: Dock Ock.
+scene_heading: EXT. ROCKEFELLER CENTER - NIGHT
+text: He catches up to him at Rockefeller Center and they fight, in
+text: the snow, on the ice of Wollman Rink. MJ gets away from Otto
+text: but then stays to watch.
+text: Each combatant gifted in his own way with power, agility, a
+dialog: kind of grace.
+dialog: 100.
+speaker_heading: OTTO
+dialog: Not bad for a couple of freaks.
+speaker_heading: SPIDER-MAN
+dialog: Speak for yourself.
+speaker_heading: OTTO
+dialog: I speak for us both. You have the
+dialog: greater power--power I need. But I
+dialog: have the strength of knowing what I
+dialog: am. I embrace my freak nature. I
+dialog: revel in it. You will always be
+dialog: fighting against it. That is why I
+dialog: will win this battle.
+text: And he does. At last Spidey lies defeated at Doc Ock's
+text: numerous feet. Doc Ock picks him up, and grabs MJ. He takes
+text: his cell phone out of his pocket. Coolly punches a number.
+scene_heading: INT. HARRY'S APARTMENT - NIGHT
+text: Harry sits watching the destruction on television. Clearly
+text: drugged to the gills. The phone rings. He manages to notice.
+speaker_heading: HARRY
+dialog: What.
+speaker_heading: OTTO
+dialog: Your father's soul will soon rest
+dialog: in peace, Mr. Osborn. Meet me at
+dialog: the pier.
+text: Click. Harry rises wobbling to his feet. A strange echoing
+text: LAUGHTER in his ears.
+scene_heading: INT. DOC OCK HQ - NIGHT
+text: Ock tosses Spider-Man onto his BIG NASTY SPINAL-CORD
+text: EXTRACTING TABLE. MJ he sets down more tenderly to one side.
+text: He prepares the procedure. It looks like it's going to be
+text: extremely painful.
+scene_heading: EXT. DOC OCK HQ - NIGHT
+text: Harry's limo pulls up. Harry gets out. Looks around
+dialog: nervously.
+scene_heading: INT. DOC OCK HQ - NIGHT
+text: MJ revives, sits up. Groggy. Harry stumbles in. Sees MJ.
+speaker_heading: HARRY
+dialog: MJ? What are you--
+dialog: 101.
+text: Otto turns. He has Spider-Man all strapped in, now.
+speaker_heading: OTTO
+dialog: Hello, Harry. Come to watch? I
+dialog: guess you've been waiting quite
+dialog: some time for this moment. I
+dialog: suppose before anything else you'd
+dialog: like to know who put your father in
+dialog: the ground.
+text: Harry draws closer, fascinated. He nods. MJ hangs back.
+text: Otto reaches out and YANKS the mask off of Peter.
+speaker_heading: HARRY'S FACE
+text: Horror. The memory of Peter and his father shaking hands. Of
+text: Spider-Man leaving the corpse of Norman Osborn. Masks begin
+text: to circle one another in his mind--the masks of Norman
+text: Osborn's collection, Spider-Man's mask--and one other, green
+text: and grinning.
+speaker_heading: MJ
+dialog: Peter?
+dialog: (dawning shock and horror)
+dialog: Peter!
+text: She runs toward the table. A 'pod lashes out and knocks her
+text: brutally aside. Harry goes to her, sees the blood on her
+dialog: cheek.
+text: Looks back at Peter lying on the table as a great, spiked,
+text: vascular probe begins to descend on the torn form of his
+dialog: friend.
+text: The LAUGHTER begins to sound louder in his ear and the probe
+dialog: descends.
+speaker_heading: HARRY
+dialog: No! This isn't-- I'm not--
+text: He stumbles to his feet, stoned and terrified, and lurches
+text: out of the laboratory.
+text: Ock swings another fell-looking unit into place near Peter's
+text: head. All of the 'pods are working in balletic unison to
+dialog: prepare the procedure.
+text: MJ stands. She sees a big spanner lying on the ground. Picks
+text: it up. Tucks it behind her back. Starts to inch toward Otto.
+speaker_heading: MJ
+dialog: Otto. Don't do this. You don't want
+dialog: to do this.
+dialog: 102.
+speaker_heading: OTTO
+dialog: There's no way to avoid it. We only
+dialog: need pieces of him, really, but
+dialog: they're rather crucial pieces.
+text: She's coming closer to Otto.
+speaker_heading: OTTO (CONT'D)
+dialog: If we could take what we needed
+dialog: without killing him, we would, but
+dialog: alas--
+text: He flips a few more controls.
+text: Two of the 'pods zero in on Peter's head. One extrudes foam
+text: onto it. The other produces a clipper-head.
+text: With a few rapid strokes they shave Peter bald.
+speaker_heading: OTTO (CONT'D)
+dialog: No, that's not true. We're looking
+dialog: forward to this death. You know
+dialog: what's interesting? Humans always
+dialog: think of the killer instinct as
+text: something very primitive. A relic
+dialog: of the savage past.
+text: Now all the cruel apparatuses are in place. An urchin of
+text: steel spines, miniature 'pods, wriggle toward Peter's bare
+dialog: skull.
+speaker_heading: OTTO (CONT'D)
+dialog: But the longer we spend at this
+dialog: level of evolution, the more we
+dialog: realize that that's just wrong.
+dialog: Think about it. Human beings have
+dialog: only gotten better and better at
+dialog: killing over the last fifty
+dialog: thousand years. This is what we're
+dialog: evolving toward...
+text: She's close enough, now. She raises the wrench, high and
+dialog: brings it down--
+text: ZWIPP. A ‘pod lashes around the wrench and jerks it from her
+text: hand. Another 'pod knocks her back against the wall.
+speaker_heading: OTTO (CONT'D)
+dialog: (plural voice)
+dialog: Get away from Otto, bitch!
+text: Ock turns on her, and the 'pods lash out and hover, just
+text: above her, ready to cut her to ribbons.
+dialog: 103.
+speaker_heading: MJ
+dialog: Otto... please.
+text: She climbs unsteadily to her feet. Looking him in the eye.
+speaker_heading: MJ (CONT'D)
+dialog: Otto... hey? Look at me. Please?
+dialog: Just look at me.
+text: She crosses to him. The arms strike, and come within inches
+text: of her face. She flinches but doesn't give way. Then takes
+text: another step toward him. Reaches up. Lifts the glasses. Peers
+text: into his wild, dying eyes.
+speaker_heading: MJ (CONT'D)
+dialog: I know that you're in there. I can
+dialog: feel you? Can you feel me?
+text: The arms WHIRR and twitch, impatient as hounds at the end of
+dialog: their leash.
+speaker_heading: OTTO
+dialog: Yes, MJ. I can feel you.
+speaker_heading: MJ
+dialog: Otto, you are not a killer. Your
+dialog: work is not about killing. Your
+dialog: work is about making us better
+dialog: humans, right? Better at being
+dialog: human.
+speaker_heading: OTTO
+dialog: Better at surviving in this
+dialog: poisonous world.
+speaker_heading: MJ
+dialog: Why? Why survive? Just for the sake
+dialog: of surviving?
+text: Otto points at Peter with a meat hand.
+speaker_heading: OTTO
+dialog: You love him.
+speaker_heading: MJ
+dialog: Yes. I do.
+text: Otto's at the limit of his control. All his systems breaking
+text: down. The WHIRR of the arms ratchets up to a WHINE.
+speaker_heading: OTTO
+dialog: I thought there was a place for me
+dialog: in your heart. The first place I
+dialog: ever felt like I belonged.
+dialog: 104.
+text: Distant sound of SIRENS from outside.
+speaker_heading: MJ
+dialog: There is, Otto! There is a place.
+dialog: For you. For me. There is.
+speaker_heading: OTTO
+dialog: You might be right. There might be.
+text: Slowly, the 'pods snake up toward the rafters of old
+text: building. Lash around them. Pull tight.
+speaker_heading: OTTO (CONT'D)
+dialog: Let's find out.
+text: With a crash, he pulls the ceiling in. The walls begin to
+text: collapse in on themselves.
+text: A pillar tips over onto Otto, then smashes through the floor,
+text: dragging Otto with it. Into the water below.
+text: With a WHOOSH Otto is thrust down deep into the water.
+scene_heading: EXT. UNDERWATER - CONTINUOUS
+text: Otto plunges, ‘pods billowing up behind him. A streamer.
+scene_heading: INT. DOC OCK HQ - CONTINUOUS
+text: Peter revives. Looks around. Stuff falling everywhere. He
+text: kicks and thrashes his way out of the surgical unit. Spider
+text: sense TINGLES.
+text: He sees, in slow motion:
+text: The central roof beam give way, with a mighty GROAN.
+text: MJ, leg pinned under a fallen slab of concrete.
+text: The inevitable trajectory that links them.
+speaker_heading: PETER
+dialog: MJ!
+text: He leaps across and lands under the beam just at it hits,
+text: muscles taking on a massive burden of wood and inertia. He
+text: Sags-- sags-- sags--stops. He squats under it like Atlas
+text: underneath the heavens. His face is five inches from MJ's.
+speaker_heading: PETER (CONT'D)
+dialog: Hi.
+text: Peter gives away a little more. Faces four inches apart.
+dialog: 105.
+speaker_heading: MJ
+dialog: Hi.
+text: The weight seems to increase exponentially. Three inches.
+speaker_heading: PETER
+dialog: This is really heavy.
+text: Peter sags again. Now their faces are less than an inch
+dialog: apart.
+speaker_heading: MJ
+dialog: I'm trying. I'm stuck. I think my
+text: leg is broken.
+speaker_heading: PETER
+dialog: Least of our worries.
+scene_heading: CREAKING. MOANING.
+scene_heading: EXT. DOC OCK HQ - DAY
+text: Dawn. The grand old building carefully goes about the
+text: business of sinking into the river.
+scene_heading: EXT. UNDERWATER - CONTINUOUS
+text: Otto thrashes in the Rig as the ‘pods struggle toward the
+text: surface. For a moment he looks like his namesake.
+scene_heading: INT. DOC OCK HQ - DAY
+text: Peter is drenched in sweat. He's shaking. MJ is trying to
+dialog: free herself.
+speaker_heading: MJ
+dialog: If I could just--feel--my foot.
+speaker_heading: PETER
+dialog: MJ. In case we die--
+text: But he runs out of breath before he can finish the sentence.
+speaker_heading: MJ
+dialog: You do love me.
+speaker_heading: PETER
+dialog: I do.
+text: She had better hurry. He is about to break. Their faces are
+text: nearly close enough for a kiss.
+dialog: 106.
+speaker_heading: MJ
+dialog: Even though you said you didn't.
+text: Now Peter can only nod. No breath to spare. MJ's face
+text: brightens--she's freed her foot.
+text: She crawls out from under the slab, then under Peter's arms
+text: as he drops the beam. As it slams through the floor, he
+text: snatches her up, then fires a web through a place where the
+text: walls have collapsed. He yanks them up and out just as:
+scene_heading: EXT. DOC OCK HQ - NIGHT
+text: The entire structure upends and then slides with a certain
+text: urgency into the East River.
+scene_heading: EXT. UNDERWATER - CONTINUOUS
+text: Otto turns his face away--
+text: And ten thousand tons of ancient lumber comes tumbling down
+text: on top of him.
+scene_heading: INT. NORMAN'S OSBORN'S PENTHOUSE - DAY
+text: Harry Osborn lies in the middle of the floor of a great,
+text: empty ballroom floor. A small dark island in a sea of
+dialog: parquet.
+text: He wakes up like Sal Mineo in Rebel Without a Cause, alone,
+text: lost, abandoned.
+text: Stands up. Looks around. Echoes and ghosts.
+text: He wanders the empty rooms and halls. Draped furniture.
+text: Carpets rolled.
+text: Climbs the stairs. Stops at the door to his father's office.
+text: Hesitates. Goes in. There's nothing there except--
+text: Something in the corner. A small piece of colored paper.
+text: He goes over and picks it up. It's a little, store-bought
+text: Halloween card. More ghosts. HAVE A BOO-TIFUL HALLOWEEN.
+text: Opens it up. “To Dad, Love Harry." He lets it drop.
+speaker_heading: NORMAN OSBORN
+dialog: (0.S.)
+dialog: All right, Harry. It's your turn
+dialog: now.
+text: Harry looks around sharply. No one there.
+dialog: 107.
+speaker_heading: NORMAN OSBORN (CONT'D)
+dialog: (0.S.)
+dialog: I want to see what kind of stuff
+dialog: you're made of.
+speaker_heading: HARRY
+dialog: No. No, Dad. He's my friend.
+text: He looks into the mirror over the mantlepiece. Norman is
+dialog: there.
+speaker_heading: NORMAN OSBORNE
+dialog: Is he. Your friend. I guess that's
+dialog: why he stole your girlfriend. I
+dialog: guess that's why he killed me.
+speaker_heading: HARRY
+dialog: Dad, I don't know. I'm not sure.
+dialog: There's a lot I don't understand.
+speaker_heading: NORMAN OSBORNE
+text: "I don't know." "I'm not sure."
+dialog: Harry, you swore an oath! You put
+dialog: your word, your money, your name on
+dialog: the line! You swore to make Spider-
+dialog: Man pay. Now, make him pay!
+text: Harry's leaning his forehead against the mirror. It reflects
+dialog: only him.
+speaker_heading: HARRY
+dialog: I swear. I swear!
+text: As he says this he POUNDS the mirror with his fist. It
+text: shatters and falls. Droplets of glass rain down. And there on
+text: the other side of the universe is a neat little room. A
+text: laboratory of some kind. A command center. A haunt.
+text: Harry steps into that other world. Hanging from a hook is a
+text: grinning green mask. He reaches toward it.
+scene_heading: INT. MJ'S APARTMENT - DAY
+text: MJ lies on the couch. Her leg in a really big cast. Reading
+dialog: the Daily Bugle.
+speaker_heading: THE HEADLINE
+text: WACKOS: ONE DOWN, ONE TO GO
+text: She reaches for a squeeze bottle that is just out of reach.
+speaker_heading: MJ
+dialog: Peter! Peter? I can't reach the--
+dialog: 108.
+text: He's there. In his coat. Backpack on his back. Leaving.
+speaker_heading: MJ (CONT'D)
+dialog: Water.
+text: She falls back against the sofa.
+speaker_heading: MJ (CONT'D)
+dialog: You said you'd stay.
+speaker_heading: PETER
+dialog: Your mother's coming.
+speaker_heading: MJ
+dialog: You also said... that you loved me.
+speaker_heading: PETER
+dialog: I do love you. I have loved you all
+dialog: my life, Mary Jane Watson. I just
+dialog: can't have you, that's all. The
+dialog: danger, the uncertainty. The
+dialog: hatred. I can't ask that of you.
+dialog: You don't know what it's like. This
+dialog: is my deal. It's my destiny.
+text: He nods toward the Bugle.
+speaker_heading: PETER (CONT'D)
+dialog: What's he saying?
+speaker_heading: MJ
+dialog: He's saying you're evil incarnate.
+text: Peter nods.
+speaker_heading: PETER
+dialog: I'll call you tomorrow.
+text: He goes out. She picks up the paper. Her face crumples. She
+text: puts the paper down. Sees his CAMERA sitting there.
+text: Lumbering, in pain, she pulls herself to her feet. Grabs her
+text: crutch. Hobbles over to pick up the camera. Then as quickly
+text: as she can to the window. Throws it open. Snow blows in. She
+text: sticks her head out.
+speaker_heading: MJ
+dialog: Peter! You forgot your camera!
+text: He's on the street below. He turns and looks up. She
+text: lumbers out onto her balcony. We can see the divots that Doc
+text: Ock tore out of the face of the building.
+text: MJ forms a quick resolve. Then throws herself over the side.
+dialog: He darts
+dialog: sure.
+dialog: She hits
+dialog: He looks
+dialog: building
+dialog: right up
+dialog: 109.
+speaker_heading: PETER
+dialog: MJ!
+text: under the balcony and catches her, awkwardly, but
+speaker_heading: MJ
+dialog: Do you know how amazing it is than
+dialog: I can trust you do that?
+dialog: (beat)
+dialog: You were given a gift, Peter. I
+dialog: want to share that gift with you.
+dialog: And I want you to share it with me.
+dialog: You don't have to do it alone. I'll
+dialog: help you.
+speaker_heading: PETER
+speaker_heading: MJ--
+speaker_heading: MJ
+dialog: What, you think police officers
+dialog: don't get to be in love?
+dialog: Firefighters don't get to be
+dialog: married? That's crazy.
+speaker_heading: PETER
+dialog: But, MJ. This is just--this is just
+dialog: so much weirder than being a
+dialog: policeman.
+speaker_heading: MJ
+dialog: It is weird.
+dialog: (beat)
+dialog: But you've always been weird, Peter
+dialog: Parker.
+speaker_heading: PETER
+dialog: Wait, did you say married?
+text: him, hard.
+speaker_heading: MJ
+dialog: I already know your damn secret
+dialog: identity!
+text: at her. Then around. Then he carries her over to the
+text: and, lightly, with just the tips of his feet, walks
+text: it. Hops the balcony and ducks inside with her.
+speaker_heading: MJ (CONT'D)
+dialog: (0.S.)
+dialog: Does this mean I get to see the
+dialog: Spider Cave?
+dialog: 110.
+speaker_heading: PETER
+dialog: (0.S.)
+text: There is no Spider-Cave.
+speaker_heading: MJ
+dialog: (0.S.)
+dialog: That sucks.
+scene_heading: INT. MJ'S APARTMENT - NIGHT
+text: He sets her back down on the couch. Puts down his knapsack.
+text: Then SIRENS. A lot of SIRENS. Peter goes to the window and
+text: looks out. Face grim. Well, you asked for it.
+speaker_heading: MJ
+dialog: Go. Go! I'll be fine.
+text: He starts to peel off his shirt.
+scene_heading: EXT. NEW YORK STREET — NIGHT
+text: The sky glows orange; flashing sirens. Spider-Man takes off
+text: into the night. MJ leans out of the balcony as he sails away
+dialog: to be who he is.
+speaker_heading: MJ
+dialog: You forgot your camera!
+text: Spider-Man swings around a corner and straight through the
+text: heart of a burning building.
+speaker_heading: PETER
+dialog: (V.0.)
+text: It was a five alarm fire. Gas fed.
+dialog: 300 firefighters. And the junior
+dialog: Senator from New York on the
+dialog: seventh floor.
+text: He comes swinging out the other side, clutching a
+text: DISTINGUISHED GENTLEMAN and a YOUNG WOMAN DRESSED AS A MAID.
+speaker_heading: PETER (CONT'D)
+dialog: (V.0.)
+text: With his lovely companion.
+text: He touches them down gently. ERT techs rush over.
+speaker_heading: PETER (CONT'D)
+dialog: (V.0.)
+dialog: Look at that guy. Look at him! You
+dialog: want to know the story of his life?
+dialog: No choice in the matter. No way
+dialog: out.
+dialog: 111.
+text: Spider-Man sails back up into the roaring fire, toward a PAIR
+text: OF CHILDREN, snatching them from the flames. Doing what he
+dialog: was meant to do.
+speaker_heading: PETER (CONT'D)
+dialog: Didn't get a single damn picture of
+dialog: any of it.
+speaker_heading: THE END
+dialog: 

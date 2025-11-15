@@ -1,0 +1,148 @@
+Загрузка модели эмбеддингов...
+Предвычисление контекстных эмбеддингов...
+Модель готова к использованию.
+
+Total scenes: 211
+
+================================================================================
+Violence scores distribution:
+Min: 0.000
+Max: 1.000
+Mean: 0.333
+Median: 0.000
+80th percentile: 1.000
+90th percentile: 1.000
+
+================================================================================
+Scenes with violence > 0.3 (first 30 scenes):
+================================================================================
+
+Scene 5: EXT. - PRINCETON- PRESIDENT’ S RECEPTION
+  Violence count: 1
+  Length: 299 words
+  Violence score: 0.669
+  Context scores: {'graphic_violence': 0.138, 'stylized_action': 0.119, 'sexual_content': 0.186, 'mild_romance': 0.146, 'horror_violence': 0.13, 'profanity_context': 0.275, 'drug_abuse': 0.186, 'child_endangerment': 0.123, 'discussion_violence': 0.254, 'thriller_tension': 0.215}
+  Excerpts:
+    1. og: milnor’s gonna get the brass ring if
+text: it kills him.
+dialog: 
+dialog: 
+speaker_heading: zwei
+
+Scene 6: scene_6
+  Violence count: 2
+  Length: 199 words
+  Violence score: 1.000
+  Context scores: {'graphic_violence': 0.07, 'stylized_action': 0.185, 'sexual_content': 0.187, 'mild_romance': 0.18, 'horror_violence': 0.085, 'profanity_context': 0.276, 'drug_abuse': 0.166, 'child_endangerment': 0.011, 'discussion_violence': 0.257, 'thriller_tension': 0.258}
+  Excerpts:
+    1. ttle time.
+text: milnor’s eyes light on nash. the beat of recognition is so slight
+text: it’s almost
+    2. ialog: an honest mistake. what with those
+dialog: war ration shoes...
+text: nash's outfit does look 
+
+Scene 8: INT.-FRESHMAN DORM ROOM-SUNSET
+  Violence count: 1
+  Length: 226 words
+  Violence score: 0.885
+  Context scores: {'graphic_violence': 0.174, 'stylized_action': 0.19, 'sexual_content': 0.184, 'mild_romance': 0.122, 'horror_violence': 0.119, 'profanity_context': 0.222, 'drug_abuse': 0.192, 'child_endangerment': 0.061, 'discussion_violence': 0.226, 'thriller_tension': 0.271}
+  Excerpts:
+    1. would feel like
+dialog: the hangover that finally kills you.
+text: he grabs a towel and heads for th
+
+Scene 14: EXT.-PRINCETON GAMES QUAD-DAY
+  Violence count: 2
+  Length: 208 words
+  Violence score: 1.000
+  Context scores: {'graphic_violence': 0.142, 'stylized_action': 0.218, 'sexual_content': 0.122, 'mild_romance': 0.131, 'horror_violence': 0.108, 'profanity_context': 0.159, 'drug_abuse': 0.14, 'child_endangerment': 0.079, 'discussion_violence': 0.331, 'thriller_tension': 0.276}
+  Excerpts:
+    1. .
+speaker_heading: milnor
+dialog: scared?
+text: a beat. then nash smiles.
+    2. imply, the study of games is
+dialog: the study of war...
+text: (over) a whistling rises, crystal cle
+
+Scene 18: EXT.-PRINCETON GAMES QUAD-MORNING
+  Violence count: 1
+  Length: 138 words
+  Violence score: 1.000
+  Context scores: {'graphic_violence': 0.152, 'stylized_action': 0.189, 'sexual_content': 0.184, 'mild_romance': 0.076, 'horror_violence': 0.144, 'profanity_context': 0.13, 'drug_abuse': 0.165, 'child_endangerment': 0.119, 'discussion_violence': 0.201, 'thriller_tension': 0.185}
+  Excerpts:
+    1. nash pulls something from his back pocket. it’s a knife. the others
+text: jump up. nash has a maniac
+
+Scene 20: INT.-LIBRARY-LATE NIGHT
+  Violence count: 2
+  Length: 276 words
+  Violence score: 1.000
+  Context scores: {'graphic_violence': 0.093, 'stylized_action': 0.215, 'sexual_content': 0.154, 'mild_romance': 0.066, 'horror_violence': 0.071, 'profanity_context': 0.202, 'drug_abuse': 0.166, 'child_endangerment': 0.105, 'discussion_violence': 0.304, 'thriller_tension': 0.261}
+  Excerpts:
+    1. pect for pizza. and
+dialog: maybe beer...
+text: a beat. then nash follows.
+    2. tern)
+text: this was a cluster of pigeons
+dialog: fighting for bread crumbs....
+dialog: (off the thi
+
+Scene 22: INT.-OLD HOME BAR-NIGHT
+  Violence count: 1
+  Length: 212 words
+  Violence score: 0.943
+  Context scores: {'graphic_violence': 0.011, 'stylized_action': 0.167, 'sexual_content': 0.166, 'mild_romance': 0.077, 'horror_violence': 0.084, 'profanity_context': 0.234, 'drug_abuse': 0.216, 'child_endangerment': 0.058, 'discussion_violence': 0.189, 'thriller_tension': 0.188}
+  Excerpts:
+    1. ar.
+text: nash is at the pool table. makes a bank shot. chalks up again.
+speaker_heading: - zweifel 
+
+Scene 25: INT.-FINE HALL-MATH DEPARTMENT HALLWAY-WALKING
+  Violence count: 1
+  Length: 399 words
+  Violence score: 0.501
+  Context scores: {'graphic_violence': 0.052, 'stylized_action': 0.088, 'sexual_content': 0.059, 'mild_romance': 0.076, 'horror_violence': 0.021, 'profanity_context': 0.27, 'drug_abuse': 0.031, 'child_endangerment': -0.008, 'discussion_violence': 0.25, 'thriller_tension': 0.191}
+  Excerpts:
+    1. ole.
+text: van neumann would laugh if john wasn’t dead serious.
+speaker_heading: van neumann
+dialog:
+
+Scene 26: INT.-NASH'S DORM ROOM-LATE AFTERNOON
+  Violence count: 3
+  Length: 361 words
+  Violence score: 1.000
+  Context scores: {'graphic_violence': 0.113, 'stylized_action': 0.16, 'sexual_content': 0.142, 'mild_romance': 0.086, 'horror_violence': 0.105, 'profanity_context': 0.203, 'drug_abuse': 0.107, 'child_endangerment': 0.068, 'discussion_violence': 0.301, 'thriller_tension': 0.302}
+  Excerpts:
+    1. tand? do you?!
+text: charles stares at him a long beat. finally...
+speaker_heading: charles
+dialog: 
+    2. his seems to give nash some small comfort. a long beat. then he
+text: walks to the desk, begins to p
+    3. dialog: classes...
+text: charles stares at him a beat. he nods slowly.
+speaker_heading: charles
+dial
+
+Scene 27: EXT.-DORM ROOM-LATE AFTERNOON
+  Violence count: 1
+  Length: 27 words
+  Violence score: 1.000
+  Context scores: {'graphic_violence': 0.208, 'stylized_action': 0.201, 'sexual_content': 0.242, 'mild_romance': 0.172, 'horror_violence': 0.233, 'profanity_context': 0.135, 'drug_abuse': 0.166, 'child_endangerment': 0.219, 'discussion_violence': 0.236, 'thriller_tension': 0.245}
+  Excerpts:
+    1. w, tumbling two stories to the
+text: ground in an explosion of wood and floating sheets of paper.
+
+Scene 28: EXT.-DORM ROOM-CONTINUOUS
+  Violence count: 1
+  Length: 125 words
+  Violence score: 1.000
+  Context scores: {'graphic_violence': 0.077, 'stylized_action': 0.156, 'sexual_content': 0.186, 'mild_romance': 0.155, 'horror_violence': 0.132, 'profanity_context': 0.33, 'drug_abuse': 0.108, 'child_endangerment': 0.05, 'discussion_violence': 0.344, 'thriller_tension': 0.267}
+  Excerpts:
+    1. er. do you understand?
+text: nash stares at him a beat.
+speaker_heading: nash
+dialog: you're kind of

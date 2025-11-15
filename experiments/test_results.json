@@ -1,0 +1,92 @@
+[
+  {
+    "file": "A Clockwork Orange_0066921_anno.txt",
+    "expected": "18+",
+    "predicted": "6+",
+    "match": false,
+    "reasons": [
+      "незначительное насилие или редкая грубая лексика"
+    ],
+    "scores": {
+      "violence": 0.322,
+      "gore": 0.0,
+      "sex_act": 0.0,
+      "nudity": 0.0,
+      "profanity": 0.0,
+      "drugs": 0.0,
+      "child_risk": 0.2
+    }
+  },
+  {
+    "file": "A Beautiful Mind_0268978_anno.txt",
+    "expected": "12+",
+    "predicted": "0+",
+    "match": false,
+    "reasons": [
+      "контент без возрастных ограничений"
+    ],
+    "scores": {
+      "violence": 0.0,
+      "gore": 0.0,
+      "sex_act": 0.0,
+      "nudity": 0.0,
+      "profanity": 0.0,
+      "drugs": 0.0,
+      "child_risk": 0.0
+    }
+  },
+  {
+    "file": "Superman_0078346_anno.txt",
+    "expected": "6+",
+    "predicted": "16+",
+    "match": false,
+    "reasons": [
+      "интенсивное насилие и сцены убийств"
+    ],
+    "scores": {
+      "violence": 0.722,
+      "gore": 0.0,
+      "sex_act": 0.0,
+      "nudity": 0.0,
+      "profanity": 0.0,
+      "drugs": 0.0,
+      "child_risk": 0.0
+    }
+  },
+  {
+    "file": "12 Angry Men_0118528_anno.txt",
+    "expected": "12+",
+    "predicted": "16+",
+    "match": false,
+    "reasons": [
+      "интенсивное насилие и сцены убийств"
+    ],
+    "scores": {
+      "violence": 1.0,
+      "gore": 0.0,
+      "sex_act": 0.0,
+      "nudity": 0.0,
+      "profanity": 0.0,
+      "drugs": 0.0,
+      "child_risk": 0.4
+    }
+  },
+  {
+    "file": "28 Days Later_0289043_anno.txt",
+    "expected": "18+",
+    "predicted": "12+",
+    "match": false,
+    "reasons": [
+      "умеренное насилие и угрозы"
+    ],
+    "scores": {
+      "violence": 0.579,
+      "gore": 0.0,
+      "sex_act": 0.0,
+      "nudity": 0.0,
+      "profanity": 0.0,
+      "drugs": 0.0,
+      "child_risk": 0.0
+    }
+  }
+]
