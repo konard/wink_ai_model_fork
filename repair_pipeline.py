@@ -13,71 +13,128 @@ import numpy as np
 from sentence_transformers import SentenceTransformer, util
 from tqdm import tqdm
 
+# PDF parsing
+try:
+    import PyPDF2
+    PDF_SUPPORT = True
+except ImportError:
+    PDF_SUPPORT = False
+    print("WARNING: PyPDF2 not installed. PDF support disabled. Install with: pip install PyPDF2")
+
 # ===== REFERENCE CONTEXTS FOR SEMANTIC ANALYSIS =====
-# Контекстные шаблоны для определения типа сцен
+# Контекстные шаблоны для определения типа сцен (English and Russian)
 CONTEXT_TEMPLATES = {
     'graphic_violence': [
         "brutal murder with blood and gore",
         "torture and physical violence causing injury",
         "graphic depiction of death and killing",
-        "violent assault with weapons causing harm"
+        "violent assault with weapons causing harm",
+        # Russian
+        "жестокое убийство с кровью и увечьями",
+        "пытки и физическое насилие причиняющее травмы",
+        "графическое изображение смерти и убийства",
+        "насильственное нападение с оружием причиняющее вред"
     ],
     'stylized_action': [
         "heroic action scene with combat",
         "adventure movie fight sequence",
         "comic book style action without gore",
         "spy thriller chase and combat",
-        "superhero saving people from danger"
+        "superhero saving people from danger",
+        # Russian
+        "героическая боевая сцена с сражением",
+        "приключенческая сцена драки в фильме",
+        "экшн в стиле комиксов без жестокости",
+        "погоня и бой в шпионском триллере",
+        "супергерой спасающий людей от опасности"
     ],
     'sexual_content': [
         "explicit sexual intercourse scene",
         "nudity in sexual context",
         "rape or sexual assault",
-        "graphic sexual activity"
+        "graphic sexual activity",
+        # Russian
+        "явная сцена полового акта",
+        "нагота в сексуальном контексте",
+        "изнасилование или сексуальное насилие",
+        "графическая сексуальная активность"
     ],
     'mild_romance': [
         "romantic kissing and affection",
         "love scene without explicit content",
-        "romantic relationship development"
+        "romantic relationship development",
+        # Russian
+        "романтические поцелуи и нежность",
+        "любовная сцена без эксплицитного контента",
+        "развитие романтических отношений"
     ],
     'horror_violence': [
         "horror movie with scary violence",
         "psychological terror and fear",
         "monster attack with blood",
-        "slasher film with killing"
+        "slasher film with killing",
+        # Russian
+        "фильм ужасов с пугающим насилием",
+        "психологический террор и страх",
+        "нападение монстра с кровью",
+        "слэшер с убийствами"
     ],
     'profanity_context': [
         "casual conversation with swearing",
         "aggressive confrontation with profanity",
-        "repeated use of strong language"
+        "repeated use of strong language",
+        # Russian
+        "непринужденный разговор с матом",
+        "агрессивная конфронтация с нецензурной лексикой",
+        "многократное использование крепких выражений"
     ],
     'drug_abuse': [
         "drug use and addiction",
         "substance abuse scene",
-        "characters taking illegal drugs"
+        "characters taking illegal drugs",
+        # Russian
+        "употребление наркотиков и зависимость",
+        "сцена злоупотребления веществами",
+        "персонажи принимающие запрещенные наркотики"
     ],
     'child_endangerment': [
         "child in dangerous situation",
         "violence involving minors",
-        "child abuse or threat to children"
+        "child abuse or threat to children",
+        # Russian
+        "ребенок в опасной ситуации",
+        "насилие с участием несовершеннолетних",
+        "жестокое обращение с детьми или угроза детям"
     ],
     'discussion_violence': [
         "courtroom discussion of crime",
         "testimony about violent event",
         "describing past violence in dialogue",
         "academic or legal discussion of weapons",
-        "demonstration or explanation without action"
+        "demonstration or explanation without action",
+        # Russian
+        "обсуждение преступления в зале суда",
+        "показания о насильственном событии",
+        "описание прошлого насилия в диалоге",
+        "академическое или правовое обсуждение оружия",
+        "демонстрация или объяснение без действия"
     ],
     'thriller_tension': [
         "psychological thriller with suspense",
         "tense dramatic confrontation",
         "mystery investigation without violence",
-        "courtroom drama legal arguments"
+        "courtroom drama legal arguments",
+        # Russian
+        "психологический триллер с напряжением",
+        "напряженная драматическая конфронтация",
+        "расследование тайны без насилия",
+        "судебная драма правовые споры"
     ]
 }
 
-# ===== KEYWORD PATTERNS =====
+# ===== KEYWORD PATTERNS (English and Russian) =====
 VIOLENCE_WORDS = [
+    # English patterns
     r'\bkill\w*', r'\bshoot\w*', r'\bshot\b', r'\bstab\w*',
     r'\bknife\b', r'\bgun\w*', r'\bpistol\b', r'\brifle\b',
     r'\bexplod\w*', r'\bblast\w*', r'\battack\w*',
@@ -86,41 +143,86 @@ VIOLENCE_WORDS = [
     r'\bterrorist\b', r'\bhostage\b', r'\brip(ped|s)? apart\b',
     r'\bthug(s)?\b', r'\bterror\b', r'\bfight(ing)?\b',
     r'\bbattle(s|d)?\b', r'\bwar\b', r'\bshoot[- ]?out\b',
-    r'\bexplosion\b', r'\bgrenade\b'
+    r'\bexplosion\b', r'\bgrenade\b',
+    # Russian patterns
+    r'\bубий\w*', r'\bубить\b', r'\bубил\w*', r'\bубива\w*',
+    r'\bстреля\w*', r'\bвыстрел\w*', r'\bзастрел\w*',
+    r'\bзарез\w*', r'\bнож\b', r'\bоруж\w+', r'\bпистолет\w*',
+    r'\bвинтовк\w*', r'\bавтомат\w*', r'\bвзрыв\w*',
+    r'\bатак\w*', r'\bнападе\w*', r'\bизбие\w*',
+    r'\bтруп\w*', r'\bмертв\w*', r'\bпогиб\w*',
+    r'\bнасилие\b', r'\bжесток\w*', r'\bтеррор\w*',
+    r'\bзаложник\w*', r'\bбандит\w*', r'\bдрак\w*',
+    r'\bбой\b', r'\bсраж\w*', r'\bвойна\b', r'\bбоев\w*',
+    r'\bгранат\w*', r'\bбомб\w*'
 ]
 
 GORE_WORDS = [
+    # English patterns
     r'\bblood\b', r'\bbloody\b', r'\bbloodied\b', r'\bbleeding\b',
     r'\bcorpse\b', r'\bwound\b', r'\bscar\b', r'\binjur\w*',
     r'\bcrash\w*', r'\bburn\w*', r'\bguts\b', r'\bentrails\b',
-    r'\bbrain\b', r'\bdead body\b', r'\bgore\b', r'\bmutilat\w*'
+    r'\bbrain\b', r'\bdead body\b', r'\bgore\b', r'\bmutilat\w*',
+    # Russian patterns
+    r'\bкров\w*', r'\bкровав\w*', r'\bкровоточ\w*',
+    r'\bран\w+', r'\bшрам\w*', r'\bувечь\w*',
+    r'\bожог\w*', r'\bкишк\w*', r'\bвнутренност\w*',
+    r'\bмозг\w*', r'\bрасчленен\w*', r'\bизувеч\w*'
 ]
 
 PROFANITY = [
+    # English patterns
     r'\bfuck\b', r'\bshit\b', r'\bmotherfucker\b', r'\bbitch\b',
-    r'\basshole\b', r'\bdamn\b', r'\bhell\b', r'\bcrap\b'
+    r'\basshole\b', r'\bdamn\b', r'\bhell\b', r'\bcrap\b',
+    # Russian patterns
+    r'\bблядь\b', r'\bбля\b', r'\bсука\b', r'\bхуй\b',
+    r'\bпизд\w*', r'\bебать\b', r'\bебал\w*', r'\bебан\w*',
+    r'\bзаеб\w*', r'\bдерьм\w*', r'\bговн\w*', r'\bхер\w*',
+    r'\bмудак\w*', r'\bсволоч\w*', r'\bтварь\b'
 ]
 
 DRUG_WORDS = [
+    # English patterns
     r'\bdrug(s)?\b', r'\bheroin\b', r'\bcocaine\b', r'\bmarijuana\b',
     r'\bpill(s)?\b', r'\bweed\b', r'\balcohol\b', r'\bdrunk\b',
-    r'\bcigarette\b', r'\bsmok(e|ing)\b', r'\baddiction\b'
+    r'\bcigarette\b', r'\bsmok(e|ing)\b', r'\baddiction\b',
+    # Russian patterns
+    r'\bнаркот\w*', r'\bгероин\w*', r'\bкокаин\w*', r'\bмарихуан\w*',
+    r'\bтравк\w*', r'\bдоп\w*', r'\bтаблетк\w*', r'\bпилюл\w*',
+    r'\bалкогол\w*', r'\bспирт\w*', r'\bвыпив\w*', r'\bпьян\w*',
+    r'\bсигарет\w*', r'\bкур\w*', r'\bзависим\w*', r'\bнакур\w*'
 ]
 
 CHILD_WORDS = [
+    # English patterns
     r'\bchild(ren)?\b', r'\bkid(s)?\b', r'\bson\b', r'\bdaughter\b',
-    r'\bteen(aged)?\b', r'\bboy\b', r'\bgirl\b', r'\bminor\b'
+    r'\bteen(aged)?\b', r'\bboy\b', r'\bgirl\b', r'\bminor\b',
+    # Russian patterns
+    r'\bребенок\b', r'\bребенк\w*', r'\bдет\w+', r'\bмалыш\w*',
+    r'\bсын\b', r'\bдоч\w*', r'\bподросток\w*', r'\bмальчик\w*',
+    r'\bдевочк\w*', r'\bнесовершеннолетн\w*'
 ]
 
 NUDITY_WORDS = [
+    # English patterns
     r'\bbra\b', r'\bpanty|panties\b', r'\bunderwear\b', r'\bnaked\b',
-    r'\bnude\b', r'\bundress\w*', r'\btopless\b'
+    r'\bnude\b', r'\bundress\w*', r'\btopless\b',
+    # Russian patterns
+    r'\bголый\b', r'\bголая\b', r'\bнаг\w*', r'\bобнаж\w*',
+    r'\bбюстгальтер\w*', r'\bтрус\w*', r'\bбелье\b',
+    r'\bраздева\w*', r'\bбез одежд\w*'
 ]
 
 SEX_WORDS = [
+    # English patterns
     r'\brape\b', r'\bsexual\b', r'\bintercourse\b', r'\bsex scene\b',
     r'\bmolest\b', r'\borgasm\b', r'\bmake love\b', r'\bhaving sex\b',
-    r'\bsexually\b', r'\bbed\s+scene\b'
+    r'\bsexually\b', r'\bbed\s+scene\b',
+    # Russian patterns
+    r'\bизнасилов\w*', r'\bнасилов\w*', r'\bсексуальн\w*',
+    r'\bполов\w+\s+акт\w*', r'\bинтимн\w*', r'\bоргазм\w*',
+    r'\bзанимаются\s+сексом\b', r'\bзанимались\s+любовью\b',
+    r'\bпостельн\w+\s+сцен\w*'
 ]
 
 # ===== INITIALIZATION =====
@@ -582,18 +684,55 @@ def parse_script_to_scenes(txt: str) -> List[Dict[str, Any]]:
     return scenes
 
 
+def extract_text_from_pdf(pdf_path: str) -> str:
+    """
+    Извлекает текст из PDF файла.
+
+    Args:
+        pdf_path: Путь к PDF файлу
+
+    Returns:
+        Текст из PDF файла
+    """
+    if not PDF_SUPPORT:
+        raise ImportError("PyPDF2 не установлен. Установите с помощью: pip install PyPDF2")
+
+    text = []
+    try:
+        with open(pdf_path, 'rb') as file:
+            pdf_reader = PyPDF2.PdfReader(file)
+            print(f"Обработка PDF: {len(pdf_reader.pages)} страниц")
+
+            for page_num, page in enumerate(pdf_reader.pages):
+                page_text = page.extract_text()
+                if page_text:
+                    text.append(page_text)
+
+        return '\n'.join(text)
+    except Exception as e:
+        print(f"Ошибка при чтении PDF: {e}")
+        raise
+
+
 def analyze_script_file(path: str) -> Dict[str, Any]:
     """
     Анализирует файл сценария и возвращает возрастной рейтинг с обоснованием.
+    Поддерживает текстовые файлы (.txt) и PDF (.pdf).
 
     Args:
-        path: Путь к текстовому файлу сценария
+        path: Путь к файлу сценария (.txt или .pdf)
 
     Returns:
         Словарь с рейтингом, причинами и примерами из текста
     """
-    # Читаем файл
-    txt = Path(path).read_text(encoding='utf-8', errors='ignore')
+    # Определяем тип файла и читаем
+    file_path = Path(path)
+    if file_path.suffix.lower() == '.pdf':
+        print(f"Обнаружен PDF файл: {file_path.name}")
+        txt = extract_text_from_pdf(str(file_path))
+    else:
+        # Читаем текстовый файл
+        txt = file_path.read_text(encoding='utf-8', errors='ignore')
 
     # Разбиваем на сцены
     scenes = parse_script_to_scenes(txt)
