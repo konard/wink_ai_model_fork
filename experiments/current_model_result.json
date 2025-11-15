@@ -1,0 +1,97 @@
+{
+  "file": "Spider Man 2_0316654_anno.txt",
+  "predicted_rating": "12+",
+  "reasons": [
+    "умеренное насилие и угрозы"
+  ],
+  "evidence_excerpts": [
+    "text: curls into a ball and hits the rubber band dead center.\nspeaker_heading: peter (v.o.) (cont'd)\ndi"
+  ],
+  "aggregated_scores": {
+    "violence": 0.485,
+    "gore": 0.0,
+    "sex_act": 0.0,
+    "nudity": 0.0,
+    "profanity": 0.0,
+    "drugs": 0.0,
+    "child_risk": 0.0
+  },
+  "top_trigger_scenes": [
+    {
+      "scene_id": 160,
+      "heading": "scene_160",
+      "sample_text": "scene_heading: PRESENT MOMENT - AVENUE - NIGHT text: He looks around at the smoldering wreckage around him. Then text: at the pliers. This is going to hurt. text: He JABS the knife directly into his hip. Digs around. The text: worst SPLORCH imaginable results. His eyes roll back in his text: head. H...",
+      "weight": 1.3,
+      "scores": {
+        "violence": 1.0,
+        "gore": 1.0,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.0,
+        "drugs": 0.0,
+        "child_risk": 0.0
+      }
+    },
+    {
+      "scene_id": 161,
+      "heading": "EXT. AVENUE - NIGHT",
+      "sample_text": "EXT. AVENUE - NIGHT text: Peter rides past LOOTERS, smashing store windows. A LOOTER text: holds up the television he has snatched. speaker_heading: LOOTER dialog: Hey, look here, I got me my eight- dialog: armed discount. text: Peter slows, watching, frowning. speaker_heading: LOOTER (CONT'D) dialo...",
+      "weight": 1.046,
+      "scores": {
+        "violence": 1.0,
+        "gore": 0.68,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.0,
+        "drugs": 0.0,
+        "child_risk": 0.0
+      }
+    },
+    {
+      "scene_id": 180,
+      "heading": "EXT. NEW YORK STREET — NIGHT",
+      "sample_text": "EXT. NEW YORK STREET — NIGHT text: The sky glows orange; flashing sirens. Spider-Man takes off text: into the night. MJ leans out of the balcony as he sails away dialog: to be who he is. speaker_heading: MJ dialog: You forgot your camera! text: Spider-Man swings around a corner and straight through ...",
+      "weight": 0.898,
+      "scores": {
+        "violence": 0.47,
+        "gore": 0.47,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.47,
+        "drugs": 0.0,
+        "child_risk": 0.2
+      }
+    },
+    {
+      "scene_id": 55,
+      "heading": "EXT. KOREAN GROCERY - DAY",
+      "sample_text": "EXT. KOREAN GROCERY - DAY dialog: 36. text: A THUG runs out with a sackful of money. Stuffs his gun into text: his waistband. text: A jet of webbing catches his left arm and pins it to the text: wall. Another catches his right arm, then THWIP-THWIP each of text: his legs at the ankle. He's pinned an...",
+      "weight": 0.874,
+      "scores": {
+        "violence": 1.0,
+        "gore": 0.47,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.0,
+        "drugs": 0.0,
+        "child_risk": 0.0
+      }
+    },
+    {
+      "scene_id": 155,
+      "heading": "EXT. MJ'S NEIGHBORHOOD - NIGHT",
+      "sample_text": "EXT. MJ'S NEIGHBORHOOD - NIGHT text: In flames. Police and rescue crews. Peter comes running up text: toward the street where she lives. It's cordoned off. A text: POLICEMAN stops him. speaker_heading: POLICEMAN dialog: That's as far as you can go, buddy. text: Peter steps back, horrified by the des...",
+      "weight": 0.849,
+      "scores": {
+        "violence": 0.0,
+        "gore": 0.6,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.3,
+        "drugs": 0.0,
+        "child_risk": 0.4
+      }
+    }
+  ],
+  "total_scenes": 181
+}
