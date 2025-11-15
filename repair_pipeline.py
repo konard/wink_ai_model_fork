@@ -252,6 +252,7 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
     """
     # Фразы-исключения, которые не считаются за реальное насилие/контент
     FALSE_POSITIVES = [
+        # English patterns
         r'if (it|that|this) kills',
         r'(it|that|this)\'ll kill',
         r'(it|that|this) (will|would) kill',
@@ -286,6 +287,16 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
         r'pool table',  # "shot" in pool context
         r'bank shot',  # Pool/basketball
         r'\ba beat\b',  # Screenplay term for pause
+        # Russian patterns
+        r'в курсе',  # "в курсе" = "aware of/know about" (not drugs)
+        r'курток',  # "куртка" = "jacket" (not smoking)
+        r'куртк\w',  # "куртка" variations
+        r'обритый наголо',  # "обритый наголо" = "shaved bald" (not nudity)
+        r'наголо',  # "наголо" = "bald/clean-shaven" (when not about nudity)
+        r'таблетк\w+\s+(от|для|против)',  # "таблетки от/для" = medicine pills (not drugs)
+        r'болеутол\w+',  # "болеутоляющее" = painkiller (medicine, not drugs)
+        r'кроват\w*',  # "кровать/кровати" = "bed" (not blood/gore)
+        r'кров[ао]\w*',  # "крова/кровом" = "shelter/roof" (not blood)
     ]
 
     false_positive_patterns = [re.compile(p, re.I) for p in FALSE_POSITIVES]
@@ -466,6 +477,7 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
             'violence': features['violence_excerpts'],
             'gore': features['gore_excerpts'],
             'sex': features['sex_excerpts'],
+            'nudity': features['nudity_excerpts'],  # Добавлены примеры наготы
             'profanity': features['profanity_excerpts'],
             'drugs': features['drugs_excerpts']
         }
@@ -616,6 +628,8 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
         reasons.append("сексуальный контент и нагота")
         if agg['excerpts']['sex']:
             excerpts.extend(agg['excerpts']['sex'][:2])
+        if agg['excerpts']['nudity']:
+            excerpts.extend(agg['excerpts']['nudity'][:2])
 
     # 12+ - умеренный контент
     elif agg['violence'] >= 0.4 or agg['profanity'] >= 0.5 or agg['drugs'] >= 0.4:
@@ -653,10 +667,12 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
 def parse_script_to_scenes(txt: str) -> List[Dict[str, Any]]:
     """
     Разбивает сценарий на отдельные сцены.
+    Поддерживает как английские (INT./EXT.), так и русские (ИНТ./ЭКСТ.) маркеры сцен.
     """
     scenes = []
+    # Добавлена поддержка русских маркеров сцен (ИНТ./ЭКСТ.)
     parts = re.split(
-        r'(?=(?:INT\.|EXT\.|scene_heading\s*:|SCENE HEADING\s*:))',
+        r'(?=(?:INT\.|EXT\.|ИНТ\.|ЭКСТ\.|scene_heading\s*:|SCENE HEADING\s*:))',
         txt,
         flags=re.I
     )
@@ -667,7 +683,8 @@ def parse_script_to_scenes(txt: str) -> List[Dict[str, Any]]:
         if not text or len(text) < 20:  # Пропускаем очень короткие фрагменты
             continue
 
-        heading_match = re.match(r'((?:INT\.|EXT\.).{0,120})', text, flags=re.I)
+        # Поддержка русских и английских маркеров сцен
+        heading_match = re.match(r'((?:INT\.|EXT\.|ИНТ\.|ЭКСТ\.).{0,120})', text, flags=re.I)
         heading = heading_match.group(1).strip() if heading_match else f"scene_{idx}"
 
         scenes.append({
@@ -779,6 +796,7 @@ def analyze_script_file(path: str) -> Dict[str, Any]:
         'violence': [],
         'gore': [],
         'sex': [],
+        'nudity': [],  # Добавлены примеры наготы
         'profanity': [],
         'drugs': []
     }
