@@ -1,0 +1,117 @@
+{
+  "file": "Spider Man 2_0316654_anno.txt",
+  "predicted_rating": "16+",
+  "reasons": [
+    "интенсивное графическое насилие с кровью и увечьями"
+  ],
+  "evidence_excerpts": [
+    "text: curls into a ball and hits the rubber band dead center.\nspeaker_heading: peter (v.o.) (cont'd)\ndi",
+    "what if--all right, what if i did\ndialog: have a shot of spider-man?\ntext: peter reaches into his knaps",
+    "ext: networked to the central unit in\ndialog: her brain.\ntext: the display fades to a diagram of the rig,"
+  ],
+  "aggregated_scores": {
+    "violence": 1.0,
+    "gore": 0.86,
+    "sex_act": 0.0,
+    "nudity": 0.283,
+    "profanity": 0.126,
+    "drugs": 0.0,
+    "child_risk": 0.425
+  },
+  "top_trigger_scenes": [
+    {
+      "scene_id": 160,
+      "heading": "scene_160",
+      "sample_text": "scene_heading: PRESENT MOMENT - AVENUE - NIGHT text: He looks around at the smoldering wreckage around him. Then text: at the pliers. This is going to hurt. text: He JABS the knife directly into his hip. Digs around. The text: worst SPLORCH imaginable results. His eyes roll back in his text: head. H...",
+      "weight": 1.3,
+      "scores": {
+        "violence": 1.0,
+        "gore": 1.0,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.0,
+        "drugs": 0.0,
+        "child_risk": 0.0
+      },
+      "recommendations": [
+        "🔪 Насилие (высокое): Уменьшите графическое изображение насилия. Рекомендации: показать сцену за кадром, использовать обрезку кадра, заменить явное насилие на подразумеваемое действие.",
+        "🩸 Кровь/увечья (высокое): Уберите графическое изображение крови и ран. Рекомендации: не показывать раны крупным планом, убрать описания 'blood', 'guts', 'SPLORCH', заменить на более нейтральные формулировки типа 'ранен', 'пострадал'."
+      ]
+    },
+    {
+      "scene_id": 55,
+      "heading": "EXT. KOREAN GROCERY - DAY",
+      "sample_text": "EXT. KOREAN GROCERY - DAY dialog: 36. text: A THUG runs out with a sackful of money. Stuffs his gun into text: his waistband. text: A jet of webbing catches his left arm and pins it to the text: wall. Another catches his right arm, then THWIP-THWIP each of text: his legs at the ankle. He's pinned an...",
+      "weight": 0.874,
+      "scores": {
+        "violence": 1.0,
+        "gore": 0.47,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.0,
+        "drugs": 0.0,
+        "child_risk": 0.0
+      },
+      "recommendations": [
+        "🔪 Насилие (высокое): Уменьшите графическое изображение насилия. Рекомендации: показать сцену за кадром, использовать обрезку кадра, заменить явное насилие на подразумеваемое действие.",
+        "💉 Кровь/увечья (умеренное): Смягчите описание телесных повреждений. Рекомендации: уменьшить количество упоминаний крови."
+      ]
+    },
+    {
+      "scene_id": 155,
+      "heading": "EXT. MJ'S NEIGHBORHOOD - NIGHT",
+      "sample_text": "EXT. MJ'S NEIGHBORHOOD - NIGHT text: In flames. Police and rescue crews. Peter comes running up text: toward the street where she lives. It's cordoned off. A text: POLICEMAN stops him. speaker_heading: POLICEMAN dialog: That's as far as you can go, buddy. text: Peter steps back, horrified by the des...",
+      "weight": 0.849,
+      "scores": {
+        "violence": 0.0,
+        "gore": 0.6,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.3,
+        "drugs": 0.0,
+        "child_risk": 0.4
+      },
+      "recommendations": [
+        "💉 Кровь/увечья (умеренное): Смягчите описание телесных повреждений. Рекомендации: уменьшить количество упоминаний крови."
+      ]
+    },
+    {
+      "scene_id": 65,
+      "heading": "scene_65",
+      "sample_text": "scene_heading: DR. CHOMSKY dialog: What are they about? dialog: 41. speaker_heading: HARRY dialog: I didn't think you guys handled dialog: dreams anymore. I thought that dialog: dreams were just brain garbage....",
+      "weight": 0.8,
+      "scores": {
+        "violence": 0.0,
+        "gore": 1.0,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.0,
+        "drugs": 0.0,
+        "child_risk": 0.0
+      },
+      "recommendations": [
+        "🩸 Кровь/увечья (высокое): Уберите графическое изображение крови и ран. Рекомендации: не показывать раны крупным планом, убрать описания 'blood', 'guts', 'SPLORCH', заменить на более нейтральные формулировки типа 'ранен', 'пострадал'."
+      ]
+    },
+    {
+      "scene_id": 100,
+      "heading": "EXT. FAR BROOKLYN - VACANT LOT - DAWN",
+      "sample_text": "EXT. FAR BROOKLYN - VACANT LOT - DAWN text: Still dark. Peter carries the suitcase down a deserted text: street and then out into a swampy waste. In the distance, text: HOMELESS MEN around a burning steel drum. Here, a steel drum text: standing alone. text: The suitcase CLANGS against the inside of ...",
+      "weight": 0.788,
+      "scores": {
+        "violence": 0.61,
+        "gore": 0.61,
+        "sex_act": 0,
+        "nudity": 0.0,
+        "profanity": 0.0,
+        "drugs": 0.0,
+        "child_risk": 0.0
+      },
+      "recommendations": [
+        "⚔️ Насилие (умеренное): Сократите детализацию сцен драки/конфликта. Рекомендации: убрать крупные планы ударов, сократить длительность сцены.",
+        "🩸 Кровь/увечья (высокое): Уберите графическое изображение крови и ран. Рекомендации: не показывать раны крупным планом, убрать описания 'blood', 'guts', 'SPLORCH', заменить на более нейтральные формулировки типа 'ранен', 'пострадал'."
+      ]
+    }
+  ],
+  "total_scenes": 181
+}
