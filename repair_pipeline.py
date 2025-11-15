@@ -73,6 +73,18 @@ CONTEXT_TEMPLATES = {
         "tense dramatic confrontation",
         "mystery investigation without violence",
         "courtroom drama legal arguments"
+    ],
+    'medical_violence': [
+        "self-inflicted injury with medical details",
+        "surgical procedure with graphic details",
+        "injection scene with blood",
+        "character performs emergency medical procedure on self"
+    ],
+    'kidnapping_violence': [
+        "character kidnapped or abducted",
+        "hostage situation with threats",
+        "person forcibly taken against will",
+        "abduction scene with struggle"
     ]
 }
 
@@ -86,14 +98,25 @@ VIOLENCE_WORDS = [
     r'\bterrorist\b', r'\bhostage\b', r'\brip(ped|s)? apart\b',
     r'\bthug(s)?\b', r'\bterror\b', r'\bfight(ing)?\b',
     r'\bbattle(s|d)?\b', r'\bwar\b', r'\bshoot[- ]?out\b',
-    r'\bexplosion\b', r'\bgrenade\b'
+    r'\bexplosion\b', r'\bgrenade\b',
+    # Medical/self-inflicted violence
+    r'\bjab\w*', r'\bpliers\b', r'\binjection\b', r'\binject\w*',
+    # Kidnapping and psychological violence
+    r'\bkidnap\w*', r'\babduct\w*', r'\bcapture\w*', r'\bseize\w*',
+    r'\bgrab(bed|s|bing)?\b.*\b(person|woman|man|girl|boy)\b',
+    r'\bsnatch\w*', r'\bdrag(ged|ging|s)?\b',
+    # Mob/crowd violence
+    r'\bmob\b', r'\blooter(s)?\b', r'\briots?\b', r'\bcrowd.*attack'
 ]
 
 GORE_WORDS = [
     r'\bblood\b', r'\bbloody\b', r'\bbloodied\b', r'\bbleeding\b',
     r'\bcorpse\b', r'\bwound\b', r'\bscar\b', r'\binjur\w*',
     r'\bcrash\w*', r'\bburn\w*', r'\bguts\b', r'\bentrails\b',
-    r'\bbrain\b', r'\bdead body\b', r'\bgore\b', r'\bmutilat\w*'
+    r'\bbrain\b', r'\bdead body\b', r'\bgore\b', r'\bmutilat\w*',
+    # Graphic medical/violence descriptions
+    r'\bsplorch\b', r'\bdig(s|ging)? around\b', r'\beyes roll back\b',
+    r'\bchip.*bloody\b', r'\bblood.*chip\b'
 ]
 
 PROFANITY = [
@@ -305,9 +328,10 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
         gore_multiplier *= 0.3
 
     # Если сцена больше похожа на стилизованный экшн, снижаем оценку насилия
+    # НО не слишком сильно - супергеройские фильмы могут содержать реальное насилие
     elif ctx['stylized_action'] > 0.5:
-        violence_multiplier *= 0.6
-        gore_multiplier *= 0.7
+        violence_multiplier *= 0.8  # Было 0.6, стало 0.8 - меньше снижаем
+        gore_multiplier *= 0.85  # Было 0.7, стало 0.85 - меньше снижаем
 
     # Если сцена похожа на графическое насилие, увеличиваем оценку
     if ctx['graphic_violence'] > 0.6:
@@ -318,6 +342,15 @@ def normalize_and_contextualize_scores(features: Dict[str, Any]) -> Dict[str, An
     if ctx['horror_violence'] > 0.55:
         violence_multiplier *= 1.2
         gore_multiplier *= 1.3
+
+    # Если сцена содержит медицинское насилие (самоповреждение с деталями)
+    if ctx.get('medical_violence', 0) > 0.5:
+        violence_multiplier *= 1.3
+        gore_multiplier *= 1.4
+
+    # Если сцена содержит похищение/психологическое насилие
+    if ctx.get('kidnapping_violence', 0) > 0.5:
+        violence_multiplier *= 1.2
 
     violence_score = min(1.0, violence_raw * violence_multiplier)
     gore_score = min(1.0, gore_raw * gore_multiplier)
@@ -418,12 +451,18 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
             excerpts.extend(agg['excerpts']['sex'][:2])
 
     # 12+ - умеренный контент
-    elif agg['violence'] >= 0.4 or agg['profanity'] >= 0.5 or agg['drugs'] >= 0.4:
+    # Снижен порог для насилия с 0.4 до 0.25, чтобы лучше учитывать
+    # сцены с супергероями, медицинским насилием и похищениями
+    elif agg['violence'] >= 0.25 or agg['gore'] >= 0.2 or agg['profanity'] >= 0.5 or agg['drugs'] >= 0.4:
         rating = '12+'
-        if agg['violence'] >= 0.4:
+        if agg['violence'] >= 0.25:
             reasons.append("умеренное насилие и угрозы")
             if agg['excerpts']['violence']:
                 excerpts.extend(agg['excerpts']['violence'][:1])
+        if agg['gore'] >= 0.2:
+            reasons.append("сцены с кровью и телесными повреждениями")
+            if agg['excerpts']['gore']:
+                excerpts.extend(agg['excerpts']['gore'][:1])
         if agg['profanity'] >= 0.5:
             reasons.append("ненормативная лексика")
             if agg['excerpts']['profanity']:
@@ -434,7 +473,7 @@ def map_scores_to_rating(agg: Dict[str, Any]) -> Dict[str, Any]:
                 excerpts.extend(agg['excerpts']['drugs'][:1])
 
     # 6+ - минимальный контент
-    elif agg['violence'] >= 0.2 or agg['profanity'] >= 0.3:
+    elif agg['violence'] >= 0.15 or agg['profanity'] >= 0.3:
         rating = '6+'
         reasons.append("незначительное насилие или редкая грубая лексика")
 
