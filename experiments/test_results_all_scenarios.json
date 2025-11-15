@@ -2,7 +2,7 @@
   {
     "file": "/tmp/gh-issue-solver-1763220446924/12 Angry Men_0118528_anno.txt",
     "status": "success",
-    "duration": 12.791127,
+    "duration": 12.253516,
     "result": {
       "file": "12 Angry Men_0118528_anno.txt",
       "predicted_rating": "16+",
@@ -126,7 +126,7 @@
   {
     "file": "/tmp/gh-issue-solver-1763220446924/ATM_1603257_anno.txt",
     "status": "success",
-    "duration": 10.527288,
+    "duration": 6.51631,
     "result": {
       "file": "ATM_1603257_anno.txt",
       "predicted_rating": "18+",
@@ -250,7 +250,7 @@
   {
     "file": "/tmp/gh-issue-solver-1763220446924/American History X_0120586_anno.txt",
     "status": "success",
-    "duration": 21.270689,
+    "duration": 10.280321,
     "result": {
       "file": "American History X_0120586_anno.txt",
       "predicted_rating": "18+",
@@ -376,7 +376,7 @@
   {
     "file": "/tmp/gh-issue-solver-1763220446924/Spider Man 2_0316654_anno.txt",
     "status": "success",
-    "duration": 15.369269,
+    "duration": 12.242783,
     "result": {
       "file": "Spider Man 2_0316654_anno.txt",
       "predicted_rating": "16+",
@@ -390,7 +390,7 @@
       ],
       "aggregated_scores": {
         "violence": 1.0,
-        "gore": 0.86,
+        "gore": 0.851,
         "sex_act": 0.0,
         "nudity": 0.283,
         "profanity": 0.126,
@@ -455,24 +455,6 @@
           ]
         },
         {
-          "scene_id": 65,
-          "heading": "scene_65",
-          "sample_text": "scene_heading: DR. CHOMSKY dialog: What are they about? dialog: 41. speaker_heading: HARRY dialog: I didn't think you guys handled dialog: dreams anymore. I thought that dialog: dreams were just brain garbage....",
-          "weight": 0.8,
-          "scores": {
-            "violence": 0.0,
-            "gore": 1.0,
-            "sex_act": 0,
-            "nudity": 0.0,
-            "profanity": 0.0,
-            "drugs": 0.0,
-            "child_risk": 0.0
-          },
-          "recommendations": [
-            "🩸 Кровь/увечья (высокое): Уберите графическое изображение крови и ран. Рекомендации: не показывать раны крупным планом, убрать описания 'blood', 'guts', 'SPLORCH', заменить на более нейтральные формулировки типа 'ранен', 'пострадал'."
-          ]
-        },
-        {
           "scene_id": 100,
           "heading": "EXT. FAR BROOKLYN - VACANT LOT - DAWN",
           "sample_text": "EXT. FAR BROOKLYN - VACANT LOT - DAWN text: Still dark. Peter carries the suitcase down a deserted text: street and then out into a swampy waste. In the distance, text: HOMELESS MEN around a burning steel drum. Here, a steel drum text: standing alone. text: The suitcase CLANGS against the inside of ...",
@@ -490,6 +472,25 @@
             "⚔️ Насилие (умеренное): Сократите детализацию сцен драки/конфликта. Рекомендации: убрать крупные планы ударов, сократить длительность сцены.",
             "🩸 Кровь/увечья (высокое): Уберите графическое изображение крови и ран. Рекомендации: не показывать раны крупным планом, убрать описания 'blood', 'guts', 'SPLORCH', заменить на более нейтральные формулировки типа 'ранен', 'пострадал'."
           ]
+        },
+        {
+          "scene_id": 36,
+          "heading": "EXT. NINTH AVENUE - NIGHT",
+          "sample_text": "EXT. NINTH AVENUE - NIGHT text: Spider-Man, swings back toward the theater. Spider sense text: TINGLES. His head snaps left. text: Atop a building nearby, the flash of a sniper's rifle. The text: next instant a shot rings out. A bullet snips the dragline text: neatly in two. It goes slack and Spider...",
+          "weight": 0.681,
+          "scores": {
+            "violence": 0.66,
+            "gore": 0.0,
+            "sex_act": 0,
+            "nudity": 0.0,
+            "profanity": 0.0,
+            "drugs": 0.0,
+            "child_risk": 0.5
+          },
+          "recommendations": [
+            "⚔️ Насилие (умеренное): Сократите детализацию сцен драки/конфликта. Рекомендации: убрать крупные планы ударов, сократить длительность сцены.",
+            "👶 Дети в опасности: Критически важно! Уберите сцены с угрозой детям. Рекомендации: заменить детей на взрослых персонажей, убрать сцену полностью, или показать, что дети в безопасности."
+          ]
         }
       ],
       "total_scenes": 181
@@ -498,45 +499,27 @@
   {
     "file": "/tmp/gh-issue-solver-1763220446924/Superman_0078346_anno.txt",
     "status": "success",
-    "duration": 11.817051,
+    "duration": 10.246,
     "result": {
       "file": "Superman_0078346_anno.txt",
-      "predicted_rating": "18+",
+      "predicted_rating": "16+",
       "reasons": [
-        "эксплицитные сцены сексуального характера"
+        "интенсивное насилие и сцены убийств"
       ],
       "evidence_excerpts": [
-        "rabs freddy away rather as if clark were about to molest him.\nspeaker_heading: two shot -- mother and fred"
+        "mal. a monstrous brute, his ugly face twists with violence. he does not speak but instead utters horrible an",
+        "he galaxy, explodes. the closest star breaks into shooting, fiery fragments.\ndialog: cut to\ndialog:"
       ],
       "aggregated_scores": {
         "violence": 1.0,
-        "gore": 0.767,
-        "sex_act": 0.85,
+        "gore": 0.454,
+        "sex_act": 0.0,
         "nudity": 0.283,
         "profanity": 0.0,
         "drugs": 0.0,
         "child_risk": 0.485
       },
       "top_trigger_scenes": [
-        {
-          "scene_id": 44,
-          "heading": "EXT. LOOKOUT POINT, NIAGARA FALLS - DAY",
-          "sample_text": "EXT. LOOKOUT POINT, NIAGARA FALLS - DAY dialog: We are ON a small boy romping rather abandondly near a guardrail of iron bars as we HEAR: dialog: MOTHER (O.S.) (impatiently) Freddy! Watch out! text: As she appears and grabs him none too gently, PULL BACK TO SEE that we are AT the great Horseshoe Fal...",
-          "weight": 1.43,
-          "scores": {
-            "violence": 0.28,
-            "gore": 0.0,
-            "sex_act": 1.0,
-            "nudity": 0.0,
-            "profanity": 0.14,
-            "drugs": 0.0,
-            "child_risk": 0.5
-          },
-          "recommendations": [
-            "🔞 Сексуальный контент (эксплицитный): Удалите или смягчите явные сексуальные сцены. Рекомендации: использовать монтаж с переходом, показать начало и конец без деталей.",
-            "👶 Дети в опасности: Критически важно! Уберите сцены с угрозой детям. Рекомендации: заменить детей на взрослых персонажей, убрать сцену полностью, или показать, что дети в безопасности."
-          ]
-        },
         {
           "scene_id": 114,
           "heading": "EXT. CITY STREET, METROPOLIS NIGHT",
@@ -598,13 +581,13 @@
           ]
         },
         {
-          "scene_id": 124,
-          "heading": "INT. FORTRESS OF SOLITUDE. - NIGHT As they race in, each looking around wildly for their prey, smelling blood. Behind them,",
-          "sample_text": "INT. FORTRESS OF SOLITUDE. - NIGHT As they race in, each looking around wildly for their prey, smelling blood. Behind them, Luthor trots in. dialog: WIDE: But. . . the enormous interior seems to be empty. No sign of Superman. dialog: ZOD Show yourself, coward! Son of a coward! dialog: CUT TO speaker...",
-          "weight": 0.94,
+          "scene_id": 112,
+          "heading": "INT. LUTHOR'S HALL",
+          "sample_text": "INT. LUTHOR'S HALL text: Waving the sword \"wildly, but with some menace, he is backing Clark-Superman towards the alligator tank. Feinting, ducking, Superman climbs the ladder. Luthor in pursuit. dialog: LUTHOR (doing all the moves) Thrust! Parry! bullseye! dialog: And he hurls the sword right at Cl...",
+          "weight": 0.919,
           "scores": {
-            "violence": 0.0,
-            "gore": 1.0,
+            "violence": 1.0,
+            "gore": 0.35,
             "sex_act": 0,
             "nudity": 0.0,
             "profanity": 0.0,
@@ -612,7 +595,27 @@
             "child_risk": 0.2
           },
           "recommendations": [
-            "🩸 Кровь/увечья (высокое): Уберите графическое изображение крови и ран. Рекомендации: не показывать раны крупным планом, убрать описания 'blood', 'guts', 'SPLORCH', заменить на более нейтральные формулировки типа 'ранен', 'пострадал'."
+            "🔪 Насилие (высокое): Уменьшите графическое изображение насилия. Рекомендации: показать сцену за кадром, использовать обрезку кадра, заменить явное насилие на подразумеваемое действие.",
+            "💉 Кровь/увечья (умеренное): Смягчите описание телесных повреждений. Рекомендации: уменьшить количество упоминаний крови."
+          ]
+        },
+        {
+          "scene_id": 46,
+          "heading": "EXT. LOOKOUT POINT, NIAGARA FALLS - DAY",
+          "sample_text": "EXT. LOOKOUT POINT, NIAGARA FALLS - DAY text: TWO SHOT -- Freddy again, dangling through the bars, doing bits for the benefit of Lois who watches him with dismay. She is unwilling to alert Mama, who will only wallop him again, but very nervous about the show she is getting. A high kick or two and a ...",
+          "weight": 0.743,
+          "scores": {
+            "violence": 0.79,
+            "gore": 0.0,
+            "sex_act": 0,
+            "nudity": 0.0,
+            "profanity": 0.0,
+            "drugs": 0.0,
+            "child_risk": 0.5
+          },
+          "recommendations": [
+            "🔪 Насилие (высокое): Уменьшите графическое изображение насилия. Рекомендации: показать сцену за кадром, использовать обрезку кадра, заменить явное насилие на подразумеваемое действие.",
+            "👶 Дети в опасности: Критически важно! Уберите сцены с угрозой детям. Рекомендации: заменить детей на взрослых персонажей, убрать сцену полностью, или показать, что дети в безопасности."
           ]
         }
       ],
@@ -622,7 +625,7 @@
   {
     "file": "/tmp/gh-issue-solver-1763220446924/DG_Topi_seria_1.pdf",
     "status": "success",
-    "duration": 12.348793,
+    "duration": 6.835296,
     "result": {
       "file": "DG_Topi_seria_1.pdf",
       "predicted_rating": "16+",
@@ -745,7 +748,7 @@
   {
     "file": "/tmp/gh-issue-solver-1763220446924/ПРОСТОКВАШИНО_Дело_о_пропавшей_лопате_для_читки.pdf",
     "status": "success",
-    "duration": 0.838629,
+    "duration": 0.750919,
     "result": {
       "file": "ПРОСТОКВАШИНО_Дело_о_пропавшей_лопате_для_читки.pdf",
       "predicted_rating": "0+",

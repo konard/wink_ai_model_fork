@@ -293,6 +293,8 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
         r'would.*\b(molest|rape|seduce)',  # Hypothetical
         r'brain (garbage|dump|drain|power|wave|dead|cell|teaser)',  # Metaphorical/non-gore brain usage
         r'brain(s)? (are|is) (just|garbage|trash)',  # "brains are just garbage"
+        r'smell(ing|s)? blood',  # Metaphorical tracking/hunting (fantasy/action context)
+        r'(your|their|our) blood (will|shall) (run|flow)',  # Threats/dialogue, not depictions
         # Russian patterns
         r'в курсе',  # "в курсе" = "aware of/know about" (not drugs)
         r'курток',  # "куртка" = "jacket" (not smoking)
