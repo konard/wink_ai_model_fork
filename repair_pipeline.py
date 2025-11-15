@@ -287,6 +287,12 @@ def count_pattern_matches(patterns: List[str], text: str) -> Tuple[int, List[str
         r'pool table',  # "shot" in pool context
         r'bank shot',  # Pool/basketball
         r'\ba beat\b',  # Screenplay term for pause
+        r'as if.*\b(molest|rape|seduce|fondle)',  # Hypothetical/comparative (not actual content)
+        r'about to.*\b(molest|rape|seduce|fondle)',  # Prevented/hypothetical action
+        r'were to.*\b(molest|rape|seduce)',  # Conditional/hypothetical
+        r'would.*\b(molest|rape|seduce)',  # Hypothetical
+        r'brain (garbage|dump|drain|power|wave|dead|cell|teaser)',  # Metaphorical/non-gore brain usage
+        r'brain(s)? (are|is) (just|garbage|trash)',  # "brains are just garbage"
         # Russian patterns
         r'в курсе',  # "в курсе" = "aware of/know about" (not drugs)
         r'курток',  # "куртка" = "jacket" (not smoking)
